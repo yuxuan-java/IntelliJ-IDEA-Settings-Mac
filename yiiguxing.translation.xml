@@ -1,0 +1,27 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="配置映射文件目录" />
+      <item value="destroy Method" />
+      <item value="an.setConfigLocation(resolver.getResource(&quot;classpath:mybatis.xml&quot;)); bean.setMapperLocations(resolver.getResources(&quot;classpath*:*Mapper.xml&quot;)); return bean.getObject(); } catch (Exception e) { throw new IllegalStateException(e); } } @Bean(initMethod=&quot;init&quot;, destroyMethod=&quot;close&quot;) public DruidDataSource dataSource(){ DruidDataSource datasource = new DruidDataSource(); datasource.setDriverClassName(&quot;com.mysql.jdbc.Driver&quot;); datasource.setUrl(url); datasource.setUsername(username); datasource.setPassword(password); datasource.setInitialSize(initialSize); datasource.setMinIdle(minIdle); datasource.setMaxActive(maxActive); datasource.setMaxWait(maxWait); datasource.setTestOnBorrow(testOnBorrow); datasource.setValidationQuery(validationQuery); datasource.setConnectionInitSqls(connectionIni" />
+      <item value="set Driver Class Name" />
+      <item value="index Window Pop" />
+      <item value="Get Saler Req" />
+      <item value="MESSAGE" />
+      <item value="check User Type return" />
+      <item value="App User Login Cache" />
+      <item value="parameter" />
+      <item value="has Invite Code" />
+      <item value="verification Mobile" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="14" />
+        <entry key="ENGLISH" value="14" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
+  </component>
+</application>
