@@ -64,6 +64,9 @@
     <keyboard-shortcut first-keystroke="ctrl b" />
     <keyboard-shortcut first-keystroke="meta b" />
   </action>
+  <action id="Console.Oracle.DbmsOutput">
+    <keyboard-shortcut first-keystroke="ctrl f8" />
+  </action>
   <action id="Console.TableResult.EditValueMaximized" />
   <action id="ConsoleView.ClearAll">
     <keyboard-shortcut first-keystroke="ctrl d" />
@@ -114,7 +117,7 @@
     <keyboard-shortcut first-keystroke="meta help" />
   </action>
   <action id="Git.Branches">
-    <keyboard-shortcut first-keystroke="shift ctrl h" />
+    <keyboard-shortcut first-keystroke="shift ctrl b" />
   </action>
   <action id="Git.Commit.And.Push.Executor">
     <keyboard-shortcut first-keystroke="ctrl alt k" />
@@ -177,7 +180,13 @@
   <action id="SurroundWith">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
+  <action id="ToggleLineBreakpoint">
+    <keyboard-shortcut first-keystroke="ctrl f8" />
+  </action>
   <action id="Vcs.RollbackChangedLines" />
+  <action id="Vcs.ShowTabbedFileHistory">
+    <keyboard-shortcut first-keystroke="shift ctrl h" />
+  </action>
   <action id="hg4idea.pull">
     <keyboard-shortcut first-keystroke="shift ctrl l" />
   </action>
