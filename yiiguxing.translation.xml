@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="example" />
+      <item value="Window Pop" />
+      <item value="internship Saler Facade" />
       <item value="progress" />
       <item value="配置映射文件目录" />
       <item value="destroy Method" />
@@ -17,8 +20,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="14" />
-        <entry key="ENGLISH" value="14" />
+        <entry key="CHINESE" value="17" />
+        <entry key="ENGLISH" value="18" />
       </map>
     </option>
   </component>
