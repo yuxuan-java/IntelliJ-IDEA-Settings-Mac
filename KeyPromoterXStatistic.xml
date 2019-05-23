@@ -6,7 +6,7 @@
           <IdeaActionID>CloseAllEditors</IdeaActionID>
           <ShortCut>'⌃⌥W'</ShortCut>
           <Description>Close All</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit Directory...">
@@ -46,7 +46,7 @@
           <IdeaActionID>ActivateEventLogToolWindow</IdeaActionID>
           <ShortCut>'⇧⌘E'</ShortCut>
           <Description>Event Log</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -55,14 +55,6 @@
           <ShortCut>'⌃⇧F12'</ShortCut>
           <Description>Hide All Windows</Description>
           <Count>3</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Implementation(s)">
-        <Item>
-          <IdeaActionID>GotoImplementation</IdeaActionID>
-          <ShortCut>'⌥T'</ShortCut>
-          <Description>Implementation(s)</Description>
-          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="MyBatis Log Plugin">
@@ -119,6 +111,14 @@
         <Item>
           <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
           <Description>Database</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="Implementation(s)">
+        <Item>
+          <IdeaActionID>GotoImplementation</IdeaActionID>
+          <ShortCut>'⌥T'</ShortCut>
+          <Description>Implementation(s)</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
