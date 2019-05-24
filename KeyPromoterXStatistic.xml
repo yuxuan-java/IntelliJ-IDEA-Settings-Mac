@@ -110,7 +110,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌥1'</ShortCut>
           <Description>Project</Description>
-          <Count>10</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Push...">
