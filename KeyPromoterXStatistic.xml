@@ -17,6 +17,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Copy">
+        <Item>
+          <IdeaActionID>$Copy</IdeaActionID>
+          <ShortCut>'⌃C' or '⌘C'</ShortCut>
+          <Description>Copy</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Data Source Properties">
         <Item>
           <IdeaActionID>DatabaseView.PropertiesAction</IdeaActionID>
