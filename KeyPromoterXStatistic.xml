@@ -6,7 +6,7 @@
           <IdeaActionID>CloseAllEditors</IdeaActionID>
           <ShortCut>'⌃⌥W'</ShortCut>
           <Description>Close All</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close Others">
@@ -22,7 +22,7 @@
           <IdeaActionID>CheckinFiles</IdeaActionID>
           <ShortCut>'⌃⇧J'</ShortCut>
           <Description>Commit Directory...</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit File...">
