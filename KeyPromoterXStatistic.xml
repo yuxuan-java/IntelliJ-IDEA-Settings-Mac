@@ -102,7 +102,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⌃⇧F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Maven">
@@ -134,7 +134,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌥1'</ShortCut>
           <Description>Project</Description>
-          <Count>19</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Push...">
