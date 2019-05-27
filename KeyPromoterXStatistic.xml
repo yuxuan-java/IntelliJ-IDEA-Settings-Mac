@@ -6,7 +6,7 @@
           <IdeaActionID>CloseAllEditors</IdeaActionID>
           <ShortCut>'⌃⌥W'</ShortCut>
           <Description>Close All</Description>
-          <Count>6</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close Others">
@@ -22,7 +22,7 @@
           <IdeaActionID>CheckinFiles</IdeaActionID>
           <ShortCut>'⌃⇧J'</ShortCut>
           <Description>Commit Directory...</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit File...">
@@ -118,7 +118,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌥1'</ShortCut>
           <Description>Project</Description>
-          <Count>14</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Push...">
