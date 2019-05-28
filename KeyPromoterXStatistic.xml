@@ -113,6 +113,14 @@
           <Count>18</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'XiaotaoManageApplication'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌥⇧D'</ShortCut>
+          <Description>Debug 'XiaotaoManageApplication'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Delete...">
         <Item>
           <IdeaActionID>$Delete</IdeaActionID>
@@ -254,7 +262,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌃F2'</ShortCut>
           <Description>Stop 'XiaotaoManageApplication'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
