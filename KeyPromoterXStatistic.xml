@@ -158,7 +158,7 @@
           <IdeaActionID>ActivateEventLogToolWindow</IdeaActionID>
           <ShortCut>'⇧⌘E'</ShortCut>
           <Description>Event Log</Description>
-          <Count>46</Count>
+          <Count>48</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -174,7 +174,7 @@
           <IdeaActionID>ActivateMavenToolWindow</IdeaActionID>
           <ShortCut>'⌥M'</ShortCut>
           <Description>Maven</Description>
-          <Count>35</Count>
+          <Count>37</Count>
         </Item>
       </Statistic>
       <Statistic Action="MyBatis Log Plugin">
@@ -206,7 +206,7 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'⌃⌥⇧S'</ShortCut>
           <Description>Project Structure...</Description>
-          <Count>24</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Properties">
