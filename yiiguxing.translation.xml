@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="source Field Value" />
+      <item value="如果为null需要构造目标空对象" />
+      <item value="需要构造目标空对象" />
+      <item value="如果" />
+      <item value="destination Class" />
+      <item value="Initializing Spring embedded WebApplicationContext" />
+      <item value="Autowired Annotation Bean Post Processor" />
+      <item value="In the Dozer mapping file(s), you can add some XML to tell Dozer to use a custom converter for certain class A and * class B types. When a custom converter is specified for a class A and class B combination, Dozer will invoke the * custom converter to perform the data mapping instead of the standard mapping logic." />
+      <item value="Interface that gives an ability to receive mapper instance inside {@link org.dozer.CustomConverter}. * Dozer will inject mapper object before executing custom converter logic." />
       <item value="Data truncated" />
       <item value="Fixed the regression, so now the IDE saves the font settings on Linux: IDEA-206180. The &quot;Find in Path&quot; dialog now closes when opening a project in the same window: IDEA-204277. The IDE now saves the changes in the Environment variables field of the Run/Debug Configurations dialog: IDEA-208525. A new ability to move right/left on Navigation bar using additional shortcuts: IDEA-208718." />
       <item value="Fixed the regression, so now the IDE saves the font settings on Linux: IDEA-206180.&#10;The &quot;Find in Path&quot; dialog now closes when opening a project in the same window: IDEA-204277.&#10;The IDE now saves the changes in the Environment variables field of the Run/Debug Configurations dialog: IDEA-208525.&#10;A new ability to move right/left on Navigation bar using additional shortcuts: IDEA-208718." />
@@ -27,12 +36,13 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="21" />
-        <entry key="ENGLISH" value="22" />
+        <entry key="CHINESE" value="29" />
+        <entry key="ENGLISH" value="30" />
       </map>
     </option>
   </component>
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
+    <option name="showWordForms" value="false" />
   </component>
 </application>
