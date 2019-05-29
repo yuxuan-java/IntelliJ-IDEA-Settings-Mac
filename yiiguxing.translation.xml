@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Declared Field" />
+      <item value="执行属性拷贝" />
+      <item value="Domain转Do" />
+      <item value="destinaltion Obj" />
+      <item value="private Mapper mapper;" />
       <item value="source Field Value" />
       <item value="如果为null需要构造目标空对象" />
       <item value="需要构造目标空对象" />
@@ -36,8 +41,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="29" />
-        <entry key="ENGLISH" value="30" />
+        <entry key="CHINESE" value="32" />
+        <entry key="ENGLISH" value="33" />
+        <entry key="NORWEGIAN" value="1" />
       </map>
     </option>
   </component>
