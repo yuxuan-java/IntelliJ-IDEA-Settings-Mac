@@ -86,7 +86,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌥5'</ShortCut>
           <Description>Debug</Description>
-          <Count>28</Count>
+          <Count>29</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'DialectInterceptorUtil'">
@@ -126,7 +126,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌥⇧D'</ShortCut>
           <Description>Debug 'XiaotaoManageApplication'</Description>
-          <Count>55</Count>
+          <Count>57</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -310,7 +310,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>18</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
