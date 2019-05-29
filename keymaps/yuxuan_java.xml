@@ -173,7 +173,6 @@
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="ctrl s" />
     <keyboard-shortcut first-keystroke="meta s" />
-    <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="SetShortcutAction">
     <keyboard-shortcut first-keystroke="alt enter" />
