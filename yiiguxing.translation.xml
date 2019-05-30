@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="index value outside legal index range" />
+      <item value="Cannot deserialize value of type" />
+      <item value="through reference chain" />
       <item value="Annotation type declaration" />
       <item value="Unable to find a usable constructor for class" />
       <item value="no Creators, like default construct, exist" />
@@ -49,8 +52,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="40" />
-        <entry key="ENGLISH" value="41" />
+        <entry key="CHINESE" value="43" />
+        <entry key="ENGLISH" value="44" />
         <entry key="NORWEGIAN" value="1" />
       </map>
     </option>
