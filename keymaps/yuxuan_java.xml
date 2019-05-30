@@ -8,7 +8,7 @@
     <keyboard-shortcut first-keystroke="meta x" />
   </action>
   <action id="$EditorTranslateAction">
-    <keyboard-shortcut first-keystroke="shift alt x" />
+    <keyboard-shortcut first-keystroke="shift meta x" />
   </action>
   <action id="$Paste">
     <keyboard-shortcut first-keystroke="ctrl v" />
@@ -22,7 +22,9 @@
     <keyboard-shortcut first-keystroke="ctrl a" />
     <keyboard-shortcut first-keystroke="meta a" />
   </action>
-  <action id="$TranslateAndReplaceAction" />
+  <action id="$TranslateAndReplaceAction">
+    <keyboard-shortcut first-keystroke="shift ctrl meta x" />
+  </action>
   <action id="$Undo">
     <keyboard-shortcut first-keystroke="ctrl z" />
     <keyboard-shortcut first-keystroke="meta z" />
@@ -95,7 +97,7 @@
     <keyboard-shortcut first-keystroke="meta x" />
   </action>
   <action id="Editor EditorTranslateAction">
-    <keyboard-shortcut first-keystroke="shift alt x" />
+    <keyboard-shortcut first-keystroke="shift meta x" />
   </action>
   <action id="Editor Paste">
     <keyboard-shortcut first-keystroke="meta v" />
@@ -105,6 +107,9 @@
   </action>
   <action id="Editor SelectAll">
     <keyboard-shortcut first-keystroke="meta a" />
+  </action>
+  <action id="Editor TranslateAndReplaceAction">
+    <keyboard-shortcut first-keystroke="shift ctrl meta x" />
   </action>
   <action id="Editor Undo">
     <keyboard-shortcut first-keystroke="meta z" />
