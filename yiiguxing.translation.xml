@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="DeserializationProblemHandler.handleWeirdNumberValue() for type %s returned value of type %s" />
+      <item value="handle Weird Number Value" />
+      <item value="READ UNKNOWN ENUM VALUES AS NULL" />
+      <item value="Enumeration for basic token types used for returning results * of parsing JSON content." />
+      <item value="not allowed to deserialize Enum value out of number: disable DeserializationConfig.DeserializationFeature.FAIL_ON_NUMBERS_FOR_ENUMS to allow" />
       <item value="index value outside legal index range" />
       <item value="Cannot deserialize value of type" />
       <item value="through reference chain" />
@@ -46,14 +51,11 @@
       <item value="MESSAGE" />
       <item value="check User Type return" />
       <item value="App User Login Cache" />
-      <item value="parameter" />
-      <item value="has Invite Code" />
-      <item value="verification Mobile" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="43" />
-        <entry key="ENGLISH" value="44" />
+        <entry key="CHINESE" value="48" />
+        <entry key="ENGLISH" value="49" />
         <entry key="NORWEGIAN" value="1" />
       </map>
     </option>
