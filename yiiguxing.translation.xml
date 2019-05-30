@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Annotation type declaration" />
       <item value="Unable to find a usable constructor for class" />
       <item value="no Creators, like default construct, exist" />
       <item value="set Non Null Parameter" />
@@ -48,8 +49,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="39" />
-        <entry key="ENGLISH" value="40" />
+        <entry key="CHINESE" value="40" />
+        <entry key="ENGLISH" value="41" />
         <entry key="NORWEGIAN" value="1" />
       </map>
     </option>
