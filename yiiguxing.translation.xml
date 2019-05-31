@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Invocation" />
+      <item value="get Declared Annotations" />
       <item value="Json工具优化" />
       <item value="Method that deserializers should call if they encounter a numeric value * that cannot be converted to target property type, in cases where some * numeric values could be acceptable (either with different settings, * or different numeric value). * Default implementation will try to call {@link DeserializationProblemHandler#handleWeirdNumberValue} * on configured handlers, if any, to allow for recovery; if recovery does not * succeed, will throw {@link InvalidFormatException} with given message." />
       <item value="not allowed to deserialize Enum value out of number: disable DeserializationConfig.DeserializationFeature.FAIL_ON_NUMBERS_FOR_ENUMS to allow" />
@@ -49,13 +51,11 @@
       <item value="an.setConfigLocation(resolver.getResource(&quot;classpath:mybatis.xml&quot;)); bean.setMapperLocations(resolver.getResources(&quot;classpath*:*Mapper.xml&quot;)); return bean.getObject(); } catch (Exception e) { throw new IllegalStateException(e); } } @Bean(initMethod=&quot;init&quot;, destroyMethod=&quot;close&quot;) public DruidDataSource dataSource(){ DruidDataSource datasource = new DruidDataSource(); datasource.setDriverClassName(&quot;com.mysql.jdbc.Driver&quot;); datasource.setUrl(url); datasource.setUsername(username); datasource.setPassword(password); datasource.setInitialSize(initialSize); datasource.setMinIdle(minIdle); datasource.setMaxActive(maxActive); datasource.setMaxWait(maxWait); datasource.setTestOnBorrow(testOnBorrow); datasource.setValidationQuery(validationQuery); datasource.setConnectionInitSqls(connectionIni" />
       <item value="set Driver Class Name" />
       <item value="index Window Pop" />
-      <item value="Get Saler Req" />
-      <item value="MESSAGE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="51" />
-        <entry key="ENGLISH" value="52" />
+        <entry key="CHINESE" value="53" />
+        <entry key="ENGLISH" value="54" />
         <entry key="NORWEGIAN" value="1" />
       </map>
     </option>
