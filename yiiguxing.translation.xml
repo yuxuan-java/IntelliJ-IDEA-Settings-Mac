@@ -1,11 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="DeserializationProblemHandler.handleWeirdNumberValue() for type %s returned value of type %s" />
+      <item value="Method that deserializers should call if they encounter a numeric value * that cannot be converted to target property type, in cases where some * numeric values could be acceptable (either with different settings, * or different numeric value). * Default implementation will try to call {@link DeserializationProblemHandler#handleWeirdNumberValue} * on configured handlers, if any, to allow for recovery; if recovery does not * succeed, will throw {@link InvalidFormatException} with given message." />
+      <item value="not allowed to deserialize Enum value out of number: disable DeserializationConfig.DeserializationFeature.FAIL_ON_NUMBERS_FOR_ENUMS to allow" />
       <item value="handle Weird Number Value" />
+      <item value="DeserializationProblemHandler.handleWeirdNumberValue() for type %s returned value of type %s" />
       <item value="READ UNKNOWN ENUM VALUES AS NULL" />
       <item value="Enumeration for basic token types used for returning results * of parsing JSON content." />
-      <item value="not allowed to deserialize Enum value out of number: disable DeserializationConfig.DeserializationFeature.FAIL_ON_NUMBERS_FOR_ENUMS to allow" />
       <item value="index value outside legal index range" />
       <item value="Cannot deserialize value of type" />
       <item value="through reference chain" />
@@ -50,12 +51,11 @@
       <item value="Get Saler Req" />
       <item value="MESSAGE" />
       <item value="check User Type return" />
-      <item value="App User Login Cache" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="48" />
-        <entry key="ENGLISH" value="49" />
+        <entry key="CHINESE" value="51" />
+        <entry key="ENGLISH" value="52" />
         <entry key="NORWEGIAN" value="1" />
       </map>
     </option>
