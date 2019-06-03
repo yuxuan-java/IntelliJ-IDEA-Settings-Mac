@@ -162,6 +162,9 @@
   <action id="HippieCompletion">
     <keyboard-shortcut first-keystroke="alt quote" />
   </action>
+  <action id="ImportModule">
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt o" />
+  </action>
   <action id="IntroduceConstant" />
   <action id="Kotlin.RunScratch" />
   <action id="Maven.Reimport">
