@@ -164,6 +164,9 @@
   </action>
   <action id="IntroduceConstant" />
   <action id="Kotlin.RunScratch" />
+  <action id="Maven.Reimport">
+    <keyboard-shortcut first-keystroke="shift ctrl meta o" />
+  </action>
   <action id="MethodHierarchy" />
   <action id="QuickEvaluateExpression">
     <keyboard-shortcut first-keystroke="ctrl alt f8" />
