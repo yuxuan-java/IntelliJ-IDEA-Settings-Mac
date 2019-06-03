@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="分页查询优化" />
       <item value="The error may involve defaultParameterMap" />
       <item value="Undeclared Throwable Exception" />
       <item value="Interceptor" />
@@ -50,7 +51,6 @@
       <item value="Fixed the regression, so now the IDE saves the font settings on Linux: IDEA-206180.&#10;The &quot;Find in Path&quot; dialog now closes when opening a project in the same window: IDEA-204277.&#10;The IDE now saves the changes in the Environment variables field of the Run/Debug Configurations dialog: IDEA-208525.&#10;A new ability to move right/left on Navigation bar using additional shortcuts: IDEA-208718." />
       <item value="nested exception is java.lang.NullPointerException] with root cause" />
       <item value="Closing non transactional SqlSession" />
-      <item value="Closing non transactional" />
     </histories>
     <option name="languageScores">
       <map>
