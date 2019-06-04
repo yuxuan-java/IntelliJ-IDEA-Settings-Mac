@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Defined as a nested config to ensure WebMvcConfigurer is not read when not // on the classpath" />
+      <item value="Adapter" />
       <item value="argument type mismatch" />
       <item value="基础架构" />
       <item value="Infrastructure construction" />
@@ -49,13 +51,11 @@
       <item value="Initializing Spring embedded WebApplicationContext" />
       <item value="Autowired Annotation Bean Post Processor" />
       <item value="In the Dozer mapping file(s), you can add some XML to tell Dozer to use a custom converter for certain class A and * class B types. When a custom converter is specified for a class A and class B combination, Dozer will invoke the * custom converter to perform the data mapping instead of the standard mapping logic." />
-      <item value="Interface that gives an ability to receive mapper instance inside {@link org.dozer.CustomConverter}. * Dozer will inject mapper object before executing custom converter logic." />
-      <item value="Data truncated" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="65" />
-        <entry key="ENGLISH" value="66" />
+        <entry key="CHINESE" value="67" />
+        <entry key="ENGLISH" value="68" />
         <entry key="DANISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
       </map>
