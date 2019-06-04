@@ -22,7 +22,7 @@
           <IdeaActionID>CloseAllEditors</IdeaActionID>
           <ShortCut>'⌃⌥W'</ShortCut>
           <Description>Close All</Description>
-          <Count>49</Count>
+          <Count>51</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close Others">
@@ -46,7 +46,7 @@
           <IdeaActionID>CheckinFiles</IdeaActionID>
           <ShortCut>'⌃⇧J'</ShortCut>
           <Description>Commit File...</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit Files...">
@@ -54,7 +54,7 @@
           <IdeaActionID>CheckinFiles</IdeaActionID>
           <ShortCut>'⌃⇧J'</ShortCut>
           <Description>Commit Files...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -222,7 +222,7 @@
           <IdeaActionID>ActivateEventLogToolWindow</IdeaActionID>
           <ShortCut>'⇧⌘E'</ShortCut>
           <Description>Event Log</Description>
-          <Count>77</Count>
+          <Count>78</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Usages">
