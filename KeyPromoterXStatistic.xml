@@ -9,6 +9,14 @@
           <Count>7</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Branches...">
+        <Item>
+          <IdeaActionID>Git.Branches</IdeaActionID>
+          <ShortCut>'⌃⇧B'</ShortCut>
+          <Description>Branches...</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Build Project">
         <Item>
           <IdeaActionID>CompileDirty</IdeaActionID>
@@ -310,7 +318,7 @@
           <IdeaActionID>Vcs.Push</IdeaActionID>
           <ShortCut>'⌃⇧K'</ShortCut>
           <Description>Push...</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reimport All Maven Projects">
@@ -374,7 +382,7 @@
           <IdeaActionID>Vcs.ShowTabbedFileHistory</IdeaActionID>
           <ShortCut>'⌃⇧H'</ShortCut>
           <Description>Show History</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Out">
