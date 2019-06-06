@@ -14,7 +14,7 @@
           <IdeaActionID>Git.Branches</IdeaActionID>
           <ShortCut>'⌃⇧B'</ShortCut>
           <Description>Branches...</Description>
-          <Count>3</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Project">
@@ -318,7 +318,7 @@
           <IdeaActionID>Vcs.Push</IdeaActionID>
           <ShortCut>'⌃⇧K'</ShortCut>
           <Description>Push...</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reimport All Maven Projects">
