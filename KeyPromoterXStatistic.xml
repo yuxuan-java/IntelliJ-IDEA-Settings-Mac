@@ -46,7 +46,7 @@
           <IdeaActionID>CheckinFiles</IdeaActionID>
           <ShortCut>'⌃⇧J'</ShortCut>
           <Description>Commit Directory...</Description>
-          <Count>5</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit File...">
@@ -230,7 +230,7 @@
           <IdeaActionID>ActivateEventLogToolWindow</IdeaActionID>
           <ShortCut>'⇧⌘E'</ShortCut>
           <Description>Event Log</Description>
-          <Count>81</Count>
+          <Count>82</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Usages">
