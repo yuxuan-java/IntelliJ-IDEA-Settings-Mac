@@ -46,7 +46,7 @@
           <IdeaActionID>CheckinFiles</IdeaActionID>
           <ShortCut>'⌃⇧J'</ShortCut>
           <Description>Commit Directory...</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit File...">
@@ -54,7 +54,7 @@
           <IdeaActionID>CheckinFiles</IdeaActionID>
           <ShortCut>'⌃⇧J'</ShortCut>
           <Description>Commit File...</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit Files...">
