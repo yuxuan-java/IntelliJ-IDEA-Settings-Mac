@@ -30,7 +30,7 @@
           <IdeaActionID>CloseAllEditors</IdeaActionID>
           <ShortCut>'⌃⌥W'</ShortCut>
           <Description>Close All</Description>
-          <Count>53</Count>
+          <Count>54</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close Others">
@@ -254,7 +254,7 @@
           <IdeaActionID>ActivateEventLogToolWindow</IdeaActionID>
           <ShortCut>'⇧⌘E'</ShortCut>
           <Description>Event Log</Description>
-          <Count>84</Count>
+          <Count>85</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Usages">
