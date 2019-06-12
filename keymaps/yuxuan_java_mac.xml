@@ -1,4 +1,4 @@
-<keymap version="1" name="yuxuan_java" parent="Eclipse">
+<keymap version="1" name="yuxuan_java_mac" parent="Eclipse">
   <action id="$Copy">
     <keyboard-shortcut first-keystroke="ctrl c" />
     <keyboard-shortcut first-keystroke="meta c" />
@@ -35,7 +35,9 @@
   <action id="ActivateEventLogToolWindow">
     <keyboard-shortcut first-keystroke="meta e" />
   </action>
-  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateFavoritesToolWindow">
+    <keyboard-shortcut first-keystroke="meta 0" />
+  </action>
   <action id="ActivateKeyPromoterXToolWindow">
     <keyboard-shortcut first-keystroke="meta k" />
   </action>
@@ -46,7 +48,9 @@
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="meta 1" />
   </action>
-  <action id="ActivateStructureToolWindow" />
+  <action id="ActivateStructureToolWindow">
+    <keyboard-shortcut first-keystroke="meta 9" />
+  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="meta 4" />
   </action>
