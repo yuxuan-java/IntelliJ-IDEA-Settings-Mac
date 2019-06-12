@@ -30,7 +30,7 @@
     <keyboard-shortcut first-keystroke="meta z" />
   </action>
   <action id="ActivateEventLogToolWindow">
-    <keyboard-shortcut first-keystroke="shift meta e" />
+    <keyboard-shortcut first-keystroke="meta e" />
   </action>
   <action id="ActivateMavenToolWindow">
     <keyboard-shortcut first-keystroke="alt m" />

@@ -286,7 +286,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⌃⇧F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Maven">
@@ -541,6 +541,12 @@
           <ShortCut>'⌥T'</ShortCut>
           <Description>Implementation(s)</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="New">
+        <Item>
+          <IdeaActionID>DatabaseView.AddActionGroupPopup</IdeaActionID>
+          <Description>New</Description>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
