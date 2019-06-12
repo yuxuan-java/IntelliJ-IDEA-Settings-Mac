@@ -110,7 +110,7 @@
           <IdeaActionID>DatabaseView.PropertiesAction</IdeaActionID>
           <ShortCut>'⇧⏎'</ShortCut>
           <Description>Data Source Properties</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -265,6 +265,14 @@
           <Count>110</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Execute">
+        <Item>
+          <IdeaActionID>Console.Jdbc.Execute</IdeaActionID>
+          <ShortCut>'⌃⏎'</ShortCut>
+          <Description>Execute</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Find Usages">
         <Item>
           <IdeaActionID>FindUsages</IdeaActionID>
@@ -294,7 +302,7 @@
           <IdeaActionID>Jdbc.OpenConsole.Any</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Jump to Console...</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Maven">
@@ -303,6 +311,14 @@
           <ShortCut>'⌥M'</ShortCut>
           <Description>Maven</Description>
           <Count>79</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Move to Group...">
+        <Item>
+          <IdeaActionID>DatabaseView.MoveToGroup</IdeaActionID>
+          <ShortCut>'⌥⇧V'</ShortCut>
+          <Description>Move to Group...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="MyBatis Log Plugin">
@@ -342,7 +358,7 @@
           <IdeaActionID>DatabaseView.PropertiesAction</IdeaActionID>
           <ShortCut>'⇧⏎'</ShortCut>
           <Description>Properties</Description>
-          <Count>6</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Pull...">
@@ -439,6 +455,14 @@
           <ShortCut>'⌃⇧H'</ShortCut>
           <Description>Show History</Description>
           <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Visualisation...">
+        <Item>
+          <IdeaActionID>ShowUmlDiagram</IdeaActionID>
+          <ShortCut>'⌃⌥⇧U'</ShortCut>
+          <Description>Show Visualisation...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Out">
