@@ -102,7 +102,6 @@
   </action>
   <action id="Console.TableResult.EditValueMaximized" />
   <action id="ConsoleView.ClearAll">
-    <keyboard-shortcut first-keystroke="ctrl d" />
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="CopyPaths">
@@ -151,6 +150,7 @@
     <keyboard-shortcut first-keystroke="shift alt m" />
     <keyboard-shortcut first-keystroke="shift meta m" />
   </action>
+  <action id="FileChooser.GotoDesktop" />
   <action id="Forward">
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="meta right" />
@@ -228,6 +228,7 @@
     <keyboard-shortcut first-keystroke="ctrl s" />
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
+  <action id="SendEOF" />
   <action id="SetShortcutAction">
     <keyboard-shortcut first-keystroke="alt enter" />
     <keyboard-shortcut first-keystroke="shift ctrl m" />

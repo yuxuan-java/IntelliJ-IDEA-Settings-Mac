@@ -262,7 +262,7 @@
           <IdeaActionID>ActivateEventLogToolWindow</IdeaActionID>
           <ShortCut>'⇧⌘E'</ShortCut>
           <Description>Event Log</Description>
-          <Count>110</Count>
+          <Count>111</Count>
         </Item>
       </Statistic>
       <Statistic Action="Execute">
@@ -470,6 +470,14 @@
           <IdeaActionID>ConfigureIcs</IdeaActionID>
           <ShortCut>'⌃⇧⌘S'</ShortCut>
           <Description>Settings Repository…</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show All Affected Files">
+        <Item>
+          <IdeaActionID>Vcs.Log.ShowAllAffected</IdeaActionID>
+          <ShortCut>'⌥⇧A'</ShortCut>
+          <Description>Show All Affected Files</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
