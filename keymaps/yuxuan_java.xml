@@ -29,11 +29,24 @@
     <keyboard-shortcut first-keystroke="ctrl z" />
     <keyboard-shortcut first-keystroke="meta z" />
   </action>
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
   <action id="ActivateEventLogToolWindow">
     <keyboard-shortcut first-keystroke="meta e" />
   </action>
+  <action id="ActivateKeyPromoterXToolWindow">
+    <keyboard-shortcut first-keystroke="meta k" />
+  </action>
   <action id="ActivateMavenToolWindow">
-    <keyboard-shortcut first-keystroke="alt m" />
+    <keyboard-shortcut first-keystroke="meta m" />
+    <keyboard-shortcut first-keystroke="meta 3" />
+  </action>
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="meta 1" />
+  </action>
+  <action id="ActivateStructureToolWindow">
+    <keyboard-shortcut first-keystroke="meta 4" />
   </action>
   <action id="Back">
     <mouse-shortcut keystroke="button4" />
@@ -95,6 +108,7 @@
   <action id="Debug">
     <keyboard-shortcut first-keystroke="shift alt d" />
   </action>
+  <action id="EditSource" />
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="meta c" />
   </action>
@@ -184,6 +198,9 @@
   <action id="MethodHierarchy" />
   <action id="QuickEvaluateExpression">
     <keyboard-shortcut first-keystroke="ctrl alt f8" />
+  </action>
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="f2" />
   </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift meta r" />
