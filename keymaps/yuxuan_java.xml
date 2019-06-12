@@ -35,6 +35,7 @@
   <action id="ActivateEventLogToolWindow">
     <keyboard-shortcut first-keystroke="meta e" />
   </action>
+  <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateKeyPromoterXToolWindow">
     <keyboard-shortcut first-keystroke="meta k" />
   </action>
@@ -45,7 +46,8 @@
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="meta 1" />
   </action>
-  <action id="ActivateStructureToolWindow">
+  <action id="ActivateStructureToolWindow" />
+  <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="meta 4" />
   </action>
   <action id="Back">
@@ -192,6 +194,12 @@
   </action>
   <action id="IntroduceConstant" />
   <action id="Kotlin.RunScratch" />
+  <action id="Maven.DownloadAllSourcesAndDocs">
+    <keyboard-shortcut first-keystroke="shift ctrl meta d" />
+  </action>
+  <action id="Maven.DownloadSelectedSourcesAndDocs">
+    <keyboard-shortcut first-keystroke="shift ctrl meta d" />
+  </action>
   <action id="Maven.Reimport">
     <keyboard-shortcut first-keystroke="shift ctrl meta o" />
   </action>

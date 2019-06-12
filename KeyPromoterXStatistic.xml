@@ -278,7 +278,7 @@
           <IdeaActionID>ActivateFavoritesToolWindow</IdeaActionID>
           <ShortCut>'⌥2'</ShortCut>
           <Description>Favorites</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Usages">
@@ -313,12 +313,20 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Key Promoter X">
+        <Item>
+          <IdeaActionID>ActivateKeyPromoterXToolWindow</IdeaActionID>
+          <ShortCut>'⌘K'</ShortCut>
+          <Description>Key Promoter X</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Maven">
         <Item>
           <IdeaActionID>ActivateMavenToolWindow</IdeaActionID>
           <ShortCut>'⌥M'</ShortCut>
           <Description>Maven</Description>
-          <Count>79</Count>
+          <Count>81</Count>
         </Item>
       </Statistic>
       <Statistic Action="Maximize Tool Window">
@@ -550,7 +558,7 @@
           <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
           <ShortCut>'⌥6'</ShortCut>
           <Description>TODO</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
