@@ -110,7 +110,7 @@
           <IdeaActionID>DatabaseView.PropertiesAction</IdeaActionID>
           <ShortCut>'⇧⏎'</ShortCut>
           <Description>Data Source Properties</Description>
-          <Count>8</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -342,7 +342,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌥1'</ShortCut>
           <Description>Project</Description>
-          <Count>59</Count>
+          <Count>60</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -358,7 +358,7 @@
           <IdeaActionID>DatabaseView.PropertiesAction</IdeaActionID>
           <ShortCut>'⇧⏎'</ShortCut>
           <Description>Properties</Description>
-          <Count>9</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Pull...">
