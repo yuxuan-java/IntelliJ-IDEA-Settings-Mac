@@ -110,7 +110,7 @@
           <IdeaActionID>DatabaseView.PropertiesAction</IdeaActionID>
           <ShortCut>'⇧⏎'</ShortCut>
           <Description>Data Source Properties</Description>
-          <Count>5</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -238,7 +238,7 @@
           <IdeaActionID>DatabaseView.CloseConnectionAction</IdeaActionID>
           <ShortCut>'⌃F2'</ShortCut>
           <Description>Disconnect</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Drop">
@@ -289,6 +289,14 @@
           <Count>14</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Jump to Console...">
+        <Item>
+          <IdeaActionID>Jdbc.OpenConsole.Any</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Jump to Console...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Maven">
         <Item>
           <IdeaActionID>ActivateMavenToolWindow</IdeaActionID>
@@ -334,7 +342,7 @@
           <IdeaActionID>DatabaseView.PropertiesAction</IdeaActionID>
           <ShortCut>'⇧⏎'</ShortCut>
           <Description>Properties</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Pull...">
