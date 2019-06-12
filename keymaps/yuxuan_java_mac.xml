@@ -250,7 +250,7 @@
   <action id="Vcs.RollbackChangedLines" />
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="shift ctrl h" />
-    <keyboard-shortcut first-keystroke="meta n" />
+    <keyboard-shortcut first-keystroke="meta back_quote" />
   </action>
   <action id="hg4idea.pull">
     <keyboard-shortcut first-keystroke="shift ctrl l" />
