@@ -196,6 +196,9 @@
   </action>
   <action id="IntroduceConstant" />
   <action id="Kotlin.RunScratch" />
+  <action id="LocalHistory.ShowHistory">
+    <keyboard-shortcut first-keystroke="shift meta back_quote" />
+  </action>
   <action id="Maven.DownloadAllSourcesAndDocs">
     <keyboard-shortcut first-keystroke="shift ctrl meta d" />
   </action>
