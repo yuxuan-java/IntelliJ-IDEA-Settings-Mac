@@ -14,7 +14,7 @@
           <IdeaActionID>Git.Branches</IdeaActionID>
           <ShortCut>'⌃⇧B'</ShortCut>
           <Description>Branches...</Description>
-          <Count>7</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Project">
@@ -326,7 +326,7 @@
           <IdeaActionID>ActivateMavenToolWindow</IdeaActionID>
           <ShortCut>'⌥M'</ShortCut>
           <Description>Maven</Description>
-          <Count>83</Count>
+          <Count>84</Count>
         </Item>
       </Statistic>
       <Statistic Action="Maximize Tool Window">
@@ -366,7 +366,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌥1'</ShortCut>
           <Description>Project</Description>
-          <Count>61</Count>
+          <Count>62</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -487,6 +487,14 @@
           <ShortCut>'⌃⇧H'</ShortCut>
           <Description>Show History</Description>
           <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Translation Dialog...">
+        <Item>
+          <IdeaActionID>$ShowTranslationDialogAction</IdeaActionID>
+          <ShortCut>'⌃⇧O'</ShortCut>
+          <Description>Show Translation Dialog...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Visualisation...">

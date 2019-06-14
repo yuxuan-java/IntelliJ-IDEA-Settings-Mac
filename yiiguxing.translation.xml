@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Embeds a code minimap similar to the one found in Sublime into the editor pane. Works with both light and dark themes using your customized colors for syntax highlighting." />
+      <item value="INTERN SALER APPROVAL WEAPP SERVICE NOTIFYCATION" />
       <item value="Gradianto aims to be easy on the eyes while being colorful and bright. Gradianto ships with the gradients found in nature. There is something for everyone" />
       <item value="Defined as a nested config to ensure WebMvcConfigurer is not read when not // on the classpath" />
       <item value="Adapter" />
@@ -49,13 +51,11 @@
       <item value="需要构造目标空对象" />
       <item value="如果" />
       <item value="destination Class" />
-      <item value="Initializing Spring embedded WebApplicationContext" />
-      <item value="Autowired Annotation Bean Post Processor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="68" />
-        <entry key="ENGLISH" value="68" />
+        <entry key="CHINESE" value="69" />
+        <entry key="ENGLISH" value="69" />
         <entry key="DANISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
       </map>
