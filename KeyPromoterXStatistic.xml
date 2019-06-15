@@ -25,6 +25,14 @@
           <Count>42</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Check for Updates...">
+        <Item>
+          <IdeaActionID>CheckForUpdate</IdeaActionID>
+          <ShortCut>'⌃⇧⌘U'</ShortCut>
+          <Description>Check for Updates...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Close All">
         <Item>
           <IdeaActionID>CloseAllEditors</IdeaActionID>
@@ -302,7 +310,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⌃⇧F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>15</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Console...">
