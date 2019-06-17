@@ -30,7 +30,7 @@
           <IdeaActionID>CheckForUpdate</IdeaActionID>
           <ShortCut>'⌃⇧⌘U'</ShortCut>
           <Description>Check for Updates...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close All">
