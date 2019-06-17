@@ -81,6 +81,7 @@
   </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
+    <keyboard-shortcut first-keystroke="alt w" />
   </action>
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="alt slash" />
