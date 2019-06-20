@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="LOG EXCEPTION CONVERSION WORD" />
+      <item value="magenta" />
+      <item value="faint" />
+      <item value="Whitespace" />
+      <item value="Whitespace Throwable Proxy Converter" />
       <item value="Embeds a code minimap similar to the one found in Sublime into the editor pane. Works with both light and dark themes using your customized colors for syntax highlighting." />
       <item value="INTERN SALER APPROVAL WEAPP SERVICE NOTIFYCATION" />
       <item value="Gradianto aims to be easy on the eyes while being colorful and bright. Gradianto ships with the gradients found in nature. There is something for everyone" />
@@ -46,16 +51,11 @@
       <item value="Domain转Do" />
       <item value="destinaltion Obj" />
       <item value="private Mapper mapper;" />
-      <item value="source Field Value" />
-      <item value="如果为null需要构造目标空对象" />
-      <item value="需要构造目标空对象" />
-      <item value="如果" />
-      <item value="destination Class" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="69" />
-        <entry key="ENGLISH" value="69" />
+        <entry key="CHINESE" value="73" />
+        <entry key="ENGLISH" value="74" />
         <entry key="DANISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
       </map>
