@@ -38,7 +38,7 @@
           <IdeaActionID>CloseAllEditors</IdeaActionID>
           <ShortCut>'⌃⌥W'</ShortCut>
           <Description>Close All</Description>
-          <Count>84</Count>
+          <Count>85</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close Others">
@@ -398,7 +398,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌥1'</ShortCut>
           <Description>Project</Description>
-          <Count>90</Count>
+          <Count>91</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
