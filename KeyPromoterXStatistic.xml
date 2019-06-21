@@ -22,7 +22,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'⌃B' or '⌘B'</ShortCut>
           <Description>Build Project</Description>
-          <Count>45</Count>
+          <Count>46</Count>
         </Item>
       </Statistic>
       <Statistic Action="Check for Updates...">
@@ -38,7 +38,7 @@
           <IdeaActionID>CloseAllEditors</IdeaActionID>
           <ShortCut>'⌃⌥W'</ShortCut>
           <Description>Close All</Description>
-          <Count>81</Count>
+          <Count>82</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close Others">
@@ -254,7 +254,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦'</ShortCut>
           <Description>Delete...</Description>
-          <Count>45</Count>
+          <Count>46</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -286,7 +286,7 @@
           <IdeaActionID>ActivateEventLogToolWindow</IdeaActionID>
           <ShortCut>'⇧⌘E'</ShortCut>
           <Description>Event Log</Description>
-          <Count>120</Count>
+          <Count>121</Count>
         </Item>
       </Statistic>
       <Statistic Action="Execute">
@@ -398,7 +398,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌥1'</ShortCut>
           <Description>Project</Description>
-          <Count>89</Count>
+          <Count>90</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
