@@ -1,5 +1,6 @@
 <templateSet group="yuxuan.han">
-  <template name="/m" value="&#10; *&#10; *&#10; * @author yuxuan.han&#10; * @date $date$ $time$ &#10;$params$&#10; * @return $return$&#10; */" description="方法注释" toReformat="false" toShortenFQNames="true">
+  <template name="/m" value="&#10; *&#10; *&#10; * @sine $version$&#10; * @author yuxuan.han&#10; * @date $date$ $time$ &#10;$params$&#10; * @return $return$&#10; */" description="方法注释" toReformat="false" toShortenFQNames="true">
+    <variable name="version" expression="8.0.0" defaultValue="" alwaysStopAt="true" />
     <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
     <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
     <variable name="params" expression="groovyScript(&quot;def result=''; def params=\&quot;${_1}\&quot;.replaceAll('[\\\\[|\\\\]|\\\\s]', '').split(',').toList(); for(i = 0; i &lt; params.size(); i++) {result+=' * @param ' + params[i] + ((i &lt; params.size() - 1) ? '\\n\\b' : '')}; return result&quot;, methodParameters())" defaultValue="" alwaysStopAt="true" />
