@@ -102,7 +102,7 @@
           <IdeaActionID>CopyReference</IdeaActionID>
           <ShortCut>'⌥C'</ShortCut>
           <Description>Copy Reference</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Relative Path">
