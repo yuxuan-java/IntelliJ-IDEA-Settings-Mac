@@ -1,5 +1,5 @@
 <templateSet group="yuxuan.han">
-  <template name="/m" value="&#10; *&#10; *&#10; * @sine $version$&#10; * @author yuxuan.han&#10; * @date $date$ $time$ &#10;$params$&#10; * @return $return$&#10; */" description="方法注释" toReformat="false" toShortenFQNames="true">
+  <template name="/m" value="&#10; * &#10; *&#10; * @sine $version$&#10; * @author yuxuan.han&#10; * @date $date$ $time$ &#10;$params$&#10; * @return $return$&#10; */" description="方法注释" toReformat="false" toShortenFQNames="true">
     <variable name="version" expression="8.0.0" defaultValue="" alwaysStopAt="true" />
     <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
     <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
