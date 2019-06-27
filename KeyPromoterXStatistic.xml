@@ -30,7 +30,7 @@
           <IdeaActionID>CheckForUpdate</IdeaActionID>
           <ShortCut>'⌃⇧⌘U'</ShortCut>
           <Description>Check for Updates...</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close All">
@@ -302,7 +302,7 @@
           <IdeaActionID>ActivateEventLogToolWindow</IdeaActionID>
           <ShortCut>'⇧⌘E'</ShortCut>
           <Description>Event Log</Description>
-          <Count>133</Count>
+          <Count>134</Count>
         </Item>
       </Statistic>
       <Statistic Action="Execute">
