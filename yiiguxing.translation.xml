@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Vuesion theme and color scheme for IntelliJ®, Webstorm® and other Jetbrains® IDEs." />
+      <item value="The IntelliVue plugin for IntelliJ provides analysis, actions, and utilities for Vue Single File Components. This plugin adds additional functionality on top of the standard Vue plugin. Full undo-redo support is enabled, so you are assured that your important code will not get corrupted by unexpected operations. `Actions` and `Intentions` are added to create and navigate from references to implementation. When creating a new Vue component option, a dialog is displayed." />
+      <item value="Allow navigation between components in the template" />
+      <item value="Run the Annotation Processor when a template or a component class is changed" />
       <item value="You’ll only be able to find a GitHub user by their email address if they’ve chosen to list it publicly. Otherwise, use their username instead." />
       <item value="Embeds a code minimap similar to the one found in Sublime into the editor pane. Works with both light and dark themes using your customized colors for syntax highlighting." />
       <item value="data not exists" />
@@ -47,10 +51,6 @@
       <item value="set Non Null Parameter" />
       <item value="基础架构建设" />
       <item value="本分支的最后提交" />
-      <item value="˛" />
-      <item value="Overwrite Existing Jobs" />
-      <item value="get Declared Field" />
-      <item value="执行属性拷贝" />
     </histories>
     <option name="languageScores">
       <map>
