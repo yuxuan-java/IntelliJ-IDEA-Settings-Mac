@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="You’ll only be able to find a GitHub user by their email address if they’ve chosen to list it publicly. Otherwise, use their username instead." />
       <item value="Embeds a code minimap similar to the one found in Sublime into the editor pane. Works with both light and dark themes using your customized colors for syntax highlighting." />
       <item value="data not exists" />
       <item value="The Algorithm class represents an algorithm to be used in the Signing or Verification process of a Token." />
@@ -50,7 +51,6 @@
       <item value="Overwrite Existing Jobs" />
       <item value="get Declared Field" />
       <item value="执行属性拷贝" />
-      <item value="Domain转Do" />
     </histories>
     <option name="languageScores">
       <map>
