@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Handler" />
       <item value="Install EduTools plugin: Go to Preferences → Plugins (or Configure → Plugins from the Welcome Screen), press Install JetBrains Plugin… and search for the EduTools plugin. Choose the learning or teaching mode: When it's installed for the first time, the EduTools plugin asks you to select whether you're a Learner or an Educator." />
       <item value="Install EduTools plugin: Go to Preferences → Plugins (or Configure → Plugins from the Welcome Screen), press Install JetBrains Plugin… and search for the EduTools plugin.&#10;Choose the learning or teaching mode: When it's installed for the first time, the EduTools plugin asks you to select whether you're a Learner or an Educator." />
       <item value="With the EduTools plugin, you can learn and teach programming languages such as Kotlin, Java, and Python in the form of coding tasks and custom verification tests right inside of JetBrains IntelliJ Platform based IDEs." />
@@ -50,13 +51,12 @@
       <item value="分页查询" />
       <item value="Statement Handler" />
       <item value="navigate Pages" />
-      <item value="has Previous Page" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="78" />
         <entry key="ENGLISH" value="78" />
-        <entry key="DANISH" value="1" />
+        <entry key="DANISH" value="2" />
         <entry key="NORWEGIAN" value="1" />
       </map>
     </option>
