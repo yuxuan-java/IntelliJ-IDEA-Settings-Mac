@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Applies this function to the given argument." />
       <item value="Postfix completion templates for java8 Template Before After .stream array.stream Arrays.stream(array) .lambda someMethod().lambda () -&gt; someMethod() .opt obj.opt Optional.of(obj) .optnull obj.optnull Optional.ofNullable(obj)" />
       <item value="Plugin that generates java docs on java class elements, like field, method, etc" />
       <item value="Plug-in that transforms Java strings with constant values to SQL text and replaces constants with their values. Just put cursor to the SQL string in your code and press the button in the plugin window &gt; SQL is ready to use: [[ int value = 1; String sql = &quot;select &quot; + value + &quot; from dual&quot;; ]] &gt;&gt; Plugin &gt;&gt; select 1 from dual" />
@@ -50,12 +51,11 @@
       <item value="READ UNKNOWN ENUM VALUES AS NULL" />
       <item value="Enumeration for basic token types used for returning results * of parsing JSON content." />
       <item value="index value outside legal index range" />
-      <item value="Cannot deserialize value of type" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="77" />
-        <entry key="ENGLISH" value="77" />
+        <entry key="ENGLISH" value="78" />
         <entry key="DANISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
       </map>
