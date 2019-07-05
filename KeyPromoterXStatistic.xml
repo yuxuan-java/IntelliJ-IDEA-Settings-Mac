@@ -270,7 +270,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦'</ShortCut>
           <Description>Delete...</Description>
-          <Count>51</Count>
+          <Count>52</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -342,7 +342,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⌃⇧F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>30</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Console...">
@@ -478,7 +478,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⌃⇧F12'</ShortCut>
           <Description>Restore Windows</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
