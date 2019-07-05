@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="CodeStream helps dev teams discuss, review, and understand code. Discussing code is now as simple as commenting on a Google Doc — select the code and type your question." />
+      <item value="Adds support for the Scala language. The following features are available for free with IntelliJ IDEA Community Edition: Coding assistance (highlighting, completion, formatting, refactorings, etc.) Navigation, search, information about types and implicits Integration with sbt and other build tools Testing frameworks support (ScalaTest, Specs2, uTest) Scala debugger, worksheets and Ammonite scripts Support for Play Framework, Akka and Scala.js is enabled in IntelliJ IDEA Ultimate." />
+      <item value="Adds support for the Scala language. The following features are available for free with IntelliJ IDEA Community Edition: Coding assistance (highlighting, completion, formatting, refactorings, etc.)&#10;Navigation, search, information about types and implicits&#10;Integration with sbt and other build tools&#10;Testing frameworks support (ScalaTest, Specs2, uTest)&#10;Scala debugger, worksheets and Ammonite scripts Support for Play Framework, Akka and Scala.js is enabled in IntelliJ IDEA Ultimate." />
+      <item value="Learn basic shortcuts and essential features interactively – right inside the IDE. No need to read long manuals or look for screencasts. Just install this plugin, open the IDE, and go to the Learn tool window to start training. The course includes 5 modules: Editor Basics, Completions, Refactorings, Code Assistance, and Navigation. Each module has several short lessons with quick tasks focusing on one or two useful shortcuts or features. Your feedback is much appreciated here: jb.gg/training-plugin-feedback Found a bug or have a feature to suggest? Welcome to the tracker: https://training.myjetbrains.com/youtrack/issues/TP" />
+      <item value="Learn basic shortcuts and essential features interactively – right inside the IDE. No need to read long manuals or look for screencasts. Just install this plugin, open the IDE, and go to the Learn tool window to start training.&#10;The course includes 5 modules: Editor Basics, Completions, Refactorings, Code Assistance, and Navigation. Each module has several short lessons with quick tasks focusing on one or two useful shortcuts or features.&#10;Your feedback is much appreciated here: jb.gg/training-plugin-feedback&#10;Found a bug or have a feature to suggest? Welcome to the tracker: https://training.myjetbrains.com/youtrack/issues/TP" />
+      <item value="With the EduTools plugin, you can learn and teach programming languages such as Kotlin, Java, and Python in the form of coding tasks and custom verification tests right inside of JetBrains IntelliJ Platform based IDEs." />
+      <item value="Support for editing Kubernetes resource files (versions 1.5 - 1.14)." />
+      <item value="CodeStream turns conversation into documentation by capturing all of the discussion about your code, and saving it with your code. Each discussion is represented as a &quot;codemark&quot; that is permanently connected to the lines of code to which it refers." />
       <item value="Applies this function to the given argument." />
       <item value="Postfix completion templates for java8 Template Before After .stream array.stream Arrays.stream(array) .lambda someMethod().lambda () -&gt; someMethod() .opt obj.opt Optional.of(obj) .optnull obj.optnull Optional.ofNullable(obj)" />
       <item value="Plugin that generates java docs on java class elements, like field, method, etc" />
@@ -43,18 +51,10 @@
       <item value="has Previous Page" />
       <item value="Invocation" />
       <item value="get Declared Annotations" />
-      <item value="Json工具优化" />
-      <item value="Method that deserializers should call if they encounter a numeric value * that cannot be converted to target property type, in cases where some * numeric values could be acceptable (either with different settings, * or different numeric value). * Default implementation will try to call {@link DeserializationProblemHandler#handleWeirdNumberValue} * on configured handlers, if any, to allow for recovery; if recovery does not * succeed, will throw {@link InvalidFormatException} with given message." />
-      <item value="not allowed to deserialize Enum value out of number: disable DeserializationConfig.DeserializationFeature.FAIL_ON_NUMBERS_FOR_ENUMS to allow" />
-      <item value="handle Weird Number Value" />
-      <item value="DeserializationProblemHandler.handleWeirdNumberValue() for type %s returned value of type %s" />
-      <item value="READ UNKNOWN ENUM VALUES AS NULL" />
-      <item value="Enumeration for basic token types used for returning results * of parsing JSON content." />
-      <item value="index value outside legal index range" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="77" />
+        <entry key="CHINESE" value="78" />
         <entry key="ENGLISH" value="78" />
         <entry key="DANISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
