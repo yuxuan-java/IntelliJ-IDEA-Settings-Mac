@@ -350,7 +350,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⌃⇧F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>31</Count>
+          <Count>32</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Console...">
