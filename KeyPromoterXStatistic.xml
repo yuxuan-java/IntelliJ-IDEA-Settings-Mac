@@ -270,7 +270,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦'</ShortCut>
           <Description>Delete...</Description>
-          <Count>52</Count>
+          <Count>53</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -279,6 +279,14 @@
           <ShortCut>'⌃F2'</ShortCut>
           <Description>Disconnect</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Download Sources and Documentation">
+        <Item>
+          <IdeaActionID>Maven.DownloadAllSourcesAndDocs</IdeaActionID>
+          <ShortCut>'⌃⇧⌘D'</ShortCut>
+          <Description>Download Sources and Documentation</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Drop">
@@ -366,7 +374,7 @@
           <IdeaActionID>ActivateMavenToolWindow</IdeaActionID>
           <ShortCut>'⌥M'</ShortCut>
           <Description>Maven</Description>
-          <Count>101</Count>
+          <Count>104</Count>
         </Item>
       </Statistic>
       <Statistic Action="Maximize Tool Window">
@@ -422,7 +430,7 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'⌃⌥⇧S'</ShortCut>
           <Description>Project Structure...</Description>
-          <Count>44</Count>
+          <Count>47</Count>
         </Item>
       </Statistic>
       <Statistic Action="Properties">
@@ -454,7 +462,7 @@
           <IdeaActionID>Maven.Reimport</IdeaActionID>
           <ShortCut>'⌃⇧⌘O'</ShortCut>
           <Description>Reimport All Maven Projects</Description>
-          <Count>15</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
