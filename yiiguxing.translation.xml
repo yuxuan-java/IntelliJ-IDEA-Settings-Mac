@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Postfix completion templates for java8 Template Before After .stream array.stream Arrays.stream(array) .lambda someMethod().lambda () -&gt; someMethod() .opt obj.opt Optional.of(obj) .optnull obj.optnull Optional.ofNullable(obj)" />
+      <item value="Plugin that generates java docs on java class elements, like field, method, etc" />
+      <item value="Plug-in that transforms Java strings with constant values to SQL text and replaces constants with their values. Just put cursor to the SQL string in your code and press the button in the plugin window &gt; SQL is ready to use: [[ int value = 1; String sql = &quot;select &quot; + value + &quot; from dual&quot;; ]] &gt;&gt; Plugin &gt;&gt; select 1 from dual" />
+      <item value="Plugin that generates java docs on java class elements, like field, method, etc." />
+      <item value="Ability to create preconfigured Ktor projects with optional Swagger/OpenAPI support." />
+      <item value="This plugin supports the Ktor framework. Note: It doesn't work on Android Studio. The following features are available:" />
       <item value="Coordinator" />
       <item value="Vuesion theme and color scheme for IntelliJ®, Webstorm® and other Jetbrains® IDEs." />
       <item value="The IntelliVue plugin for IntelliJ provides analysis, actions, and utilities for Vue Single File Components. This plugin adds additional functionality on top of the standard Vue plugin. Full undo-redo support is enabled, so you are assured that your important code will not get corrupted by unexpected operations. `Actions` and `Intentions` are added to create and navigate from references to implementation. When creating a new Vue component option, a dialog is displayed." />
@@ -45,16 +51,10 @@
       <item value="Enumeration for basic token types used for returning results * of parsing JSON content." />
       <item value="index value outside legal index range" />
       <item value="Cannot deserialize value of type" />
-      <item value="through reference chain" />
-      <item value="Annotation type declaration" />
-      <item value="Unable to find a usable constructor for class" />
-      <item value="no Creators, like default construct, exist" />
-      <item value="set Non Null Parameter" />
-      <item value="基础架构建设" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="76" />
+        <entry key="CHINESE" value="77" />
         <entry key="ENGLISH" value="77" />
         <entry key="DANISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
