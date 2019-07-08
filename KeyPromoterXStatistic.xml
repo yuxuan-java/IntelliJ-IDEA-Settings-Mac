@@ -142,7 +142,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌥5'</ShortCut>
           <Description>Debug</Description>
-          <Count>116</Count>
+          <Count>127</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'AppApplication'">
@@ -262,7 +262,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌥⇧D'</ShortCut>
           <Description>Debug 'XiaotaoManageApplication'</Description>
-          <Count>122</Count>
+          <Count>132</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'run dev'">
@@ -414,7 +414,7 @@
           <IdeaActionID>TailMyBatisLog</IdeaActionID>
           <ShortCut>'⌃⌥⇧O'</ShortCut>
           <Description>MyBatis Log Plugin</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste">
@@ -422,7 +422,7 @@
           <IdeaActionID>$Paste</IdeaActionID>
           <ShortCut>'⌃V' or '⌘V'</ShortCut>
           <Description>Paste</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -430,7 +430,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌥1'</ShortCut>
           <Description>Project</Description>
-          <Count>120</Count>
+          <Count>121</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -662,7 +662,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>166</Count>
+          <Count>170</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
