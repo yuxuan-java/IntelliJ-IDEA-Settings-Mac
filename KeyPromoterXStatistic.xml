@@ -262,7 +262,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌥⇧D'</ShortCut>
           <Description>Debug 'XiaotaoManageApplication'</Description>
-          <Count>150</Count>
+          <Count>151</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'dev'">
