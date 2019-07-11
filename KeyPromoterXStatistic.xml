@@ -350,7 +350,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌃G'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>3</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Force Run to Cursor">
