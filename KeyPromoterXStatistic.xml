@@ -390,7 +390,7 @@
           <IdeaActionID>ActivateMavenToolWindow</IdeaActionID>
           <ShortCut>'⌥M'</ShortCut>
           <Description>Maven</Description>
-          <Count>107</Count>
+          <Count>108</Count>
         </Item>
       </Statistic>
       <Statistic Action="Maximize Tool Window">
@@ -478,7 +478,7 @@
           <IdeaActionID>Maven.Reimport</IdeaActionID>
           <ShortCut>'⌃⇧⌘O'</ShortCut>
           <Description>Reimport All Maven Projects</Description>
-          <Count>17</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
