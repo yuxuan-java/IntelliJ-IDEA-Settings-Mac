@@ -38,7 +38,7 @@
           <IdeaActionID>CloseAllEditors</IdeaActionID>
           <ShortCut>'⌃⌥W'</ShortCut>
           <Description>Close All</Description>
-          <Count>156</Count>
+          <Count>157</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close Others">
@@ -142,7 +142,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌥5'</ShortCut>
           <Description>Debug</Description>
-          <Count>151</Count>
+          <Count>152</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'AppApplication'">
@@ -270,7 +270,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌥⇧D'</ShortCut>
           <Description>Debug 'XiaotaoManageApplication'</Description>
-          <Count>163</Count>
+          <Count>164</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'dev'">
