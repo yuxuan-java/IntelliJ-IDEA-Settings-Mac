@@ -342,7 +342,7 @@
           <IdeaActionID>ActivateEventLogToolWindow</IdeaActionID>
           <ShortCut>'⇧⌘E'</ShortCut>
           <Description>Event Log</Description>
-          <Count>191</Count>
+          <Count>192</Count>
         </Item>
       </Statistic>
       <Statistic Action="Execute">
@@ -558,6 +558,14 @@
           <IdeaActionID>ScanKeysAction</IdeaActionID>
           <ShortCut>'⌃⏎'</ShortCut>
           <Description>Scan keys</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Search Code">
+        <Item>
+          <IdeaActionID>searchCodeAction</IdeaActionID>
+          <ShortCut>'⌃⇧⌘F'</ShortCut>
+          <Description>Search Code</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
