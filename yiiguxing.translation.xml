@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="provided" />
       <item value="AiXCoder plugin, based on deep learning" />
       <item value="A collection of color themes created by Dayle Rees for all JetBrains platforms." />
       <item value="Vim emulation plug-in for IDEs based on the IntelliJ platform. IdeaVim supports many Vim features including normal/insert/visual modes, motion keys, deletion/changing, marks, registers, some Ex commands, Vim regexps, configuration via ~/.ideavimrc, macros, window commands, etc." />
@@ -50,12 +51,11 @@
       <item value="faint" />
       <item value="Whitespace" />
       <item value="Whitespace Throwable Proxy Converter" />
-      <item value="INTERN SALER APPROVAL WEAPP SERVICE NOTIFYCATION" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="87" />
-        <entry key="ENGLISH" value="87" />
+        <entry key="ENGLISH" value="88" />
         <entry key="DANISH" value="2" />
         <entry key="NORWEGIAN" value="1" />
       </map>
