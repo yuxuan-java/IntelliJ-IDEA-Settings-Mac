@@ -406,7 +406,7 @@
           <IdeaActionID>ActivateMavenToolWindow</IdeaActionID>
           <ShortCut>'⌥M'</ShortCut>
           <Description>Maven</Description>
-          <Count>111</Count>
+          <Count>113</Count>
         </Item>
       </Statistic>
       <Statistic Action="Maximize Tool Window">
@@ -462,7 +462,7 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'⌃⌥⇧S'</ShortCut>
           <Description>Project Structure...</Description>
-          <Count>48</Count>
+          <Count>50</Count>
         </Item>
       </Statistic>
       <Statistic Action="Properties">
@@ -494,7 +494,7 @@
           <IdeaActionID>Maven.Reimport</IdeaActionID>
           <ShortCut>'⌃⇧⌘O'</ShortCut>
           <Description>Reimport All Maven Projects</Description>
-          <Count>20</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
