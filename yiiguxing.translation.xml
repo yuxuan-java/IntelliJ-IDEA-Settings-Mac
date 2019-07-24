@@ -1,14 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="IntelliJ Light is a new light theme for IntelliJ-based IDEs starting 2019.3. This plugin is a preview of this theme and can be used with versions 2019.1 and 2019.2." />
+      <item value="Learn basic shortcuts and essential features interactively – right inside the IDE. No need to read long manuals or look for screencasts. Just install this plugin, open the IDE, and go to the Learn tool window to start training. The course includes 5 modules: Editor Basics, Completions, Refactorings, Code Assistance, and Navigation. Each module has several short lessons with quick tasks focusing on one or two useful shortcuts or features." />
+      <item value="Learn basic shortcuts and essential features interactively – right inside the IDE. No need to read long manuals or look for screencasts. Just install this plugin, open the IDE, and go to the Learn tool window to start training.&#10;The course includes 5 modules: Editor Basics, Completions, Refactorings, Code Assistance, and Navigation. Each module has several short lessons with quick tasks focusing on one or two useful shortcuts or features." />
       <item value="provided" />
       <item value="AiXCoder plugin, based on deep learning" />
       <item value="A collection of color themes created by Dayle Rees for all JetBrains platforms." />
       <item value="Vim emulation plug-in for IDEs based on the IntelliJ platform. IdeaVim supports many Vim features including normal/insert/visual modes, motion keys, deletion/changing, marks, registers, some Ex commands, Vim regexps, configuration via ~/.ideavimrc, macros, window commands, etc." />
       <item value="Vim emulation plug-in for IDEs based on the IntelliJ platform.&#10;IdeaVim supports many Vim features including normal/insert/visual modes, motion keys, deletion/changing, marks, registers, some Ex commands, Vim regexps, configuration via ~/.ideavimrc, macros, window commands, etc." />
       <item value="Rust language support" />
-      <item value="Learn basic shortcuts and essential features interactively – right inside the IDE. No need to read long manuals or look for screencasts. Just install this plugin, open the IDE, and go to the Learn tool window to start training. The course includes 5 modules: Editor Basics, Completions, Refactorings, Code Assistance, and Navigation. Each module has several short lessons with quick tasks focusing on one or two useful shortcuts or features." />
-      <item value="Learn basic shortcuts and essential features interactively – right inside the IDE. No need to read long manuals or look for screencasts. Just install this plugin, open the IDE, and go to the Learn tool window to start training.&#10;The course includes 5 modules: Editor Basics, Completions, Refactorings, Code Assistance, and Navigation. Each module has several short lessons with quick tasks focusing on one or two useful shortcuts or features." />
       <item value="refresh App Detail Cache" />
       <item value="验证失败" />
       <item value="withdraw Notification" />
@@ -50,11 +51,10 @@
       <item value="magenta" />
       <item value="faint" />
       <item value="Whitespace" />
-      <item value="Whitespace Throwable Proxy Converter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="87" />
+        <entry key="CHINESE" value="88" />
         <entry key="ENGLISH" value="88" />
         <entry key="DANISH" value="2" />
         <entry key="NORWEGIAN" value="1" />
