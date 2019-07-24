@@ -342,7 +342,7 @@
           <IdeaActionID>ActivateEventLogToolWindow</IdeaActionID>
           <ShortCut>'⇧⌘E'</ShortCut>
           <Description>Event Log</Description>
-          <Count>204</Count>
+          <Count>205</Count>
         </Item>
       </Statistic>
       <Statistic Action="Execute">
@@ -574,7 +574,7 @@
           <IdeaActionID>ConfigureIcs</IdeaActionID>
           <ShortCut>'⌃⇧⌘S'</ShortCut>
           <Description>Settings Repository…</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show All Affected Files">

@@ -188,7 +188,6 @@
   </action>
   <action id="GotoImplementation">
     <mouse-shortcut keystroke="meta button1" />
-    <keyboard-shortcut first-keystroke="alt t" />
   </action>
   <action id="HippieCompletion">
     <keyboard-shortcut first-keystroke="alt quote" />
