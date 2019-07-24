@@ -318,7 +318,7 @@
           <IdeaActionID>Maven.DownloadAllSourcesAndDocs</IdeaActionID>
           <ShortCut>'⌃⇧⌘D'</ShortCut>
           <Description>Download Sources and Documentation</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Drop">
@@ -406,7 +406,7 @@
           <IdeaActionID>ActivateMavenToolWindow</IdeaActionID>
           <ShortCut>'⌥M'</ShortCut>
           <Description>Maven</Description>
-          <Count>115</Count>
+          <Count>116</Count>
         </Item>
       </Statistic>
       <Statistic Action="Maximize Tool Window">
@@ -494,7 +494,7 @@
           <IdeaActionID>Maven.Reimport</IdeaActionID>
           <ShortCut>'⌃⇧⌘O'</ShortCut>
           <Description>Reimport All Maven Projects</Description>
-          <Count>21</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
