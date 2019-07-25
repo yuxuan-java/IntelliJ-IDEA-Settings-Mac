@@ -342,7 +342,7 @@
           <IdeaActionID>ActivateEventLogToolWindow</IdeaActionID>
           <ShortCut>'⇧⌘E'</ShortCut>
           <Description>Event Log</Description>
-          <Count>207</Count>
+          <Count>208</Count>
         </Item>
       </Statistic>
       <Statistic Action="Execute">
