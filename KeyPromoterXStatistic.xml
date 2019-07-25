@@ -721,6 +721,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Synchronize Views">
+        <Item>
+          <IdeaActionID>CommanderSyncViews</IdeaActionID>
+          <ShortCut>'⌥F6'</ShortCut>
+          <Description>Synchronize Views</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="TODO">
         <Item>
           <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
