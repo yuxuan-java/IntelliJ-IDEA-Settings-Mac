@@ -30,7 +30,7 @@
           <IdeaActionID>CheckForUpdate</IdeaActionID>
           <ShortCut>'⌃⇧⌘U'</ShortCut>
           <Description>Check for Updates...</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close All">
@@ -342,7 +342,7 @@
           <IdeaActionID>ActivateEventLogToolWindow</IdeaActionID>
           <ShortCut>'⇧⌘E'</ShortCut>
           <Description>Event Log</Description>
-          <Count>208</Count>
+          <Count>209</Count>
         </Item>
       </Statistic>
       <Statistic Action="Execute">
@@ -759,6 +759,22 @@
           <ShortCut>'⌃⇧F8'</ShortCut>
           <Description>View Breakpoints...</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="particle">
+        <Item>
+          <IdeaActionID>ParticleSwitch</IdeaActionID>
+          <ShortCut>'⌃⌥⇧P'</ShortCut>
+          <Description>particle</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="shake">
+        <Item>
+          <IdeaActionID>ShakeSwitch</IdeaActionID>
+          <ShortCut>'⌃⌥⇧S'</ShortCut>
+          <Description>shake</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
     </option>
