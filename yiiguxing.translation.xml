@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The strongest Java code and resources protection" />
+      <item value="This is an IDE extension that helps you detect and fix security issues in your project. By scanning against the vast Snyk database, we can identify and advise you how to fix security problems in your open source dependencies." />
+      <item value="This is an IDE extension that helps you detect and fix security issues in your project.&#10;By scanning against the vast Snyk database, we can identify and advise you how to fix security problems in your open source dependencies." />
+      <item value="Rust language support" />
+      <item value="Learn basic shortcuts and essential features interactively – right inside the IDE. No need to read long manuals or look for screencasts. Just install this plugin, open the IDE, and go to the Learn tool window to start training." />
+      <item value="CodeStream helps dev teams discuss, review, and understand code. Discussing code is now as simple as commenting on a Google Doc — select the code and type your question. CodeStream turns conversation into documentation by capturing all of the discussion about your code, and saving it with your code. Each discussion is represented as a &quot;codemark&quot; that is permanently connected to the lines of code to which it refers." />
+      <item value="Support for editing Kubernetes resource files (versions 1.5 - 1.15)." />
       <item value="patch" />
       <item value="IntelliJ Light is a new light theme for IntelliJ-based IDEs starting 2019.3. This plugin is a preview of this theme and can be used with versions 2019.1 and 2019.2." />
       <item value="Learn basic shortcuts and essential features interactively – right inside the IDE. No need to read long manuals or look for screencasts. Just install this plugin, open the IDE, and go to the Learn tool window to start training. The course includes 5 modules: Editor Basics, Completions, Refactorings, Code Assistance, and Navigation. Each module has several short lessons with quick tasks focusing on one or two useful shortcuts or features." />
@@ -10,7 +17,6 @@
       <item value="A collection of color themes created by Dayle Rees for all JetBrains platforms." />
       <item value="Vim emulation plug-in for IDEs based on the IntelliJ platform. IdeaVim supports many Vim features including normal/insert/visual modes, motion keys, deletion/changing, marks, registers, some Ex commands, Vim regexps, configuration via ~/.ideavimrc, macros, window commands, etc." />
       <item value="Vim emulation plug-in for IDEs based on the IntelliJ platform.&#10;IdeaVim supports many Vim features including normal/insert/visual modes, motion keys, deletion/changing, marks, registers, some Ex commands, Vim regexps, configuration via ~/.ideavimrc, macros, window commands, etc." />
-      <item value="Rust language support" />
       <item value="refresh App Detail Cache" />
       <item value="验证失败" />
       <item value="withdraw Notification" />
@@ -45,16 +51,10 @@
       <item value="Allow navigation between components in the template" />
       <item value="Run the Annotation Processor when a template or a component class is changed" />
       <item value="You’ll only be able to find a GitHub user by their email address if they’ve chosen to list it publicly. Otherwise, use their username instead." />
-      <item value="Embeds a code minimap similar to the one found in Sublime into the editor pane. Works with both light and dark themes using your customized colors for syntax highlighting." />
-      <item value="data not exists" />
-      <item value="The Algorithm class represents an algorithm to be used in the Signing or Verification process of a Token." />
-      <item value="LOG EXCEPTION CONVERSION WORD" />
-      <item value="magenta" />
-      <item value="faint" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="88" />
+        <entry key="CHINESE" value="89" />
         <entry key="ENGLISH" value="89" />
         <entry key="DANISH" value="2" />
         <entry key="NORWEGIAN" value="1" />
