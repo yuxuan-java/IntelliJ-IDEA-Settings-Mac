@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A collection of color themes created by Dayle Rees for all JetBrains platforms." />
+      <item value="Vuesion theme and color scheme for IntelliJ®, Webstorm® and other Jetbrains® IDEs." />
       <item value="The strongest Java code and resources protection" />
       <item value="This is an IDE extension that helps you detect and fix security issues in your project. By scanning against the vast Snyk database, we can identify and advise you how to fix security problems in your open source dependencies." />
       <item value="This is an IDE extension that helps you detect and fix security issues in your project.&#10;By scanning against the vast Snyk database, we can identify and advise you how to fix security problems in your open source dependencies." />
@@ -14,7 +16,6 @@
       <item value="Learn basic shortcuts and essential features interactively – right inside the IDE. No need to read long manuals or look for screencasts. Just install this plugin, open the IDE, and go to the Learn tool window to start training.&#10;The course includes 5 modules: Editor Basics, Completions, Refactorings, Code Assistance, and Navigation. Each module has several short lessons with quick tasks focusing on one or two useful shortcuts or features." />
       <item value="provided" />
       <item value="AiXCoder plugin, based on deep learning" />
-      <item value="A collection of color themes created by Dayle Rees for all JetBrains platforms." />
       <item value="Vim emulation plug-in for IDEs based on the IntelliJ platform. IdeaVim supports many Vim features including normal/insert/visual modes, motion keys, deletion/changing, marks, registers, some Ex commands, Vim regexps, configuration via ~/.ideavimrc, macros, window commands, etc." />
       <item value="Vim emulation plug-in for IDEs based on the IntelliJ platform.&#10;IdeaVim supports many Vim features including normal/insert/visual modes, motion keys, deletion/changing, marks, registers, some Ex commands, Vim regexps, configuration via ~/.ideavimrc, macros, window commands, etc." />
       <item value="refresh App Detail Cache" />
@@ -46,7 +47,6 @@
       <item value="Ability to create preconfigured Ktor projects with optional Swagger/OpenAPI support." />
       <item value="This plugin supports the Ktor framework. Note: It doesn't work on Android Studio. The following features are available:" />
       <item value="Coordinator" />
-      <item value="Vuesion theme and color scheme for IntelliJ®, Webstorm® and other Jetbrains® IDEs." />
       <item value="The IntelliVue plugin for IntelliJ provides analysis, actions, and utilities for Vue Single File Components. This plugin adds additional functionality on top of the standard Vue plugin. Full undo-redo support is enabled, so you are assured that your important code will not get corrupted by unexpected operations. `Actions` and `Intentions` are added to create and navigate from references to implementation. When creating a new Vue component option, a dialog is displayed." />
       <item value="Allow navigation between components in the template" />
       <item value="Run the Annotation Processor when a template or a component class is changed" />
