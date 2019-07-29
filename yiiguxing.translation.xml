@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Reference" />
       <item value="Postfix" />
       <item value="Retains only the elements in this collection that are contained in the * specified collection (optional operation). In other words, removes from * this collection all of its elements that are not contained in the * specified collection." />
       <item value="A collection of color themes created by Dayle Rees for all JetBrains platforms." />
@@ -50,7 +51,6 @@
       <item value="This plugin supports the Ktor framework. Note: It doesn't work on Android Studio. The following features are available:" />
       <item value="Coordinator" />
       <item value="The IntelliVue plugin for IntelliJ provides analysis, actions, and utilities for Vue Single File Components. This plugin adds additional functionality on top of the standard Vue plugin. Full undo-redo support is enabled, so you are assured that your important code will not get corrupted by unexpected operations. `Actions` and `Intentions` are added to create and navigate from references to implementation. When creating a new Vue component option, a dialog is displayed." />
-      <item value="Allow navigation between components in the template" />
     </histories>
     <option name="languageScores">
       <map>
