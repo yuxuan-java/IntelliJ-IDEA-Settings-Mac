@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="merchandise" />
+      <item value="get Express Fee" />
       <item value="process Tax Exemption" />
       <item value="Reference" />
       <item value="Postfix" />
@@ -49,13 +51,12 @@
       <item value="Plug-in that transforms Java strings with constant values to SQL text and replaces constants with their values. Just put cursor to the SQL string in your code and press the button in the plugin window &gt; SQL is ready to use: [[ int value = 1; String sql = &quot;select &quot; + value + &quot; from dual&quot;; ]] &gt;&gt; Plugin &gt;&gt; select 1 from dual" />
       <item value="Plugin that generates java docs on java class elements, like field, method, etc." />
       <item value="Ability to create preconfigured Ktor projects with optional Swagger/OpenAPI support." />
-      <item value="This plugin supports the Ktor framework. Note: It doesn't work on Android Studio. The following features are available:" />
-      <item value="Coordinator" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="89" />
-        <entry key="ENGLISH" value="89" />
+        <entry key="CHINESE" value="91" />
+        <entry key="ENGLISH" value="92" />
+        <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="NORWEGIAN" value="1" />
       </map>
@@ -64,7 +65,7 @@
   <component name="Settings">
     <option name="googleTranslateSettings">
       <google-translate>
-        <option name="primaryLanguage" value="CHINESE_TRADITIONAL" />
+        <option name="useTranslateGoogleCom" value="false" />
       </google-translate>
     </option>
     <option name="ignoreRegExp" value="" />

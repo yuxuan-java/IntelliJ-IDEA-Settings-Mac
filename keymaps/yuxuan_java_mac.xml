@@ -247,6 +247,7 @@
   <action id="ToggleLineBreakpoint">
     <keyboard-shortcut first-keystroke="ctrl f8" />
   </action>
+  <action id="TypeHierarchy" />
   <action id="Vcs.RollbackChangedLines" />
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="meta back_quote" />
