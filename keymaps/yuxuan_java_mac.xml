@@ -63,12 +63,14 @@
   <action id="ChangesView.Revert">
     <keyboard-shortcut first-keystroke="ctrl alt z" />
     <keyboard-shortcut first-keystroke="shift ctrl z" />
+    <keyboard-shortcut first-keystroke="f12" />
   </action>
   <action id="CheckForUpdate">
     <keyboard-shortcut first-keystroke="shift ctrl meta u" />
   </action>
   <action id="CheckinFiles">
     <keyboard-shortcut first-keystroke="shift ctrl j" />
+    <keyboard-shortcut first-keystroke="f3" />
   </action>
   <action id="ChooseDebugConfiguration" />
   <action id="ChooseRunConfiguration" />
@@ -104,6 +106,7 @@
   <action id="ConsoleView.ClearAll">
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
+  <action id="ContextHelp" />
   <action id="CopyPaths">
     <keyboard-shortcut first-keystroke="ctrl alt c" />
   </action>
@@ -112,6 +115,10 @@
   </action>
   <action id="Debug">
     <keyboard-shortcut first-keystroke="shift alt d" />
+    <keyboard-shortcut first-keystroke="f1" />
+  </action>
+  <action id="Debugger.RemoveAllBreakpoints">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
   </action>
   <action id="EditSource" />
   <action id="Editor Copy">
@@ -148,6 +155,7 @@
     <keyboard-shortcut first-keystroke="shift meta m" />
   </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="FindWordAtCaret" />
   <action id="Forward">
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="meta right" />
@@ -220,6 +228,9 @@
     <keyboard-shortcut first-keystroke="ctrl f" />
     <keyboard-shortcut first-keystroke="meta f" />
   </action>
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="f8" />
+  </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="shift alt j" />
   </action>
@@ -241,6 +252,14 @@
     <keyboard-shortcut first-keystroke="shift ctrl m" />
     <keyboard-shortcut first-keystroke="meta enter" />
   </action>
+  <action id="ShowPopupMenu">
+    <keyboard-shortcut first-keystroke="ctrl n" />
+    <keyboard-shortcut first-keystroke="shift alt s" />
+    <keyboard-shortcut first-keystroke="shift alt t" />
+  </action>
+  <action id="Stop">
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+  </action>
   <action id="SurroundWith">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
@@ -248,9 +267,20 @@
     <keyboard-shortcut first-keystroke="ctrl f8" />
   </action>
   <action id="TypeHierarchy" />
+  <action id="UpdateRunningApplication" />
+  <action id="Vcs.Push">
+    <keyboard-shortcut first-keystroke="shift ctrl k" />
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
   <action id="Vcs.RollbackChangedLines" />
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="meta back_quote" />
+  </action>
+  <action id="ViewBreakpoints">
+    <keyboard-shortcut first-keystroke="f9" />
+  </action>
+  <action id="XDebugger.MuteBreakpoints">
+    <keyboard-shortcut first-keystroke="f10" />
   </action>
   <action id="hg4idea.pull">
     <keyboard-shortcut first-keystroke="shift ctrl l" />
