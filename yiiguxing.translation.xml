@@ -3,8 +3,8 @@
     <histories>
       <item value="Java Reference Diagram This plugins gives an overview about coupling and cohesion of java files in a package, methods in a class. A reference graph of methods, fields and class initializer blocks. A reference graph of files in a package. Visual information about orphaned groups, meaning independent clusters that are candidates for refactoring to separate structures. Analyze structure of callees and callers. I.e. Show subgraph of transitive callees / callers of a node. Show connection between two elements. See documentation for detailed informtation." />
       <item value="Java Reference Diagram This plugins gives an overview about coupling and cohesion of java files in a package, methods in a class.&#10;A reference graph of methods, fields and class initializer blocks.&#10;A reference graph of files in a package.&#10;Visual information about orphaned groups, meaning independent clusters that are candidates for refactoring to separate structures.&#10;Analyze structure of callees and callers. I.e.&#10;Show subgraph of transitive callees / callers of a node.&#10;Show connection between two elements.&#10;See documentation for detailed informtation." />
-      <item value="With HasteIt you can quickly share your current file or selected text to Hastebin." />
       <item value="Level of Neva river near its estuary (chart widget for status bar)" />
+      <item value="With HasteIt you can quickly share your current file or selected text to Hastebin." />
       <item value="Enhances your productivity when developing applications based on CUBA Platform." />
       <item value="become a sponsor!." />
       <item value="merchandise" />
