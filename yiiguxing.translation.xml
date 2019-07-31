@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="become a sponsor!." />
       <item value="merchandise" />
       <item value="get Express Fee" />
       <item value="process Tax Exemption" />
@@ -50,11 +51,10 @@
       <item value="Plugin that generates java docs on java class elements, like field, method, etc" />
       <item value="Plug-in that transforms Java strings with constant values to SQL text and replaces constants with their values. Just put cursor to the SQL string in your code and press the button in the plugin window &gt; SQL is ready to use: [[ int value = 1; String sql = &quot;select &quot; + value + &quot; from dual&quot;; ]] &gt;&gt; Plugin &gt;&gt; select 1 from dual" />
       <item value="Plugin that generates java docs on java class elements, like field, method, etc." />
-      <item value="Ability to create preconfigured Ktor projects with optional Swagger/OpenAPI support." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="91" />
+        <entry key="CHINESE" value="92" />
         <entry key="ENGLISH" value="92" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="2" />
