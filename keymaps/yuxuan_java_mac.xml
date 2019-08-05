@@ -149,6 +149,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl u" />
     <keyboard-shortcut first-keystroke="shift ctrl y" />
   </action>
+  <action id="EvaluateExpression">
+    <keyboard-shortcut first-keystroke="shift ctrl meta e" />
+  </action>
   <action id="ExtractMethod">
     <keyboard-shortcut first-keystroke="shift alt m" />
     <keyboard-shortcut first-keystroke="shift meta m" />
