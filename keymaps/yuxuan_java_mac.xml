@@ -68,7 +68,6 @@
     <keyboard-shortcut first-keystroke="shift ctrl meta u" />
   </action>
   <action id="CheckinFiles">
-    <keyboard-shortcut first-keystroke="shift ctrl j" />
     <keyboard-shortcut first-keystroke="f3" />
   </action>
   <action id="ChooseDebugConfiguration" />
@@ -157,6 +156,7 @@
     <keyboard-shortcut first-keystroke="shift meta m" />
   </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="FindPrevious" />
   <action id="FindWordAtCaret" />
   <action id="Forward">
     <mouse-shortcut keystroke="button5" />
@@ -172,11 +172,9 @@
     <keyboard-shortcut first-keystroke="meta b" />
   </action>
   <action id="Git.Commit.And.Push.Executor">
-    <keyboard-shortcut first-keystroke="ctrl alt k" />
     <keyboard-shortcut first-keystroke="meta enter" />
   </action>
   <action id="Git.Pull">
-    <keyboard-shortcut first-keystroke="shift ctrl l" />
     <keyboard-shortcut first-keystroke="f1" />
   </action>
   <action id="Git.Reword.Commit" />
@@ -199,6 +197,7 @@
     <mouse-shortcut keystroke="meta button1" />
     <keyboard-shortcut first-keystroke="ctrl alt b" />
   </action>
+  <action id="Hg.Commit.And.Push.Executor" />
   <action id="HippieCompletion">
     <keyboard-shortcut first-keystroke="alt quote" />
   </action>
@@ -274,7 +273,6 @@
   <action id="TypeHierarchy" />
   <action id="UpdateRunningApplication" />
   <action id="Vcs.Push">
-    <keyboard-shortcut first-keystroke="shift ctrl k" />
     <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="Vcs.RollbackChangedLines" />
@@ -289,7 +287,7 @@
   </action>
   <action id="hg4idea.QFold" />
   <action id="hg4idea.pull">
-    <keyboard-shortcut first-keystroke="shift ctrl l" />
+    <keyboard-shortcut first-keystroke="f1" />
   </action>
   <action id="searchCodeAction">
     <keyboard-shortcut first-keystroke="shift ctrl meta f" />
