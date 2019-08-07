@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="destination" />
+      <item value="orig" />
+      <item value="dest" />
       <item value="Modern JVM languages such as Kotlin, Groovy, Scala and some others offer many language features that let you write code in a more concise and expressive manner. These features include type inference, properties, interpolated string, range and tuple literals, enhanced operators, clojures, implicits, smart casts and many more. This plugin extends the IDE’s folding features to emulate some of these modern languages’ features helping fight verbosity. For more information, read the blog post. To get access to experimental features, go to Settings | Plugins | Browse Repositories | Manage Repositories and add https://plugins.jetbrains.com/plugins/EAP/com.intellij.bigdecimal-folding as a custom plugin repository URL. For more clarity, you may try to adjust your color scheme: go to Settings | Editor | Colors &amp; Fonts | General, select Folded text, uncheck the Background color, and change the Foreground color to #000091 for the default scheme and #7CA0BB for Darcula. To disable certain types of folding, go to Settings | Editor | General | Code Folding." />
       <item value="Modern JVM languages such as Kotlin, Groovy, Scala and some others offer many language features that let you write code in a more concise and expressive manner. These features include type inference, properties, interpolated string, range and tuple literals, enhanced operators, clojures, implicits, smart casts and many more.&#10;This plugin extends the IDE’s folding features to emulate some of these modern languages’ features helping fight verbosity.&#10;For more information, read the blog post.&#10;To get access to experimental features, go to Settings | Plugins | Browse Repositories | Manage Repositories and add https://plugins.jetbrains.com/plugins/EAP/com.intellij.bigdecimal-folding as a custom plugin repository URL.&#10;For more clarity, you may try to adjust your color scheme: go to Settings | Editor | Colors &amp; Fonts | General, select Folded text, uncheck the Background color, and change the Foreground color to #000091 for the default scheme and #7CA0BB for Darcula.&#10;To disable certain types of folding, go to Settings | Editor | General | Code Folding." />
       <item value="return null" />
@@ -48,16 +51,14 @@
       <item value="Aggregation" />
       <item value="get Withdraw Aggregation" />
       <item value="The driver has not received any packets from the server." />
-      <item value="提现" />
-      <item value="withdraw" />
-      <item value="&lt;p&gt;The following are examples of using the predefined collectors to perform * common mutable reduction tasks:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="94" />
-        <entry key="ENGLISH" value="94" />
+        <entry key="CHINESE" value="98" />
+        <entry key="ENGLISH" value="99" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="2" />
+        <entry key="KURDISH" value="2" />
         <entry key="NORWEGIAN" value="1" />
       </map>
     </option>
