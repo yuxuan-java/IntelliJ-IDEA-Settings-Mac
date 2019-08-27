@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="With the system date" />
+      <item value="Calculate whether a certain date in the area in between" />
       <item value="person Cert Handle" />
       <item value="get Customer Id" />
       <item value="get Transaction No" />
@@ -49,13 +51,11 @@
       <item value="provided" />
       <item value="AiXCoder plugin, based on deep learning" />
       <item value="Vim emulation plug-in for IDEs based on the IntelliJ platform. IdeaVim supports many Vim features including normal/insert/visual modes, motion keys, deletion/changing, marks, registers, some Ex commands, Vim regexps, configuration via ~/.ideavimrc, macros, window commands, etc." />
-      <item value="Vim emulation plug-in for IDEs based on the IntelliJ platform.&#10;IdeaVim supports many Vim features including normal/insert/visual modes, motion keys, deletion/changing, marks, registers, some Ex commands, Vim regexps, configuration via ~/.ideavimrc, macros, window commands, etc." />
-      <item value="refresh App Detail Cache" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="105" />
-        <entry key="ENGLISH" value="106" />
+        <entry key="CHINESE" value="107" />
+        <entry key="ENGLISH" value="108" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="KURDISH" value="2" />
