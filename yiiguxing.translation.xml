@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="three Condition" />
+      <item value="await" />
+      <item value="println" />
+      <item value="signal" />
       <item value="Use is subject to license terms." />
       <item value="ORACLE PROPRIETARY/CONFIDENTIAL" />
       <item value="邀请会员分享页面Url" />
@@ -47,15 +51,11 @@
       <item value="This is an IDE extension that helps you detect and fix security issues in your project.&#10;By scanning against the vast Snyk database, we can identify and advise you how to fix security problems in your open source dependencies." />
       <item value="Rust language support" />
       <item value="Learn basic shortcuts and essential features interactively – right inside the IDE. No need to read long manuals or look for screencasts. Just install this plugin, open the IDE, and go to the Learn tool window to start training." />
-      <item value="CodeStream helps dev teams discuss, review, and understand code. Discussing code is now as simple as commenting on a Google Doc — select the code and type your question. CodeStream turns conversation into documentation by capturing all of the discussion about your code, and saving it with your code. Each discussion is represented as a &quot;codemark&quot; that is permanently connected to the lines of code to which it refers." />
-      <item value="Support for editing Kubernetes resource files (versions 1.5 - 1.15)." />
-      <item value="patch" />
-      <item value="IntelliJ Light is a new light theme for IntelliJ-based IDEs starting 2019.3. This plugin is a preview of this theme and can be used with versions 2019.1 and 2019.2." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="113" />
-        <entry key="ENGLISH" value="114" />
+        <entry key="CHINESE" value="119" />
+        <entry key="ENGLISH" value="120" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="KURDISH" value="2" />
