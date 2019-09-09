@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cyclic Barrier" />
       <item value="three Condition" />
       <item value="await" />
       <item value="println" />
@@ -50,12 +51,11 @@
       <item value="This is an IDE extension that helps you detect and fix security issues in your project. By scanning against the vast Snyk database, we can identify and advise you how to fix security problems in your open source dependencies." />
       <item value="This is an IDE extension that helps you detect and fix security issues in your project.&#10;By scanning against the vast Snyk database, we can identify and advise you how to fix security problems in your open source dependencies." />
       <item value="Rust language support" />
-      <item value="Learn basic shortcuts and essential features interactively – right inside the IDE. No need to read long manuals or look for screencasts. Just install this plugin, open the IDE, and go to the Learn tool window to start training." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="119" />
-        <entry key="ENGLISH" value="120" />
+        <entry key="CHINESE" value="120" />
+        <entry key="ENGLISH" value="121" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="KURDISH" value="2" />
