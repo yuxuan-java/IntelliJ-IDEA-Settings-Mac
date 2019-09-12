@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Structure" />
+      <item value="get Price Structure" />
       <item value="Semaphore" />
       <item value="Cyclic Barrier" />
       <item value="three Condition" />
@@ -49,13 +51,11 @@
       <item value="A collection of color themes created by Dayle Rees for all JetBrains platforms." />
       <item value="Vuesion theme and color scheme for IntelliJ®, Webstorm® and other Jetbrains® IDEs." />
       <item value="The strongest Java code and resources protection" />
-      <item value="This is an IDE extension that helps you detect and fix security issues in your project. By scanning against the vast Snyk database, we can identify and advise you how to fix security problems in your open source dependencies." />
-      <item value="This is an IDE extension that helps you detect and fix security issues in your project.&#10;By scanning against the vast Snyk database, we can identify and advise you how to fix security problems in your open source dependencies." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="121" />
-        <entry key="ENGLISH" value="122" />
+        <entry key="CHINESE" value="123" />
+        <entry key="ENGLISH" value="124" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="KURDISH" value="2" />
