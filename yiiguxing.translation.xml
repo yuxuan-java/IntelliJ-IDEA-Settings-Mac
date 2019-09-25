@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The second Tuesday in November" />
+      <item value="On the first Monday in November" />
+      <item value="One day after the Y2K 45 days next month when the date of the last day of the week" />
       <item value="Structure" />
       <item value="get Price Structure" />
       <item value="Semaphore" />
@@ -48,14 +51,11 @@
       <item value="Reference" />
       <item value="Postfix" />
       <item value="Retains only the elements in this collection that are contained in the * specified collection (optional operation). In other words, removes from * this collection all of its elements that are not contained in the * specified collection." />
-      <item value="A collection of color themes created by Dayle Rees for all JetBrains platforms." />
-      <item value="Vuesion theme and color scheme for IntelliJ®, Webstorm® and other Jetbrains® IDEs." />
-      <item value="The strongest Java code and resources protection" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="124" />
-        <entry key="ENGLISH" value="124" />
+        <entry key="CHINESE" value="126" />
+        <entry key="ENGLISH" value="127" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="KURDISH" value="2" />
