@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="必须有一个类型" />
+      <item value="必须有一个class类型" />
+      <item value="REQUIRED" />
       <item value="All listeners receive this method when any one Listener does an error report. If an exception is thrown here, the * entire read will terminate." />
       <item value="Interface to listen for read results" />
       <item value="The second Tuesday in November" />
@@ -48,14 +51,11 @@
       <item value="Enhances your productivity when developing applications based on CUBA Platform." />
       <item value="become a sponsor!." />
       <item value="merchandise" />
-      <item value="get Express Fee" />
-      <item value="process Tax Exemption" />
-      <item value="Reference" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="128" />
-        <entry key="ENGLISH" value="129" />
+        <entry key="CHINESE" value="132" />
+        <entry key="ENGLISH" value="130" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="KURDISH" value="2" />
