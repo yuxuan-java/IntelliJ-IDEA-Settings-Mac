@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set String Output Type" />
+      <item value="set Salt Generator Class Name" />
+      <item value="set Provider Name" />
+      <item value="set Algorithm" />
+      <item value="set Password" />
+      <item value="set Key Obtention Iterations" />
+      <item value="Security Configuration" />
       <item value="compute" />
       <item value="is Infinite" />
       <item value="Arithmetic Exception" />
@@ -44,20 +51,14 @@
       <item value="Plugin for searching artifacts ids of popular Java libraries. Use those for adding new dependencies easily to your build.gradle files." />
       <item value="Plugin for quick navigation to url mapping declaration." />
       <item value="This plugin adds support for Prettier (https://prettier.io), an opinionated code formatter. To use it: Add prettier to your project with npm install prettier --save-dev or install it globally Select the code or file you want to format using Prettier Use the “Reformat with Prettier” action (Alt-Shift-Cmd-P on macOS or Alt-Shift-Ctrl-P on Windows and Linux) or find it using the “Find Action” popup (Cmd/Ctrl-Shift-A) To run Prettier on save, please configure and use File Watchers. This plugin is compatible with the IDE versions starting from 2018.1. Please report any issues in the issue tracker." />
-      <item value="This plugin adds support for Prettier (https://prettier.io), an opinionated code formatter. To use it:&#10;Add prettier to your project with npm install prettier --save-dev or install it globally&#10;Select the code or file you want to format using Prettier&#10;Use the “Reformat with Prettier” action (Alt-Shift-Cmd-P on macOS or Alt-Shift-Ctrl-P on Windows and Linux) or find it using the “Find Action” popup (Cmd/Ctrl-Shift-A) To run Prettier on save, please configure and use File Watchers. This plugin is compatible with the IDE versions starting from 2018.1. Please report any issues in the issue tracker." />
-      <item value="cmdTools is a mini windows cmd tools for one click shortcut operation: 1.0 open file in file explore 2.0 open cmd on choosed file 3.0 kill all java.exe process" />
-      <item value="cmdTools is a mini windows cmd tools for one click shortcut operation:&#10;1.0 open file in file explore&#10;2.0 open cmd on choosed file&#10;3.0 kill all java.exe process" />
-      <item value="Level of Neva river near its estuary (chart widget for status bar)" />
-      <item value="Java Reference Diagram This plugins gives an overview about coupling and cohesion of java files in a package, methods in a class. A reference graph of methods, fields and class initializer blocks. A reference graph of files in a package. Visual information about orphaned groups, meaning independent clusters that are candidates for refactoring to separate structures. Analyze structure of callees and callers. I.e. Show subgraph of transitive callees / callers of a node. Show connection between two elements. See documentation for detailed informtation." />
-      <item value="Java Reference Diagram This plugins gives an overview about coupling and cohesion of java files in a package, methods in a class.&#10;A reference graph of methods, fields and class initializer blocks.&#10;A reference graph of files in a package.&#10;Visual information about orphaned groups, meaning independent clusters that are candidates for refactoring to separate structures.&#10;Analyze structure of callees and callers. I.e.&#10;Show subgraph of transitive callees / callers of a node.&#10;Show connection between two elements.&#10;See documentation for detailed informtation." />
-      <item value="With HasteIt you can quickly share your current file or selected text to Hastebin." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="132" />
-        <entry key="ENGLISH" value="133" />
+        <entry key="CHINESE" value="138" />
+        <entry key="ENGLISH" value="139" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="2" />
+        <entry key="FRENCH" value="1" />
         <entry key="KURDISH" value="2" />
         <entry key="NORWEGIAN" value="1" />
       </map>
