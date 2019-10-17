@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="IllegalState Failed to load ApplicationContext" />
       <item value="set String Output Type" />
       <item value="set Salt Generator Class Name" />
       <item value="set Provider Name" />
@@ -50,12 +51,11 @@
       <item value="Cacher is a cross-platform, cloud-based app used to curate a snippet library for you and your team. This plugin lets you quickly create and insert personal/team snippets without leaving your IDE.&#10;Plugin Features&#10;Sync code snippets with Cacher -- across web, desktop clients and IDEs.&#10;Quickly find and insert snippets while you're coding.&#10;Create snippets from files and code selections.&#10;Enjoy the same code editing experience as your IntelliJ-based IDE.&#10;Collaborate on project code with your teammates, regardless of IDE/editor preference." />
       <item value="Plugin for searching artifacts ids of popular Java libraries. Use those for adding new dependencies easily to your build.gradle files." />
       <item value="Plugin for quick navigation to url mapping declaration." />
-      <item value="This plugin adds support for Prettier (https://prettier.io), an opinionated code formatter. To use it: Add prettier to your project with npm install prettier --save-dev or install it globally Select the code or file you want to format using Prettier Use the “Reformat with Prettier” action (Alt-Shift-Cmd-P on macOS or Alt-Shift-Ctrl-P on Windows and Linux) or find it using the “Find Action” popup (Cmd/Ctrl-Shift-A) To run Prettier on save, please configure and use File Watchers. This plugin is compatible with the IDE versions starting from 2018.1. Please report any issues in the issue tracker." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="138" />
-        <entry key="ENGLISH" value="139" />
+        <entry key="CHINESE" value="139" />
+        <entry key="ENGLISH" value="140" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="1" />
