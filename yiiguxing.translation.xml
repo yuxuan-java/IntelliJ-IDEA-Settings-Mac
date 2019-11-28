@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The specified target project directory src/main/java does not exist" />
+      <item value="'dependencies.dependency.(groupId:artifactId:type:classifier)' must be unique" />
       <item value="Properties in form {@literal key=value} that should be added to the Spring" />
       <item value="expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}" />
       <item value="Page Domain" />
@@ -49,13 +51,11 @@
       <item value="get Transaction No" />
       <item value="item" />
       <item value="specified twice" />
-      <item value="destination" />
-      <item value="orig" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="147" />
-        <entry key="ENGLISH" value="148" />
+        <entry key="CHINESE" value="149" />
+        <entry key="ENGLISH" value="150" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="1" />
