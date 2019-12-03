@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cannot execute request on any known server" />
+      <item value="any known server" />
+      <item value="There was a problem with the instance info replicator" />
+      <item value="was unable to refresh its cache! status = Cannot execute request on any known server" />
+      <item value="Discovery Client" />
+      <item value="retrying on another server if available" />
       <item value="The specified target project directory src/main/java does not exist" />
       <item value="'dependencies.dependency.(groupId:artifactId:type:classifier)' must be unique" />
       <item value="Properties in form {@literal key=value} that should be added to the Spring" />
@@ -45,17 +51,11 @@
       <item value="bit Matrix" />
       <item value="interval" />
       <item value="With the system date" />
-      <item value="Calculate whether a certain date in the area in between" />
-      <item value="person Cert Handle" />
-      <item value="get Customer Id" />
-      <item value="get Transaction No" />
-      <item value="item" />
-      <item value="specified twice" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="149" />
-        <entry key="ENGLISH" value="150" />
+        <entry key="CHINESE" value="155" />
+        <entry key="ENGLISH" value="156" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="1" />
