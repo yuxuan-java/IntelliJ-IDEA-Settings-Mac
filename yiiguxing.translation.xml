@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Will also generate setters for all non-final fields, as well as a constructor." />
       <item value="Api Implicit Params" />
       <item value="Allows for filtering a parameter from the API documentation." />
       <item value="Unable to start LiveReload server" />
@@ -50,12 +51,11 @@
       <item value="await" />
       <item value="println" />
       <item value="signal" />
-      <item value="Use is subject to license terms." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="160" />
-        <entry key="ENGLISH" value="161" />
+        <entry key="CHINESE" value="161" />
+        <entry key="ENGLISH" value="162" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="1" />
