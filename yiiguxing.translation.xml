@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Component" />
+      <item value="Concrete" />
+      <item value="Concrete Component" />
       <item value="Sets the configured parameter value for this converter instance. * Should be called by Dozer internaly before actual mapping." />
       <item value="Inject" />
       <item value="Setter for converter static parameter. Method is guaranteed to be called before the first execution." />
@@ -48,14 +51,11 @@
       <item value="One day after the Y2K 45 days next month when the date of the last day of the week" />
       <item value="Structure" />
       <item value="get Price Structure" />
-      <item value="Semaphore" />
-      <item value="Cyclic Barrier" />
-      <item value="three Condition" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="164" />
-        <entry key="ENGLISH" value="165" />
+        <entry key="CHINESE" value="167" />
+        <entry key="ENGLISH" value="168" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="1" />
