@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Validate" />
+      <item value="Validate Util" />
+      <item value="verification exception" />
       <item value="Component" />
       <item value="Concrete" />
       <item value="Concrete Component" />
@@ -48,18 +51,16 @@
       <item value="Interface to listen for read results" />
       <item value="The second Tuesday in November" />
       <item value="On the first Monday in November" />
-      <item value="One day after the Y2K 45 days next month when the date of the last day of the week" />
-      <item value="Structure" />
-      <item value="get Price Structure" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="167" />
-        <entry key="ENGLISH" value="168" />
+        <entry key="CHINESE" value="169" />
+        <entry key="ENGLISH" value="170" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="KURDISH" value="2" />
+        <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
       </map>
     </option>
