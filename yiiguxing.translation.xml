@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Param validate failure, maybe it is empty, please check again." />
+      <item value="please check again" />
+      <item value="也许它是空的" />
+      <item value="target" />
+      <item value="序号" />
       <item value="Validate" />
       <item value="Validate Util" />
       <item value="verification exception" />
@@ -46,16 +51,11 @@
       <item value="Arithmetic Exception" />
       <item value="必须有一个类型" />
       <item value="必须有一个class类型" />
-      <item value="REQUIRED" />
-      <item value="All listeners receive this method when any one Listener does an error report. If an exception is thrown here, the * entire read will terminate." />
-      <item value="Interface to listen for read results" />
-      <item value="The second Tuesday in November" />
-      <item value="On the first Monday in November" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="169" />
-        <entry key="ENGLISH" value="170" />
+        <entry key="CHINESE" value="174" />
+        <entry key="ENGLISH" value="175" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="1" />
