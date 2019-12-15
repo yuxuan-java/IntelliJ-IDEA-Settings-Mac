@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="specific Request" />
+      <item value="Adaptee" />
       <item value="Delegate" />
       <item value="Undeclared Throwable Exception" />
       <item value="Pass Controller Aspect" />
@@ -49,13 +51,11 @@
       <item value="master Sql Hint" />
       <item value="MONTH" />
       <item value="set String Output Type" />
-      <item value="set Salt Generator Class Name" />
-      <item value="set Provider Name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="181" />
-        <entry key="ENGLISH" value="182" />
+        <entry key="CHINESE" value="183" />
+        <entry key="ENGLISH" value="184" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="1" />
