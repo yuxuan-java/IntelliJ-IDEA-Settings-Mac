@@ -226,6 +226,12 @@
     <keyboard-shortcut first-keystroke="shift ctrl meta o" />
   </action>
   <action id="MethodHierarchy" />
+  <action id="NewClass">
+    <keyboard-shortcut first-keystroke="meta n" />
+  </action>
+  <action id="NewDir">
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
   <action id="PublishGroup.UploadTo" />
   <action id="QuickEvaluateExpression">
     <keyboard-shortcut first-keystroke="ctrl alt f8" />
