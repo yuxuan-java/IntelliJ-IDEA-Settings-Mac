@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="primitive Operation 1" />
       <item value="simple" />
       <item value="factory" />
       <item value="specific Request" />
@@ -50,12 +51,11 @@
       <item value="The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary." />
       <item value="IllegalState Failed to load ApplicationContext" />
       <item value="BaseResult rename Response" />
-      <item value="master Sql Hint" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="184" />
-        <entry key="ENGLISH" value="184" />
+        <entry key="ENGLISH" value="185" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="1" />
