@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="simple" />
+      <item value="factory" />
       <item value="specific Request" />
       <item value="Adaptee" />
       <item value="Delegate" />
@@ -49,12 +51,10 @@
       <item value="IllegalState Failed to load ApplicationContext" />
       <item value="BaseResult rename Response" />
       <item value="master Sql Hint" />
-      <item value="MONTH" />
-      <item value="set String Output Type" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="183" />
+        <entry key="CHINESE" value="184" />
         <entry key="ENGLISH" value="184" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="2" />
