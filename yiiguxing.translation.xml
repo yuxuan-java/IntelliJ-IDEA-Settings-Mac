@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Adds navigation, auto completion and inspections specific to the Helidon framework." />
+      <item value="Access" />
       <item value="Department" />
       <item value="build Leg Left" />
       <item value="Cacher is a cross-platform, cloud-based app used to curate a snippet library for you and your team. This plugin lets you quickly create and insert personal/team snippets without leaving your IDE." />
@@ -49,15 +51,13 @@
       <item value="retrying on another server if available" />
       <item value="The specified target project directory src/main/java does not exist" />
       <item value="'dependencies.dependency.(groupId:artifactId:type:classifier)' must be unique" />
-      <item value="Properties in form {@literal key=value} that should be added to the Spring" />
-      <item value="expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="186" />
-        <entry key="ENGLISH" value="187" />
+        <entry key="CHINESE" value="189" />
+        <entry key="ENGLISH" value="189" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
-        <entry key="DANISH" value="2" />
+        <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="1" />
         <entry key="KURDISH" value="2" />
         <entry key="ROMANIAN" value="1" />
