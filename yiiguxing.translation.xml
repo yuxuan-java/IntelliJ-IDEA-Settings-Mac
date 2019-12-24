@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Refined" />
       <item value="Closed for modification" />
       <item value="Open for extension" />
       <item value="principle" />
@@ -50,12 +51,11 @@
       <item value="Api Implicit Params" />
       <item value="Allows for filtering a parameter from the API documentation." />
       <item value="Unable to start LiveReload server" />
-      <item value="Unregistering" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="194" />
-        <entry key="ENGLISH" value="195" />
+        <entry key="CHINESE" value="195" />
+        <entry key="ENGLISH" value="196" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="1" />
