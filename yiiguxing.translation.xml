@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="slob" />
+      <item value="懒汉" />
+      <item value="sluggard" />
       <item value="Singleton" />
       <item value="depth" />
       <item value="Adds navigation, auto completion and inspections specific to the Helidon framework." />
@@ -48,14 +51,11 @@
       <item value="Cannot execute request on any known server" />
       <item value="any known server" />
       <item value="There was a problem with the instance info replicator" />
-      <item value="was unable to refresh its cache! status = Cannot execute request on any known server" />
-      <item value="Discovery Client" />
-      <item value="retrying on another server if available" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="190" />
-        <entry key="ENGLISH" value="191" />
+        <entry key="CHINESE" value="193" />
+        <entry key="ENGLISH" value="193" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="1" />
