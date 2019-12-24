@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Closed for modification" />
+      <item value="Open for extension" />
+      <item value="principle" />
+      <item value="carp" />
       <item value="slob" />
       <item value="懒汉" />
       <item value="sluggard" />
@@ -47,15 +51,11 @@
       <item value="Allows for filtering a parameter from the API documentation." />
       <item value="Unable to start LiveReload server" />
       <item value="Unregistering" />
-      <item value="Running the evict task with compensationTime 2ms" />
-      <item value="Cannot execute request on any known server" />
-      <item value="any known server" />
-      <item value="There was a problem with the instance info replicator" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="193" />
-        <entry key="ENGLISH" value="193" />
+        <entry key="CHINESE" value="194" />
+        <entry key="ENGLISH" value="195" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="1" />
