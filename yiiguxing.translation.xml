@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Object Structure" />
       <item value="Amativeness" />
       <item value="双分派" />
       <item value="extrinsicstate" />
@@ -50,12 +51,11 @@
       <item value="Validate Util" />
       <item value="verification exception" />
       <item value="Component" />
-      <item value="Concrete" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="200" />
-        <entry key="ENGLISH" value="201" />
+        <entry key="CHINESE" value="201" />
+        <entry key="ENGLISH" value="202" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="1" />
