@@ -184,6 +184,9 @@
   <action id="Git.Commit.And.Push.Executor">
     <keyboard-shortcut first-keystroke="shift meta f3" />
   </action>
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
   <action id="Git.Reword.Commit" />
   <action id="GitExtender.UpdateAll">
     <keyboard-shortcut first-keystroke="meta t" />
@@ -304,9 +307,6 @@
     <keyboard-shortcut first-keystroke="shift ctrl meta r" />
   </action>
   <action id="hg4idea.QFold" />
-  <action id="hg4idea.pull">
-    <keyboard-shortcut first-keystroke="f4" />
-  </action>
   <action id="searchCodeAction">
     <keyboard-shortcut first-keystroke="shift ctrl meta f" />
   </action>
