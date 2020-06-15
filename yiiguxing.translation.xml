@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="to Row Bounds" />
       <item value="snowflake" />
       <item value="fetch" />
       <item value="Api Operation" />
@@ -50,12 +51,11 @@
       <item value="Field 'po' can not use value 'null', po is missing." />
       <item value="Field 'po' can not use value '4501290005', max length 5." />
       <item value="Field 'po' can not use value '4501290005'" />
-      <item value="Field 'po' can not use value '4501290005', 最大不能超过5." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="207" />
-        <entry key="ENGLISH" value="208" />
+        <entry key="CHINESE" value="208" />
+        <entry key="ENGLISH" value="209" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="1" />
