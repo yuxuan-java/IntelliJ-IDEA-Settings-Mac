@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="An object that implements the Enumeration interface generates a * series of elements, one at a time. Successive calls to the * &lt;code&gt;nextElement&lt;/code&gt; method return successive elements of the * series." />
       <item value="A free GUI tool integrated with MyBatis Generator, which is specially compatible with IDEA CE. Supported databases: mysql/postgresql/mariadb/oracle/sqlserver/sqlite/h2. Provides with additional features as below." />
       <item value="to Row Bounds" />
       <item value="snowflake" />
@@ -50,12 +51,11 @@
       <item value="When compiling without debug info, or when interpreting pointcuts at runtime, * the names of any arguments used in the pointcut are not available. * Under these circumstances only, it is necessary to provide the arg names in * the annotation - these MUST duplicate the names used in the annotated method. * Format is a simple comma-separated list." />
       <item value="Default method 'toString' overrides a member of 'java.lang.Object'" />
       <item value="Field 'po' can not use value 'null', po is missing." />
-      <item value="Field 'po' can not use value '4501290005', max length 5." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="209" />
-        <entry key="ENGLISH" value="209" />
+        <entry key="ENGLISH" value="210" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="1" />
