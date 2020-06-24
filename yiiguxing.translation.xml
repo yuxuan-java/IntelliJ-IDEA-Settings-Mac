@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Using generated security password" />
+      <item value="terms Of Service Url" />
       <item value="sensitive Headers" />
       <item value="alternate Type Rules" />
       <item value="Process finished with exit code 130 (interrupted by signal 2: SIGINT)" />
@@ -49,13 +51,11 @@
       <item value="Access" />
       <item value="Department" />
       <item value="build Leg Left" />
-      <item value="Cacher is a cross-platform, cloud-based app used to curate a snippet library for you and your team. This plugin lets you quickly create and insert personal/team snippets without leaving your IDE." />
-      <item value="A IntelliJ IDEA plugin that help you move files or directories to target module quickly. A common scene is moving resources in Android Studio 3.x, because of it's &quot;Modularize...&quot; action usually miss some resources dependency." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="223" />
-        <entry key="ENGLISH" value="224" />
+        <entry key="CHINESE" value="225" />
+        <entry key="ENGLISH" value="226" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="1" />
