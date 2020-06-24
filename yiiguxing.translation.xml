@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="alternate Type Rules" />
+      <item value="Process finished with exit code 130 (interrupted by signal 2: SIGINT)" />
+      <item value="Resolving eureka endpoints via configuration" />
+      <item value="Endpoint ID 'service-registry' contains invalid characters, please migrate to a valid format." />
+      <item value="No URLs will be polled as dynamic configuration sources." />
       <item value="invoice operation type" />
       <item value="The Kotlin plugin provides language support in IntelliJ IDEA and Android Studio." />
       <item value="Shortcut" />
@@ -46,16 +51,11 @@
       <item value="Cacher is a cross-platform, cloud-based app used to curate a snippet library for you and your team. This plugin lets you quickly create and insert personal/team snippets without leaving your IDE." />
       <item value="A IntelliJ IDEA plugin that help you move files or directories to target module quickly. A common scene is moving resources in Android Studio 3.x, because of it's &quot;Modularize...&quot; action usually miss some resources dependency." />
       <item value="Building, Run/Debug maven module by mvn. test class, method, package and module run main method run application server: jetty or tomcat, if pom file is selected add option: config fork mode(from Preferences/Maven/Importing) add a quick switch popup menu for maven build(shortcut: ^M) add maven build menu to Build main menu(shortcut: ^⌘ + C/T/P/I) show all dependencies at pom file, otherwise only module dependencies(shortcut: ^⌘U) quick open pom file by maven artifact(shortcut: ^⌘M) quick run plugin goals by quick switch menu(shortcut: ^P) all shortcuts: from Preferences/Keymap/Plug-ins/Maven Runner/..." />
-      <item value="Creates popups with QR code based on selected text. Bind custom keystrokes for &quot;Show QR Code&quot; action in Keymap. Uses http://goqr.me service." />
-      <item value="primitive Operation 1" />
-      <item value="simple" />
-      <item value="factory" />
-      <item value="specific Request" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="215" />
-        <entry key="ENGLISH" value="216" />
+        <entry key="CHINESE" value="222" />
+        <entry key="ENGLISH" value="223" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="1" />
