@@ -299,6 +299,9 @@
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="meta back_quote" />
   </action>
+  <action id="Vcs.UpdateProject">
+    <keyboard-shortcut first-keystroke="meta u" />
+  </action>
   <action id="ViewBreakpoints">
     <keyboard-shortcut first-keystroke="f9" />
   </action>
