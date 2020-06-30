@@ -253,6 +253,7 @@
     <keyboard-shortcut first-keystroke="ctrl f" />
     <keyboard-shortcut first-keystroke="meta f" />
   </action>
+  <action id="Rerun" />
   <action id="Resume">
     <keyboard-shortcut first-keystroke="f8" />
   </action>
