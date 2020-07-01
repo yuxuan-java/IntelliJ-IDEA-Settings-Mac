@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="update Invoice Shipping" />
       <item value="A free GUI tool integrated with MyBatis Generator, which is specially compatible with IDEA CE. Supported databases: mysql/postgresql/mariadb/oracle/sqlserver/sqlite/h2. Provides with additional features as below." />
       <item value="extract SQL statement of action logging switch to executable SQL statement." />
       <item value="Extract the SQL and fill the parameters into the SQL you only need copy the Mybatis log with prepare:xxx parameters:xxx, and click the right mouse to choose MybatisLogPlugin,then will popup a tooltip which is the sql that can be execute into mysql. If you have question or other idea,you can send email to me(1024557668@qq.com)" />
@@ -50,12 +51,11 @@
       <item value="principle" />
       <item value="carp" />
       <item value="slob" />
-      <item value="懒汉" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="228" />
-        <entry key="ENGLISH" value="228" />
+        <entry key="ENGLISH" value="229" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="1" />
