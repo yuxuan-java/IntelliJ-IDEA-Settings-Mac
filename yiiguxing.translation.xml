@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Product Mapper" />
+      <item value="Fund Flow Mapper" />
+      <item value="Electronic Mapper" />
       <item value="redundant" />
       <item value="summary Payer Name" />
       <item value="get Declared Fields" />
@@ -48,14 +51,11 @@
       <item value="Amativeness" />
       <item value="双分派" />
       <item value="extrinsicstate" />
-      <item value="Flyweight" />
-      <item value="responsibility" />
-      <item value="chain" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="236" />
-        <entry key="ENGLISH" value="236" />
+        <entry key="CHINESE" value="238" />
+        <entry key="ENGLISH" value="239" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="1" />
