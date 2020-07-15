@@ -33,6 +33,9 @@
     <keyboard-shortcut first-keystroke="meta z" />
   </action>
   <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="meta 5" />
+  </action>
+  <action id="ActivateDebugToolWindow">
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
   <action id="ActivateEventLogToolWindow">
