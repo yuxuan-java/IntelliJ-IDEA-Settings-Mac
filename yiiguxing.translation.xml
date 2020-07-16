@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="longitude From" />
       <item value="lat" />
       <item value="Vehicle" />
       <item value="Vehicle Info Do" />
@@ -50,12 +51,11 @@
       <item value="Face Discern" />
       <item value="Open Closed Principle" />
       <item value="Open Close Principle" />
-      <item value="get Declared Field" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="243" />
-        <entry key="ENGLISH" value="243" />
+        <entry key="ENGLISH" value="244" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
