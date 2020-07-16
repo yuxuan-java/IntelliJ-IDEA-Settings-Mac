@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="lon" />
+      <item value="lat" />
       <item value="Product Mapper" />
       <item value="Fund Flow Mapper" />
       <item value="Electronic Mapper" />
@@ -49,20 +51,19 @@
       <item value="finish" />
       <item value="Object Structure" />
       <item value="Amativeness" />
-      <item value="双分派" />
-      <item value="extrinsicstate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="238" />
+        <entry key="CHINESE" value="239" />
         <entry key="ENGLISH" value="239" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
+        <entry key="POLISH" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="1" />
         <entry key="KURDISH" value="2" />
         <entry key="ROMANIAN" value="2" />
         <entry key="NORWEGIAN" value="1" />
-        <entry key="VIETNAMESE" value="1" />
+        <entry key="VIETNAMESE" value="2" />
       </map>
     </option>
   </component>
