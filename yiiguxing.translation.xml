@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Process terminated" />
       <item value="supplementary Decimal" />
       <item value="Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured." />
       <item value="all Audits Passed" />
@@ -50,12 +51,11 @@
       <item value="An object that implements the Enumeration interface generates a * series of elements, one at a time. Successive calls to the * &lt;code&gt;nextElement&lt;/code&gt; method return successive elements of the * series." />
       <item value="to Row Bounds" />
       <item value="snowflake" />
-      <item value="fetch" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="247" />
-        <entry key="ENGLISH" value="248" />
+        <entry key="CHINESE" value="249" />
+        <entry key="ENGLISH" value="250" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
