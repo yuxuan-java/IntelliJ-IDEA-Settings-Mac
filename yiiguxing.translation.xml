@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Receipt Image Time" />
+      <item value="shipping Receipt Service.find Bill Info(shipping Id,receipt Type)" />
       <item value="latitude From" />
       <item value="longitude From" />
       <item value="Cannot deserialize instance of `java.lang.String` out of START_OBJECT token" />
@@ -49,13 +51,11 @@
       <item value="get Zj Car Gps" />
       <item value="Third Service Impl" />
       <item value="shipping Invoice Deficit" />
-      <item value="shipping Invoice Damage" />
-      <item value="An object that implements the Enumeration interface generates a * series of elements, one at a time. Successive calls to the * &lt;code&gt;nextElement&lt;/code&gt; method return successive elements of the * series." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="252" />
-        <entry key="ENGLISH" value="253" />
+        <entry key="CHINESE" value="254" />
+        <entry key="ENGLISH" value="255" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
