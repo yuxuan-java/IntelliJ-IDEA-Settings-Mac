@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="UPPER CAMEL CASE" />
+      <item value="Naming convention used in languages like Pascal, where words are capitalized * and no separator is used between words. * See {@link PascalCaseStrategy} for details." />
+      <item value="Naming convention used in languages like C, where words are in lower-case * letters, separated by underscores. * See {@link SnakeCaseStrategy} for details." />
+      <item value="Feature that determines whether Date (and date/time) values * (and Date-based things like {@link java.util.Calendar}s) are to be * serialized as numeric timestamps (true; the default), * or as something else (usually textual representation). * If textual representation is used, the actual format is * one returned by a call to * {@link com.fasterxml.jackson.databind.SerializationConfig#getDateFormat}: * the default setting being {@link com.fasterxml.jackson.databind.util.StdDateFormat}, * which corresponds to format String of &quot;yyyy-MM-dd'T'HH:mm:ss.SSSZ&quot; * (see {@link java.text.DateFormat} for details of format Strings). *&lt;p&gt; * Note: whether this feature affects handling of other date-related * types depend on handlers of those types, although ideally they * should use this feature *&lt;p&gt; * Note: whether {@link java.util.Map} keys are serialized as Strings * or not is controlled using {@link #WRITE_DATE_KEYS_AS_TIMESTAMPS}. *&lt;p&gt; * Feature is enabled by default, so that date/time are by default * serialized as timestamps." />
+      <item value="SNAKE CASE" />
       <item value="get Receipt Image Time" />
       <item value="shipping Receipt Service.find Bill Info(shipping Id,receipt Type)" />
       <item value="latitude From" />
@@ -46,16 +51,11 @@
       <item value="Endpoint ID 'service-registry' contains invalid characters, please migrate to a valid format." />
       <item value="No URLs will be polled as dynamic configuration sources." />
       <item value="invoice operation type" />
-      <item value="The Kotlin plugin provides language support in IntelliJ IDEA and Android Studio." />
-      <item value="Shortcut" />
-      <item value="get Zj Car Gps" />
-      <item value="Third Service Impl" />
-      <item value="shipping Invoice Deficit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="254" />
-        <entry key="ENGLISH" value="255" />
+        <entry key="CHINESE" value="260" />
+        <entry key="ENGLISH" value="261" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
