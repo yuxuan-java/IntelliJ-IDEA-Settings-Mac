@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Duplicate" />
+      <item value="Duplicate entry '679' for key 'detail_shipping_id_2'" />
+      <item value="Data Integrity Violation Exception" />
       <item value="UPPER CAMEL CASE" />
       <item value="Naming convention used in languages like Pascal, where words are capitalized * and no separator is used between words. * See {@link PascalCaseStrategy} for details." />
       <item value="Naming convention used in languages like C, where words are in lower-case * letters, separated by underscores. * See {@link SnakeCaseStrategy} for details." />
@@ -48,14 +51,11 @@
       <item value="alternate Type Rules" />
       <item value="Process finished with exit code 130 (interrupted by signal 2: SIGINT)" />
       <item value="Resolving eureka endpoints via configuration" />
-      <item value="Endpoint ID 'service-registry' contains invalid characters, please migrate to a valid format." />
-      <item value="No URLs will be polled as dynamic configuration sources." />
-      <item value="invoice operation type" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="260" />
-        <entry key="ENGLISH" value="261" />
+        <entry key="CHINESE" value="263" />
+        <entry key="ENGLISH" value="264" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
