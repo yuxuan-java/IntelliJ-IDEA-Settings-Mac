@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Compact" />
+      <item value="ROW FORMAT" />
+      <item value="reserve hour" />
+      <item value="reserve end hour" />
+      <item value="reserve start date" />
+      <item value="start" />
+      <item value="reserve" />
+      <item value="fact" />
+      <item value="reservation" />
+      <item value="warehose" />
       <item value="Duplicate" />
       <item value="Duplicate entry '679' for key 'detail_shipping_id_2'" />
       <item value="Data Integrity Violation Exception" />
@@ -41,21 +51,11 @@
       <item value="extract SQL statement of action logging switch to executable SQL statement." />
       <item value="Extract the SQL and fill the parameters into the SQL you only need copy the Mybatis log with prepare:xxx parameters:xxx, and click the right mouse to choose MybatisLogPlugin,then will popup a tooltip which is the sql that can be execute into mysql. If you have question or other idea,you can send email to me(1024557668@qq.com)" />
       <item value="String and code manipulations, performed on keyboard shortcut with detection of intended manipulation. The type of manipulation only has to be selected manually when multiple are possible." />
-      <item value="Provides actions for text manipulation: case switching, sorting, filtering, aligning, escaping, encoding..." />
-      <item value="Vim emulation plug-in for IDEs based on the IntelliJ platform. IdeaVim supports many Vim features including normal/insert/visual modes, motion keys, deletion/changing, marks, registers, some Ex commands, Vim regexps, configuration via ~/.ideavimrc, macros, window commands, etc." />
-      <item value="data Type" />
-      <item value="infer" />
-      <item value="Using generated security password" />
-      <item value="terms Of Service Url" />
-      <item value="sensitive Headers" />
-      <item value="alternate Type Rules" />
-      <item value="Process finished with exit code 130 (interrupted by signal 2: SIGINT)" />
-      <item value="Resolving eureka endpoints via configuration" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="263" />
-        <entry key="ENGLISH" value="264" />
+        <entry key="CHINESE" value="274" />
+        <entry key="ENGLISH" value="275" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
