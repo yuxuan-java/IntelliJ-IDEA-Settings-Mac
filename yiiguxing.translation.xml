@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Adds ability to generate builder for a class and switch between them. Switching between builder and source class is similar to 'Go To Test' action. Generated builder class does not use reflection, only setter methods or constructor. Usage:" />
+      <item value="Plugin for quick navigation to url mapping declaration. Supported languages:" />
+      <item value="The plugin provides 'Find External Usages' action which allows developers to quickly find plugins which use IntelliJ platform classes, methods or fields and 'Check external usages' option in 'Commit Changes' dialog which checks that changes in IntelliJ platform classes don't break external plugins." />
       <item value="time interval" />
       <item value="check creator" />
       <item value="county" />
@@ -48,13 +51,10 @@
       <item value="redundant" />
       <item value="summary Payer Name" />
       <item value="get Declared Fields" />
-      <item value="Determines if the class or interface represented by this * {@code Class} object is either the same as, or is a superclass or * superinterface of, the class or interface represented by the specified * {@code Class} parameter. It returns {@code true} if so; * otherwise it returns {@code false}. If this {@code Class} * object represents a primitive type, this method returns * {@code true} if the specified {@code Class} parameter is * exactly this {@code Class} object; otherwise it returns * {@code false}." />
-      <item value="is Assignable From" />
-      <item value="split" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="283" />
+        <entry key="CHINESE" value="284" />
         <entry key="ENGLISH" value="284" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
