@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="check creator" />
+      <item value="county" />
+      <item value="create time" />
+      <item value="county id" />
       <item value="effct" />
       <item value="evaluate" />
       <item value="fact" />
@@ -47,15 +51,11 @@
       <item value="is Assignable From" />
       <item value="split" />
       <item value="shipping Apply Receipt Time" />
-      <item value="Column 'group_id' in field list is ambiguous" />
-      <item value="update Invoice Shipping" />
-      <item value="A free GUI tool integrated with MyBatis Generator, which is specially compatible with IDEA CE. Supported databases: mysql/postgresql/mariadb/oracle/sqlserver/sqlite/h2. Provides with additional features as below." />
-      <item value="extract SQL statement of action logging switch to executable SQL statement." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="277" />
-        <entry key="ENGLISH" value="278" />
+        <entry key="CHINESE" value="282" />
+        <entry key="ENGLISH" value="283" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
