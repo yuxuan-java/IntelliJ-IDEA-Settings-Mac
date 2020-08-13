@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Zip Secure File" />
+      <item value="Zip bomb detected! The file would exceed the max. ratio of compressed file size to the size of the expanded data." />
+      <item value="set Min Inflate Ratio" />
+      <item value="Failed to read zip entry source" />
       <item value="Adds ability to generate builder for a class and switch between them. Switching between builder and source class is similar to 'Go To Test' action. Generated builder class does not use reflection, only setter methods or constructor. Usage:" />
       <item value="Plugin for quick navigation to url mapping declaration. Supported languages:" />
       <item value="The plugin provides 'Find External Usages' action which allows developers to quickly find plugins which use IntelliJ platform classes, methods or fields and 'Check external usages' option in 'Commit Changes' dialog which checks that changes in IntelliJ platform classes don't break external plugins." />
@@ -47,15 +51,11 @@
       <item value="lon" />
       <item value="Product Mapper" />
       <item value="Fund Flow Mapper" />
-      <item value="Electronic Mapper" />
-      <item value="redundant" />
-      <item value="summary Payer Name" />
-      <item value="get Declared Fields" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="284" />
-        <entry key="ENGLISH" value="284" />
+        <entry key="CHINESE" value="287" />
+        <entry key="ENGLISH" value="288" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
