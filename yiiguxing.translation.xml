@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Zip bomb detected! The file would exceed the max. ratio of compressed file size to the size of the expanded data. This may indicate that the file is used to inflate memory usage and thus could pose a security risk. You can adjust this limit via ZipSecureFile.setMinInflateRatio() if you need to work with files which exceed this limit. Counter: 370071, cis.counter: 3687, ratio: 0.009962953054954319 Limits: MIN_INFLATE_RATIO: 0.01" />
       <item value="Found interface org.apache.poi.util.POILogger, but class was expected" />
       <item value="Zip bomb detected! The file would exceed the max. ratio of compressed file size to the size of the expanded data. This may indicate that the file is used to inflate memory usage and thus could pose a security risk. You can adjust this limit via ZipSecureFile.setMinInflateRatio() if you need to work with files which exceed this limit. Counter: 371393, cis.counter: 3681, ratio: 0.00991133381620009 Limits: MIN_INFLATE_RATIO: 0.01" />
       <item value="Zip bomb detected! The file would exceed the max. ratio of compressed file size to the size of the expanded data. This may indicate that the file is used to inflate memory usage and thus could pose a security risk. You can adjust this limit via ZipSecureFile.setMinInflateRatio() if you need to work with files which exceed this limit." />
@@ -50,12 +51,11 @@
       <item value="lat" />
       <item value="Vehicle" />
       <item value="Vehicle Info Do" />
-      <item value="bill Do 2 Bill" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="291" />
-        <entry key="ENGLISH" value="292" />
+        <entry key="CHINESE" value="292" />
+        <entry key="ENGLISH" value="293" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
