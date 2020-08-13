@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="dist Cell" />
+      <item value="src Cell" />
       <item value="get Physical Number Of Cells" />
       <item value="Returns the raw, underlying ooxml value for the cell * &lt;p&gt; * If the cell contains a string, then this value is an index into * the shared string table, pointing to the actual string value. Otherwise, * the value of the cell is expressed directly in this element. Cells containing formulas express * the last calculated result of the formula in this element." />
       <item value="get Raw Value" />
@@ -49,13 +51,11 @@
       <item value="Process terminated" />
       <item value="supplementary Decimal" />
       <item value="Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured." />
-      <item value="all Audits Passed" />
-      <item value="Audit Status" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="295" />
-        <entry key="ENGLISH" value="296" />
+        <entry key="CHINESE" value="297" />
+        <entry key="ENGLISH" value="298" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
