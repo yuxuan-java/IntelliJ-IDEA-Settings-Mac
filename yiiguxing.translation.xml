@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reservation" />
+      <item value="reserve" />
+      <item value="reserve Id" />
+      <item value="reservation Id" />
+      <item value="doorkeeper Id" />
       <item value="ERR invalid password" />
       <item value="Redis Connection Failure Exception" />
       <item value="dist Cell" />
@@ -34,8 +39,6 @@
       <item value="reserve end hour" />
       <item value="reserve start date" />
       <item value="start" />
-      <item value="reserve" />
-      <item value="reservation" />
       <item value="warehose" />
       <item value="Duplicate" />
       <item value="Duplicate entry '679' for key 'detail_shipping_id_2'" />
@@ -48,14 +51,11 @@
       <item value="get Receipt Image Time" />
       <item value="shipping Receipt Service.find Bill Info(shipping Id,receipt Type)" />
       <item value="latitude From" />
-      <item value="longitude From" />
-      <item value="Cannot deserialize instance of `java.lang.String` out of START_OBJECT token" />
-      <item value="Process terminated" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="299" />
-        <entry key="ENGLISH" value="300" />
+        <entry key="CHINESE" value="304" />
+        <entry key="ENGLISH" value="305" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
