@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="BREAK TIME" />
+      <item value="reservation not full" />
+      <item value="not full reservation" />
+      <item value="lunch Hour" />
       <item value="Failed to bind properties under 'wxpay' to com.redox.platform.config.WXConfigUtil:" />
       <item value="The port may already be in use or the connector may be misconfigured." />
       <item value="notice" />
@@ -47,15 +51,11 @@
       <item value="evaluate" />
       <item value="fact" />
       <item value="Compact" />
-      <item value="ROW FORMAT" />
-      <item value="reserve hour" />
-      <item value="reserve end hour" />
-      <item value="reserve start date" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="314" />
-        <entry key="ENGLISH" value="315" />
+        <entry key="CHINESE" value="318" />
+        <entry key="ENGLISH" value="319" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
