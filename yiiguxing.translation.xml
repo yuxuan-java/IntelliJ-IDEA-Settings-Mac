@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="pufa Virtual Account Support" />
+      <item value="pufa Verify Signature" />
       <item value="perform Pay" />
       <item value="finished" />
       <item value="TODO Auto-generated method stub" />
@@ -49,13 +51,11 @@
       <item value="Plugin for quick navigation to url mapping declaration. Supported languages:" />
       <item value="The plugin provides 'Find External Usages' action which allows developers to quickly find plugins which use IntelliJ platform classes, methods or fields and 'Check external usages' option in 'Commit Changes' dialog which checks that changes in IntelliJ platform classes don't break external plugins." />
       <item value="time interval" />
-      <item value="check creator" />
-      <item value="county" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="322" />
-        <entry key="ENGLISH" value="323" />
+        <entry key="CHINESE" value="324" />
+        <entry key="ENGLISH" value="325" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
