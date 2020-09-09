@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="select By Owner Id" />
+      <item value="again Pay" />
       <item value="pufa Virtual Account Support" />
       <item value="pufa Verify Signature" />
       <item value="perform Pay" />
@@ -49,13 +51,11 @@
       <item value="Failed to read zip entry source" />
       <item value="Adds ability to generate builder for a class and switch between them. Switching between builder and source class is similar to 'Go To Test' action. Generated builder class does not use reflection, only setter methods or constructor. Usage:" />
       <item value="Plugin for quick navigation to url mapping declaration. Supported languages:" />
-      <item value="The plugin provides 'Find External Usages' action which allows developers to quickly find plugins which use IntelliJ platform classes, methods or fields and 'Check external usages' option in 'Commit Changes' dialog which checks that changes in IntelliJ platform classes don't break external plugins." />
-      <item value="time interval" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="324" />
-        <entry key="ENGLISH" value="325" />
+        <entry key="CHINESE" value="326" />
+        <entry key="ENGLISH" value="327" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
