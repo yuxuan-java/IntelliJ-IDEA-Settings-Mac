@@ -1,8 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="do Receipt Pay" />
       <item value="pull Away Pay" />
+      <item value="do Receipt Pay" />
+      <item value="get Shipping Advance Amt" />
       <item value="select By Owner Id" />
       <item value="again Pay" />
       <item value="pufa Virtual Account Support" />
@@ -50,12 +51,11 @@
       <item value="Zip Secure File" />
       <item value="Zip bomb detected! The file would exceed the max. ratio of compressed file size to the size of the expanded data." />
       <item value="set Min Inflate Ratio" />
-      <item value="Failed to read zip entry source" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="328" />
-        <entry key="ENGLISH" value="329" />
+        <entry key="CHINESE" value="331" />
+        <entry key="ENGLISH" value="332" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
