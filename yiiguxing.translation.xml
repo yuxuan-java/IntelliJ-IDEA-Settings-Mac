@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="do Advance Pay" />
       <item value="pull Away Pay" />
       <item value="do Receipt Pay" />
       <item value="get Shipping Advance Amt" />
@@ -50,12 +51,11 @@
       <item value="This class wraps a {@link ZipFile} in order to check the * entries for &lt;a href=&quot;https://en.wikipedia.org/wiki/Zip_bomb&quot;&gt;zip bombs&lt;/a&gt; * while reading the archive. * If a {@link ZipInputStream} is directly used, the wrapper * can be applied via {@link #addThreshold(InputStream)}. * The alert limits can be globally defined via {@link #setMaxEntrySize(long)} * and {@link #setMinInflateRatio(double)}." />
       <item value="Zip Secure File" />
       <item value="Zip bomb detected! The file would exceed the max. ratio of compressed file size to the size of the expanded data." />
-      <item value="set Min Inflate Ratio" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="331" />
-        <entry key="ENGLISH" value="332" />
+        <entry key="CHINESE" value="332" />
+        <entry key="ENGLISH" value="333" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
