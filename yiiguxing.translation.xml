@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="do Receipt Pay" />
+      <item value="pull Away Pay" />
       <item value="select By Owner Id" />
       <item value="again Pay" />
       <item value="pufa Virtual Account Support" />
@@ -49,13 +51,11 @@
       <item value="Zip bomb detected! The file would exceed the max. ratio of compressed file size to the size of the expanded data." />
       <item value="set Min Inflate Ratio" />
       <item value="Failed to read zip entry source" />
-      <item value="Adds ability to generate builder for a class and switch between them. Switching between builder and source class is similar to 'Go To Test' action. Generated builder class does not use reflection, only setter methods or constructor. Usage:" />
-      <item value="Plugin for quick navigation to url mapping declaration. Supported languages:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="326" />
-        <entry key="ENGLISH" value="327" />
+        <entry key="CHINESE" value="328" />
+        <entry key="ENGLISH" value="329" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
