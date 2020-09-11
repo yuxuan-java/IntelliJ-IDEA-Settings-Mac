@@ -1,7 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="put If Absent" />
+      <item value="compute If Absent" />
       <item value="collection Fetch" />
+      <item value="Default initial capacity." />
+      <item value="collection Payment" />
       <item value="collection" />
       <item value="The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary." />
       <item value="do Advance Pay" />
@@ -47,15 +51,11 @@
       <item value="get Physical Number Of Cells" />
       <item value="Returns the raw, underlying ooxml value for the cell * &lt;p&gt; * If the cell contains a string, then this value is an index into * the shared string table, pointing to the actual string value. Otherwise, * the value of the cell is expressed directly in this element. Cells containing formulas express * the last calculated result of the formula in this element." />
       <item value="get Raw Value" />
-      <item value="Zip bomb detected! The file would exceed the max. ratio of compressed file size to the size of the expanded data. This may indicate that the file is used to inflate memory usage and thus could pose a security risk. You can adjust this limit via ZipSecureFile.setMinInflateRatio() if you need to work with files which exceed this limit. Counter: 370071, cis.counter: 3687, ratio: 0.009962953054954319 Limits: MIN_INFLATE_RATIO: 0.01" />
-      <item value="Found interface org.apache.poi.util.POILogger, but class was expected" />
-      <item value="Zip bomb detected! The file would exceed the max. ratio of compressed file size to the size of the expanded data. This may indicate that the file is used to inflate memory usage and thus could pose a security risk. You can adjust this limit via ZipSecureFile.setMinInflateRatio() if you need to work with files which exceed this limit. Counter: 371393, cis.counter: 3681, ratio: 0.00991133381620009 Limits: MIN_INFLATE_RATIO: 0.01" />
-      <item value="Zip bomb detected! The file would exceed the max. ratio of compressed file size to the size of the expanded data. This may indicate that the file is used to inflate memory usage and thus could pose a security risk. You can adjust this limit via ZipSecureFile.setMinInflateRatio() if you need to work with files which exceed this limit." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="335" />
-        <entry key="ENGLISH" value="336" />
+        <entry key="CHINESE" value="340" />
+        <entry key="ENGLISH" value="341" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
@@ -75,5 +75,6 @@
     <option name="showWordForms" value="false" />
     <option name="showWordsOnStartup" value="true" />
     <option name="targetLanguageSelection" value="PRIMARY_LANGUAGE" />
+    <option name="translateDocumentation" value="true" />
   </component>
 </application>
