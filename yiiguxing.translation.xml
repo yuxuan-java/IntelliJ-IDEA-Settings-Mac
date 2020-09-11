@@ -1,11 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="put If Absent" />
+      <item value="collection Payment" />
+      <item value="compute" />
       <item value="compute If Absent" />
+      <item value="perform Pay" />
+      <item value="put If Absent" />
       <item value="collection Fetch" />
       <item value="Default initial capacity." />
-      <item value="collection Payment" />
       <item value="collection" />
       <item value="The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary." />
       <item value="do Advance Pay" />
@@ -16,7 +18,6 @@
       <item value="again Pay" />
       <item value="pufa Virtual Account Support" />
       <item value="pufa Verify Signature" />
-      <item value="perform Pay" />
       <item value="finished" />
       <item value="TODO Auto-generated method stub" />
       <item value="Column create_time must be either aggregated, or mentioned in GROUP BY clause Inspection info: This inspection reports incorrect or suspicious usages of SQL aggregate functions." />
@@ -50,12 +51,11 @@
       <item value="src Cell" />
       <item value="get Physical Number Of Cells" />
       <item value="Returns the raw, underlying ooxml value for the cell * &lt;p&gt; * If the cell contains a string, then this value is an index into * the shared string table, pointing to the actual string value. Otherwise, * the value of the cell is expressed directly in this element. Cells containing formulas express * the last calculated result of the formula in this element." />
-      <item value="get Raw Value" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="340" />
-        <entry key="ENGLISH" value="341" />
+        <entry key="CHINESE" value="344" />
+        <entry key="ENGLISH" value="345" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
