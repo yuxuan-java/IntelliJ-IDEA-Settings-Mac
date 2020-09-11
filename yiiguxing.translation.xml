@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="collection" />
       <item value="The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary." />
       <item value="do Advance Pay" />
       <item value="pull Away Pay" />
@@ -50,12 +51,11 @@
       <item value="Zip bomb detected! The file would exceed the max. ratio of compressed file size to the size of the expanded data. This may indicate that the file is used to inflate memory usage and thus could pose a security risk. You can adjust this limit via ZipSecureFile.setMinInflateRatio() if you need to work with files which exceed this limit. Counter: 371393, cis.counter: 3681, ratio: 0.00991133381620009 Limits: MIN_INFLATE_RATIO: 0.01" />
       <item value="Zip bomb detected! The file would exceed the max. ratio of compressed file size to the size of the expanded data. This may indicate that the file is used to inflate memory usage and thus could pose a security risk. You can adjust this limit via ZipSecureFile.setMinInflateRatio() if you need to work with files which exceed this limit." />
       <item value="This class wraps a {@link ZipFile} in order to check the * entries for &lt;a href=&quot;https://en.wikipedia.org/wiki/Zip_bomb&quot;&gt;zip bombs&lt;/a&gt; * while reading the archive. * If a {@link ZipInputStream} is directly used, the wrapper * can be applied via {@link #addThreshold(InputStream)}. * The alert limits can be globally defined via {@link #setMaxEntrySize(long)} * and {@link #setMinInflateRatio(double)}." />
-      <item value="Zip Secure File" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="333" />
-        <entry key="ENGLISH" value="334" />
+        <entry key="CHINESE" value="334" />
+        <entry key="ENGLISH" value="335" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
