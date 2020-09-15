@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="real Time Single Pay Fetch" />
       <item value="cross Line Sign" />
       <item value="collection Fetch Real Time" />
       <item value="elec Cheque No" />
@@ -50,12 +51,11 @@
       <item value="reserve Id" />
       <item value="reservation Id" />
       <item value="doorkeeper Id" />
-      <item value="ERR invalid password" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="349" />
-        <entry key="ENGLISH" value="350" />
+        <entry key="CHINESE" value="350" />
+        <entry key="ENGLISH" value="351" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
