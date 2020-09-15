@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cross Line Sign" />
       <item value="collection Fetch Real Time" />
       <item value="elec Cheque No" />
       <item value="execute" />
@@ -50,12 +51,11 @@
       <item value="reservation Id" />
       <item value="doorkeeper Id" />
       <item value="ERR invalid password" />
-      <item value="Redis Connection Failure Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="348" />
-        <entry key="ENGLISH" value="349" />
+        <entry key="CHINESE" value="349" />
+        <entry key="ENGLISH" value="350" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
@@ -76,6 +76,5 @@
     <option name="showWordForms" value="false" />
     <option name="showWordsOnStartup" value="true" />
     <option name="targetLanguageSelection" value="PRIMARY_LANGUAGE" />
-    <option name="translateDocumentation" value="true" />
   </component>
 </application>
