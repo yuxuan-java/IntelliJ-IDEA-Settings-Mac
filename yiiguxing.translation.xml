@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Deprecated" />
       <item value="if this stream would execute in parallel if executed" />
       <item value="Returns whether this stream, if a terminal operation were to be executed, * would execute in parallel. Calling this method after invoking an * terminal stream operation method may yield unpredictable results." />
       <item value="pull Away Pay" />
@@ -50,12 +51,11 @@
       <item value="type-aliases-package" />
       <item value="reservation" />
       <item value="reserve" />
-      <item value="reserve Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="353" />
-        <entry key="ENGLISH" value="354" />
+        <entry key="CHINESE" value="354" />
+        <entry key="ENGLISH" value="355" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
