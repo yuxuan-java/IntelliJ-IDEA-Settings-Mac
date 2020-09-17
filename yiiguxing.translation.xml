@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cross Line Sign" />
       <item value="资金分摊" />
       <item value="income Virtual Accounts" />
       <item value="real Time Collection" />
@@ -15,7 +16,6 @@
       <item value="Returns whether this stream, if a terminal operation were to be executed, * would execute in parallel. Calling this method after invoking an * terminal stream operation method may yield unpredictable results." />
       <item value="pull Away Pay" />
       <item value="real Time Single Pay Fetch" />
-      <item value="cross Line Sign" />
       <item value="collection Fetch Real Time" />
       <item value="elec Cheque No" />
       <item value="execute" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="364" />
-        <entry key="ENGLISH" value="363" />
+        <entry key="ENGLISH" value="364" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
