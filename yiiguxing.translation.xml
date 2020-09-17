@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Error creating document instance." />
       <item value="card Recharge List" />
       <item value="Deprecated" />
       <item value="if this stream would execute in parallel if executed" />
@@ -50,12 +51,11 @@
       <item value="With the EduTools plugin, you can learn and teach programming languages such as Kotlin, Java, Python, JavaScript, Rust, C/C++ and Scala in the form of coding tasks and custom verification tests right inside of JetBrains IntelliJ Platform based IDEs." />
       <item value="Data truncation: Incorrect datetime value: '2' for column 'update_time' at row 1" />
       <item value="type-aliases-package" />
-      <item value="reservation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="355" />
-        <entry key="ENGLISH" value="356" />
+        <entry key="CHINESE" value="356" />
+        <entry key="ENGLISH" value="357" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
