@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Shipping Additional Charges Amt" />
       <item value="cross Line Sign" />
       <item value="资金分摊" />
       <item value="income Virtual Accounts" />
@@ -50,12 +51,11 @@
       <item value="notice" />
       <item value="Paid" />
       <item value="Not started" />
-      <item value="unpass List" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="364" />
-        <entry key="ENGLISH" value="364" />
+        <entry key="ENGLISH" value="365" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
