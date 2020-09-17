@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="real Time Collection" />
+      <item value="update Account Freeze" />
       <item value="account balance" />
       <item value="account freeze" />
       <item value="frozen Amount" />
@@ -49,13 +51,11 @@
       <item value="unpass List" />
       <item value="Cannot infer arguments" />
       <item value="Shrt Type Enum" />
-      <item value="Short Type Enum" />
-      <item value="Last" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="359" />
-        <entry key="ENGLISH" value="360" />
+        <entry key="CHINESE" value="361" />
+        <entry key="ENGLISH" value="362" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
