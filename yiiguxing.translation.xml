@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Finance Balance Amount" />
       <item value="stream has already been operated upon or closed" />
       <item value="find Today Trucking Nums" />
       <item value="account freeze" />
@@ -50,12 +51,11 @@
       <item value="not full reservation" />
       <item value="lunch Hour" />
       <item value="Failed to bind properties under 'wxpay' to com.redox.platform.config.WXConfigUtil:" />
-      <item value="The port may already be in use or the connector may be misconfigured." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="369" />
-        <entry key="ENGLISH" value="370" />
+        <entry key="CHINESE" value="370" />
+        <entry key="ENGLISH" value="371" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
