@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Strategy Context" />
       <item value="shipping Pay Balance Amt" />
       <item value="bank card" />
       <item value="Is the byte array a result of corresponding serialization for DefaultDeserializer?" />
@@ -50,12 +51,11 @@
       <item value="do Receipt Pay" />
       <item value="get Shipping Advance Amt" />
       <item value="select By Owner Id" />
-      <item value="again Pay" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="384" />
-        <entry key="ENGLISH" value="385" />
+        <entry key="CHINESE" value="385" />
+        <entry key="ENGLISH" value="386" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
