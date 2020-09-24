@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="advance Card" />
       <item value="account Balance" />
       <item value="adversary Account Name" />
       <item value="captain Finance List" />
@@ -50,12 +51,11 @@
       <item value="Column create_time must be either aggregated, or mentioned in GROUP BY clause Inspection info: This inspection reports incorrect or suspicious usages of SQL aggregate functions." />
       <item value="approval Record" />
       <item value="No primary or default constructor found for interface java.util.List" />
-      <item value="BREAK TIME" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="374" />
-        <entry key="ENGLISH" value="375" />
+        <entry key="CHINESE" value="375" />
+        <entry key="ENGLISH" value="376" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
