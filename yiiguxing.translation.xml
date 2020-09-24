@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="shipping Pay Balance Amt" />
       <item value="bank card" />
       <item value="Is the byte array a result of corresponding serialization for DefaultDeserializer?" />
       <item value="Failed to deserialize payload" />
@@ -50,12 +51,11 @@
       <item value="get Shipping Advance Amt" />
       <item value="select By Owner Id" />
       <item value="again Pay" />
-      <item value="pufa Virtual Account Support" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="383" />
-        <entry key="ENGLISH" value="384" />
+        <entry key="CHINESE" value="384" />
+        <entry key="ENGLISH" value="385" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
