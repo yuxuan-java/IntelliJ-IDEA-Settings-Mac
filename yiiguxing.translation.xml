@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Is the byte array a result of corresponding serialization for DefaultDeserializer?" />
+      <item value="Failed to deserialize payload" />
+      <item value="Cannot deserialize;" />
+      <item value="Is the byte array a result of corresponding serialization for DefaultDeserializer" />
+      <item value="Is the byte array a result of corresponding serialization for DefaultDeserializer?; nested exception is org.springframework.core.NestedIOException: Failed to deserialize object type; nested exception is java.lang.ClassNotFoundException: com.redox.tms.auth.jwt.token.AuthenticationToken" />
       <item value="advance Card" />
       <item value="account Balance" />
       <item value="adversary Account Name" />
@@ -46,16 +51,11 @@
       <item value="again Pay" />
       <item value="pufa Virtual Account Support" />
       <item value="pufa Verify Signature" />
-      <item value="finished" />
-      <item value="TODO Auto-generated method stub" />
-      <item value="Column create_time must be either aggregated, or mentioned in GROUP BY clause Inspection info: This inspection reports incorrect or suspicious usages of SQL aggregate functions." />
-      <item value="approval Record" />
-      <item value="No primary or default constructor found for interface java.util.List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="375" />
-        <entry key="ENGLISH" value="376" />
+        <entry key="CHINESE" value="382" />
+        <entry key="ENGLISH" value="383" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
