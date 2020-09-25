@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Incorrect date value: '2016-19-25' for column 'car_driving_regist_date' at row 1" />
+      <item value="frozen Total Amount" />
       <item value="Strategy Context" />
       <item value="shipping Pay Balance Amt" />
       <item value="bank card" />
@@ -49,13 +51,11 @@
       <item value="The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary." />
       <item value="do Advance Pay" />
       <item value="do Receipt Pay" />
-      <item value="get Shipping Advance Amt" />
-      <item value="select By Owner Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="385" />
-        <entry key="ENGLISH" value="386" />
+        <entry key="CHINESE" value="387" />
+        <entry key="ENGLISH" value="388" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
