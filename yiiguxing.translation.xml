@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="management Fee Pay Record" />
+      <item value="management Pay Record" />
+      <item value="receiver Pay Record" />
       <item value="Incorrect date value: '2016-19-25' for column 'car_driving_regist_date' at row 1" />
       <item value="frozen Total Amount" />
       <item value="Strategy Context" />
@@ -48,14 +51,11 @@
       <item value="put If Absent" />
       <item value="Default initial capacity." />
       <item value="collection" />
-      <item value="The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary." />
-      <item value="do Advance Pay" />
-      <item value="do Receipt Pay" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="387" />
-        <entry key="ENGLISH" value="388" />
+        <entry key="CHINESE" value="390" />
+        <entry key="ENGLISH" value="391" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
