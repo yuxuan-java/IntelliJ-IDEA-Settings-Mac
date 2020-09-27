@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Authenticated: true; Details: org.springframework.security.web.authentication.WebAuthenticationDetails@7798: RemoteIpAddress: 192.168.31.172; SessionId: null; Not granted any authorities" />
+      <item value="Not granted any authorities" />
       <item value="Sub Account" />
       <item value="fleet Captain Pay" />
       <item value="in Fleet Virtual" />
@@ -49,13 +51,11 @@
       <item value="real Time Single Pay Fetch" />
       <item value="collection Fetch Real Time" />
       <item value="elec Cheque No" />
-      <item value="execute" />
-      <item value="has Parent List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="399" />
-        <entry key="ENGLISH" value="400" />
+        <entry key="CHINESE" value="401" />
+        <entry key="ENGLISH" value="402" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
