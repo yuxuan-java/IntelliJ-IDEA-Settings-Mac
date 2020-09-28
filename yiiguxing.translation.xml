@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fleet Driver Pay" />
       <item value="No transaction aspect-managed TransactionStatus in scope" />
       <item value="Consider renaming one of the beans or enabling overriding by setting spring.main.allow-bean-definition-overriding=true" />
       <item value="A bean with that name has already been defined in null and overriding is disabled." />
@@ -14,7 +15,6 @@
       <item value="in Fleet Virtual" />
       <item value="user Payee Way Result" />
       <item value="Annotation-specified bean name 'shippingAdvancePayService' for bean class [com.redox.tms.order.service.pay.impl.ShippingPayServiceImpl] conflicts with existing, non-compatible bean definition of same name and class [com.redox.tms.order.service.pay.impl.ShippingAdvancePayServiceImpl]" />
-      <item value="fleet Driver Pay" />
       <item value="get Captain Payment Method" />
       <item value="cash Shipping" />
       <item value="management Fee Pay Record" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="409" />
-        <entry key="ENGLISH" value="410" />
+        <entry key="CHINESE" value="410" />
+        <entry key="ENGLISH" value="411" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
