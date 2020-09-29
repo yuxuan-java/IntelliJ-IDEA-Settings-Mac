@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="tms user car trailer" />
       <item value="NONE" />
       <item value="fleet Driver Pay" />
       <item value="No transaction aspect-managed TransactionStatus in scope" />
@@ -50,17 +51,17 @@
       <item value="update Account Freeze" />
       <item value="frozen Amount" />
       <item value="Error creating document instance." />
-      <item value="card Recharge List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="411" />
+        <entry key="CHINESE" value="412" />
         <entry key="ENGLISH" value="412" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
+        <entry key="FINNISH" value="1" />
         <entry key="KURDISH" value="2" />
         <entry key="ROMANIAN" value="2" />
         <entry key="NORWEGIAN" value="1" />
