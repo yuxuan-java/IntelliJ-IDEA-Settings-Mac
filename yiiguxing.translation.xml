@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Invalid Grant Exception" />
+      <item value="Invalid refresh token" />
       <item value="tms user car trailer" />
       <item value="NONE" />
       <item value="fleet Driver Pay" />
@@ -49,13 +51,11 @@
       <item value="income Virtual Accounts" />
       <item value="real Time Collection" />
       <item value="update Account Freeze" />
-      <item value="frozen Amount" />
-      <item value="Error creating document instance." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="412" />
-        <entry key="ENGLISH" value="412" />
+        <entry key="CHINESE" value="413" />
+        <entry key="ENGLISH" value="414" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
