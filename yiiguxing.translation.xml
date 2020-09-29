@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="User redoxzl_su2019 already has more than 'max_user_connections' active connections" />
       <item value="fleet Captain Pay" />
       <item value="fleet Driver Pay" />
       <item value="Invalid Grant Exception" />
@@ -50,12 +51,11 @@
       <item value="资金分摊" />
       <item value="income Virtual Accounts" />
       <item value="real Time Collection" />
-      <item value="update Account Freeze" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="416" />
-        <entry key="ENGLISH" value="417" />
+        <entry key="CHINESE" value="417" />
+        <entry key="ENGLISH" value="418" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
