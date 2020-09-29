@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="NONE" />
       <item value="fleet Driver Pay" />
       <item value="No transaction aspect-managed TransactionStatus in scope" />
       <item value="Consider renaming one of the beans or enabling overriding by setting spring.main.allow-bean-definition-overriding=true" />
@@ -50,12 +51,11 @@
       <item value="frozen Amount" />
       <item value="Error creating document instance." />
       <item value="card Recharge List" />
-      <item value="Deprecated" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="410" />
-        <entry key="ENGLISH" value="411" />
+        <entry key="CHINESE" value="411" />
+        <entry key="ENGLISH" value="412" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
