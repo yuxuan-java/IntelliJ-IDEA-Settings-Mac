@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="query Call Bank" />
+      <item value="income Virtual Accounts" />
       <item value="trailer" />
       <item value="Rebuild failed: trailer not found.; Original message: xref subsection not found at file pointer 1017895" />
       <item value="Connection reset by peer" />
@@ -49,13 +51,11 @@
       <item value="stream has already been operated upon or closed" />
       <item value="find Today Trucking Nums" />
       <item value="account freeze" />
-      <item value="account balance" />
-      <item value="Lock wait timeout exceeded; try restarting transaction" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="422" />
-        <entry key="ENGLISH" value="423" />
+        <entry key="CHINESE" value="424" />
+        <entry key="ENGLISH" value="425" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
