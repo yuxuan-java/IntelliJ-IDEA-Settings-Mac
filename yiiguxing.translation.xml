@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="compatible With Field Name" />
+      <item value="compatible With Java Bean" />
+      <item value="INOVIE WAS REJECTED DUE TO NO GR FOUND IN SYSTEM FOR MORE THAN 7 DAYS." />
       <item value="call Income Virtual Accounts" />
       <item value="income Virtual Accounts" />
       <item value="query Call Bank" />
@@ -48,14 +51,11 @@
       <item value="adversary Account Name" />
       <item value="captain Finance List" />
       <item value="driver Finance List" />
-      <item value="set Finance Balance Amount" />
-      <item value="stream has already been operated upon or closed" />
-      <item value="find Today Trucking Nums" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="426" />
-        <entry key="ENGLISH" value="427" />
+        <entry key="CHINESE" value="429" />
+        <entry key="ENGLISH" value="430" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
