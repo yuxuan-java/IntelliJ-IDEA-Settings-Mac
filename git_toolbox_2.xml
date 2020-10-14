@@ -2,20 +2,7 @@
   <component name="GitToolBoxAppSettings2">
     <option name="blameInlineAuthorNameType" value="FULL" />
     <option name="blameStatusAuthorNameType" value="FULL" />
-    <option name="decorationParts">
-      <list>
-        <DecorationPartConfig>
-          <option name="type" value="LOCATION" />
-        </DecorationPartConfig>
-        <DecorationPartConfig>
-          <option name="type" value="BRANCH" />
-        </DecorationPartConfig>
-        <DecorationPartConfig>
-          <option name="type" value="STATUS" />
-        </DecorationPartConfig>
-      </list>
-    </option>
     <option name="previousVersionMigrated" value="true" />
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
 </application>
