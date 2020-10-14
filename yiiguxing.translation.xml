@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="standalone" />
+      <item value="unexpected element (uri:&quot;&quot;, local:&quot;stream&quot;). Expected elements are (none)" />
       <item value="This plugin extends the IDE’s folding features to emulate some of these modern languages’ features helping fight verbosity." />
       <item value="Modern JVM languages such as Kotlin, Groovy, Scala and some others offer many language features that let you write code in a more concise and expressive manner. These features include type inference, properties, interpolated string, range and tuple literals, enhanced operators, clojures, implicits, smart casts and many more." />
       <item value="Modern JVM languages such as Kotlin, Groovy, Scala and some others offer many language features that let you write code in a more concise and expressive manner. These features include type inference, properties, interpolated string, range and tuple literals, enhanced operators, clojures, implicits, smart casts and many more. This plugin extends the IDE’s folding features to emulate some of these modern languages’ features helping fight verbosity." />
@@ -49,13 +51,11 @@
       <item value="Not granted any authorities" />
       <item value="Sub Account" />
       <item value="in Fleet Virtual" />
-      <item value="user Payee Way Result" />
-      <item value="Annotation-specified bean name 'shippingAdvancePayService' for bean class [com.redox.tms.order.service.pay.impl.ShippingPayServiceImpl] conflicts with existing, non-compatible bean definition of same name and class [com.redox.tms.order.service.pay.impl.ShippingAdvancePayServiceImpl]" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="431" />
-        <entry key="ENGLISH" value="431" />
+        <entry key="CHINESE" value="432" />
+        <entry key="ENGLISH" value="433" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
