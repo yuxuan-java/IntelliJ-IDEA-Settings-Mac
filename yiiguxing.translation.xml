@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Prefix" />
       <item value="unified Order" />
       <item value="unifiedorder" />
       <item value="confirm" />
@@ -50,12 +51,11 @@
       <item value="No transaction aspect-managed TransactionStatus in scope" />
       <item value="Consider renaming one of the beans or enabling overriding by setting spring.main.allow-bean-definition-overriding=true" />
       <item value="A bean with that name has already been defined in null and overriding is disabled." />
-      <item value="Feign Client Specification" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="438" />
-        <entry key="ENGLISH" value="439" />
+        <entry key="CHINESE" value="439" />
+        <entry key="ENGLISH" value="440" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
