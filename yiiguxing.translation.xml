@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="unified Order" />
+      <item value="unifiedorder" />
+      <item value="confirm" />
       <item value="1 counts of IllegalAnnotationExceptions" />
       <item value="this problem is related to the following location: at public java.lang.String com.redox.tms.pay.zx.XmlDomain.getAction() at com.redox.tms.pay.zx.XmlDomain" />
       <item value="Class has two properties of the same name &quot;action&quot;" />
@@ -48,14 +51,11 @@
       <item value="Consider renaming one of the beans or enabling overriding by setting spring.main.allow-bean-definition-overriding=true" />
       <item value="A bean with that name has already been defined in null and overriding is disabled." />
       <item value="Feign Client Specification" />
-      <item value="DIVIDED" />
-      <item value="undivided" />
-      <item value="Authenticated: true; Details: org.springframework.security.web.authentication.WebAuthenticationDetails@7798: RemoteIpAddress: 192.168.31.172; SessionId: null; Not granted any authorities" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="435" />
-        <entry key="ENGLISH" value="436" />
+        <entry key="CHINESE" value="438" />
+        <entry key="ENGLISH" value="439" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
