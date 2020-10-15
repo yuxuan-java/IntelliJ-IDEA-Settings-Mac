@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="multiply" />
       <item value="By default, a transaction will be rolling back on {@link RuntimeException} * and {@link Error} but not on checked exceptions (business exceptions). See * {@link org.springframework.transaction.interceptor.DefaultTransactionAttribute#rollbackOn(Throwable)} * for a detailed explanation." />
       <item value="Defines zero (0) or more exception {@link Class classes}, which must be * subclasses of {@link Throwable}, indicating which exception types must cause * a transaction rollback." />
       <item value="状态" />
@@ -50,12 +51,11 @@
       <item value="Rebuild failed: trailer not found.; Original message: xref subsection not found at file pointer 1017895" />
       <item value="Connection reset by peer" />
       <item value="Assert" />
-      <item value="Http Message Not Readable Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="447" />
-        <entry key="ENGLISH" value="448" />
+        <entry key="CHINESE" value="448" />
+        <entry key="ENGLISH" value="449" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
