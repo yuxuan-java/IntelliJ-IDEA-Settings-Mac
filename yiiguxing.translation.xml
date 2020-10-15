@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="refund" />
+      <item value="根据业务ID发起微信退款" />
       <item value="Asyn" />
       <item value="pay Notify" />
       <item value="process Notify" />
@@ -49,13 +51,11 @@
       <item value="fleet Driver Pay" />
       <item value="Invalid Grant Exception" />
       <item value="Invalid refresh token" />
-      <item value="tms user car trailer" />
-      <item value="NONE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="443" />
-        <entry key="ENGLISH" value="443" />
+        <entry key="CHINESE" value="444" />
+        <entry key="ENGLISH" value="444" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
