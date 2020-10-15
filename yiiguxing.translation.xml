@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Asyn" />
+      <item value="pay Notify" />
       <item value="process Notify" />
       <item value="unified Order" />
       <item value="Prefix" />
@@ -49,13 +51,11 @@
       <item value="Invalid refresh token" />
       <item value="tms user car trailer" />
       <item value="NONE" />
-      <item value="No transaction aspect-managed TransactionStatus in scope" />
-      <item value="Consider renaming one of the beans or enabling overriding by setting spring.main.allow-bean-definition-overriding=true" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="441" />
-        <entry key="ENGLISH" value="442" />
+        <entry key="CHINESE" value="443" />
+        <entry key="ENGLISH" value="443" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
@@ -65,6 +65,7 @@
         <entry key="KURDISH" value="2" />
         <entry key="ROMANIAN" value="2" />
         <entry key="NORWEGIAN" value="1" />
+        <entry key="WELSH" value="1" />
         <entry key="SPANISH" value="1" />
         <entry key="HINDI" value="1" />
         <entry key="VIETNAMESE" value="2" />
