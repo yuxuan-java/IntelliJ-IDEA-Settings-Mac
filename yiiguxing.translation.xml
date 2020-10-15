@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="状态" />
       <item value="Duplicate entry '43' for key 'reserveId'" />
       <item value="attach" />
       <item value="refund" />
@@ -50,11 +51,10 @@
       <item value="Http Message Not Readable Exception" />
       <item value="User redoxzl_su2019 already has more than 'max_user_connections' active connections" />
       <item value="fleet Captain Pay" />
-      <item value="fleet Driver Pay" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="445" />
+        <entry key="CHINESE" value="446" />
         <entry key="ENGLISH" value="446" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
