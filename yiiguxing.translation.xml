@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="By default, a transaction will be rolling back on {@link RuntimeException} * and {@link Error} but not on checked exceptions (business exceptions). See * {@link org.springframework.transaction.interceptor.DefaultTransactionAttribute#rollbackOn(Throwable)} * for a detailed explanation." />
+      <item value="Defines zero (0) or more exception {@link Class classes}, which must be * subclasses of {@link Throwable}, indicating which exception types must cause * a transaction rollback." />
       <item value="状态" />
       <item value="Duplicate entry '43' for key 'reserveId'" />
       <item value="attach" />
@@ -49,13 +51,11 @@
       <item value="Connection reset by peer" />
       <item value="Assert" />
       <item value="Http Message Not Readable Exception" />
-      <item value="User redoxzl_su2019 already has more than 'max_user_connections' active connections" />
-      <item value="fleet Captain Pay" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="446" />
-        <entry key="ENGLISH" value="446" />
+        <entry key="CHINESE" value="447" />
+        <entry key="ENGLISH" value="448" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
