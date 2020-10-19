@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="polling" />
       <item value="paing" />
       <item value="Broken pipe" />
       <item value="url" />
@@ -50,12 +51,11 @@
       <item value="call Income Virtual Accounts" />
       <item value="income Virtual Accounts" />
       <item value="query Call Bank" />
-      <item value="trailer" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="451" />
-        <entry key="ENGLISH" value="451" />
+        <entry key="ENGLISH" value="452" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
