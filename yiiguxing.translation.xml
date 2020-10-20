@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This is a plugin for SAP Hybris Commerce integration." />
+      <item value="Eliminate context switching and costly distractions. Create and merge PRs and perform code reviews from inside your IDE while using jump-to-definition, your favorite keybindings, and other IDE favorites." />
+      <item value="Code With Me (EAP) – a tool for collaborative development and pair programming by JetBrains. Share your coding session with others easily!" />
       <item value="polling" />
       <item value="sort Type" />
       <item value="paing" />
@@ -48,13 +51,10 @@
       <item value="Download pre-built shared indexes Pre-built JDK shared indexes reduce the indexing time and CPU load" />
       <item value="compatible With Field Name" />
       <item value="compatible With Java Bean" />
-      <item value="INOVIE WAS REJECTED DUE TO NO GR FOUND IN SYSTEM FOR MORE THAN 7 DAYS." />
-      <item value="call Income Virtual Accounts" />
-      <item value="income Virtual Accounts" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="453" />
+        <entry key="CHINESE" value="454" />
         <entry key="ENGLISH" value="454" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
