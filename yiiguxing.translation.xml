@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fleet Driver Pay" />
       <item value="real Time Collection" />
       <item value="Prefix must be in canonical form" />
       <item value="switch" />
@@ -50,12 +51,11 @@
       <item value="CUBA Studio is a specialized tool for CUBA Platform – an open source JVM framework for business applications. Studio is a full featured Rapid Application Development tool offering extensive code generation, visual designers, smart prompts and convenient code navigation. Develop enterprise-grade solutions with comfort and high productivity!" />
       <item value="Rust language support" />
       <item value="With this plugin, you can conveniently work with Zeppelin notebooks,, monitor Spark and Hadoop applications, and preview AWS S3, Google Cloud Storage, Minio, Linode, Digital Open Space, Microsoft Azure, and Hadoop Distributed File System files right from IntelliJ-based IDEs including IntelliJ IDEA Ultimate, PyCharm Professional, and DataGrip." />
-      <item value="The AWS Toolkit is an open-source plug-in for JetBrains IDEs that makes it easier to develop applications built on AWS. The toolkit helps you create, test, and debug serverless applications built using the AWS Serverless Application Model" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="459" />
-        <entry key="ENGLISH" value="460" />
+        <entry key="CHINESE" value="460" />
+        <entry key="ENGLISH" value="461" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
