@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="WALLET TRANSFER" />
       <item value="finished" />
       <item value="This is a plugin for SAP Hybris Commerce integration." />
       <item value="Eliminate context switching and costly distractions. Create and merge PRs and perform code reviews from inside your IDE while using jump-to-definition, your favorite keybindings, and other IDE favorites." />
@@ -50,12 +51,11 @@
       <item value="Provides advanced support for UI automation with Selenium libraries in JVM/Python languages:" />
       <item value="a tool for collaborative development and pair programming by JetBrains. Share your coding session with others easily!" />
       <item value="Download pre-built shared indexes Pre-built JDK shared indexes reduce the indexing time and CPU load" />
-      <item value="compatible With Field Name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="454" />
-        <entry key="ENGLISH" value="455" />
+        <entry key="CHINESE" value="455" />
+        <entry key="ENGLISH" value="456" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
