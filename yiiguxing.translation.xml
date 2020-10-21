@@ -1,11 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fleet Captain Pay" />
+      <item value="fleet Driver Pay" />
       <item value="FLOW" />
       <item value="The error occurred while setting parameters" />
       <item value="The error may involve defaultParameterMap" />
       <item value="Incorrect datetime value: '1' for column 'relations_pay_time' at row 1" />
-      <item value="fleet Driver Pay" />
       <item value="real Time Collection" />
       <item value="Prefix must be in canonical form" />
       <item value="switch" />
@@ -50,12 +51,11 @@
       <item value="Alibaba Java Coding Guidelines plugin support." />
       <item value="Case switching, sorting, filtering, incrementing, aligning to columns, grepping, escaping, encoding..." />
       <item value="String and code manipulations, performed on keyboard shortcut with detection of intended manipulation. The type of manipulation only has to be selected manually when multiple are possible." />
-      <item value="Changes new monochrome icons to the good colorful old ones. You can choose between icons from IntelliJ 2016.2 and 2018.1." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="464" />
-        <entry key="ENGLISH" value="465" />
+        <entry key="CHINESE" value="467" />
+        <entry key="ENGLISH" value="468" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
