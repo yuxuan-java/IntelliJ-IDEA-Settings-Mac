@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="select Unconfirmed" />
       <item value="AFTER" />
       <item value="WALLET TRANSFER" />
       <item value="finished" />
@@ -50,12 +51,11 @@
       <item value="Auto-completion of keys/values/resource kinds/API versions" />
       <item value="Highlighting and validation of XPath, CSS, JavaScript in UI testing APIs for Java/Kotlin/Groovy/Python. Project scaffolding with popular Selenium libraries. Code completion for HTML tags, attributes and CSS properties in tests. Line markers and navigation to issue trackers and TMS cases for Allure Framework and Serenity BDD. Code completion and validation for configuration files of Selenium Grid, Selenoid and Allure Framework. Run Selenoid action in browsers.json Line markers with quick navigation to @Step usages in code. Find usages and code completion for @Feature, @Epic, @Story, @Owner and @Lead usages for Allure Framework." />
       <item value="Provides advanced support for UI automation with Selenium libraries in JVM/Python languages:" />
-      <item value="a tool for collaborative development and pair programming by JetBrains. Share your coding session with others easily!" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="456" />
-        <entry key="ENGLISH" value="457" />
+        <entry key="CHINESE" value="457" />
+        <entry key="ENGLISH" value="458" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
