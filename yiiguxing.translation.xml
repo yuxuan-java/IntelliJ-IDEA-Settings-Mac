@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The error occurred while setting parameters" />
+      <item value="The error may involve defaultParameterMap" />
+      <item value="Incorrect datetime value: '1' for column 'relations_pay_time' at row 1" />
       <item value="fleet Driver Pay" />
       <item value="real Time Collection" />
       <item value="Prefix must be in canonical form" />
@@ -48,14 +51,11 @@
       <item value="String and code manipulations, performed on keyboard shortcut with detection of intended manipulation. The type of manipulation only has to be selected manually when multiple are possible." />
       <item value="Changes new monochrome icons to the good colorful old ones. You can choose between icons from IntelliJ 2016.2 and 2018.1." />
       <item value="Material Theme UI is a plugin for JetBrains IDE (IntelliJ IDEA, WebStorm, Android Studio and so on) that changes the original appearance to a Material Design look and feel." />
-      <item value="CUBA Studio is a specialized tool for CUBA Platform – an open source JVM framework for business applications. Studio is a full featured Rapid Application Development tool offering extensive code generation, visual designers, smart prompts and convenient code navigation. Develop enterprise-grade solutions with comfort and high productivity!" />
-      <item value="Rust language support" />
-      <item value="With this plugin, you can conveniently work with Zeppelin notebooks,, monitor Spark and Hadoop applications, and preview AWS S3, Google Cloud Storage, Minio, Linode, Digital Open Space, Microsoft Azure, and Hadoop Distributed File System files right from IntelliJ-based IDEs including IntelliJ IDEA Ultimate, PyCharm Professional, and DataGrip." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="460" />
-        <entry key="ENGLISH" value="461" />
+        <entry key="CHINESE" value="463" />
+        <entry key="ENGLISH" value="464" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
