@@ -1,61 +1,61 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="compatible With Field Name" />
-      <item value="compatible With Java Bean" />
-      <item value="INOVIE WAS REJECTED DUE TO NO GR FOUND IN SYSTEM FOR MORE THAN 7 DAYS." />
-      <item value="call Income Virtual Accounts" />
-      <item value="income Virtual Accounts" />
-      <item value="query Call Bank" />
-      <item value="trailer" />
-      <item value="Rebuild failed: trailer not found.; Original message: xref subsection not found at file pointer 1017895" />
-      <item value="Connection reset by peer" />
-      <item value="Assert" />
-      <item value="Http Message Not Readable Exception" />
-      <item value="User redoxzl_su2019 already has more than 'max_user_connections' active connections" />
       <item value="fleet Captain Pay" />
       <item value="fleet Driver Pay" />
-      <item value="Invalid Grant Exception" />
-      <item value="Invalid refresh token" />
-      <item value="tms user car trailer" />
-      <item value="NONE" />
-      <item value="No transaction aspect-managed TransactionStatus in scope" />
-      <item value="Consider renaming one of the beans or enabling overriding by setting spring.main.allow-bean-definition-overriding=true" />
-      <item value="A bean with that name has already been defined in null and overriding is disabled." />
-      <item value="Feign Client Specification" />
-      <item value="DIVIDED" />
-      <item value="undivided" />
-      <item value="Authenticated: true; Details: org.springframework.security.web.authentication.WebAuthenticationDetails@7798: RemoteIpAddress: 192.168.31.172; SessionId: null; Not granted any authorities" />
-      <item value="Not granted any authorities" />
-      <item value="Sub Account" />
-      <item value="in Fleet Virtual" />
-      <item value="user Payee Way Result" />
-      <item value="Annotation-specified bean name 'shippingAdvancePayService' for bean class [com.redox.tms.order.service.pay.impl.ShippingPayServiceImpl] conflicts with existing, non-compatible bean definition of same name and class [com.redox.tms.order.service.pay.impl.ShippingAdvancePayServiceImpl]" />
-      <item value="get Captain Payment Method" />
-      <item value="cash Shipping" />
-      <item value="management Fee Pay Record" />
-      <item value="management Pay Record" />
-      <item value="receiver Pay Record" />
-      <item value="Incorrect date value: '2016-19-25' for column 'car_driving_regist_date' at row 1" />
-      <item value="frozen Total Amount" />
-      <item value="Strategy Context" />
-      <item value="shipping Pay Balance Amt" />
-      <item value="bank card" />
-      <item value="Is the byte array a result of corresponding serialization for DefaultDeserializer?" />
-      <item value="Failed to deserialize payload" />
-      <item value="Cannot deserialize;" />
-      <item value="Is the byte array a result of corresponding serialization for DefaultDeserializer" />
-      <item value="Is the byte array a result of corresponding serialization for DefaultDeserializer?; nested exception is org.springframework.core.NestedIOException: Failed to deserialize object type; nested exception is java.lang.ClassNotFoundException: com.redox.tms.auth.jwt.token.AuthenticationToken" />
-      <item value="advance Card" />
-      <item value="account Balance" />
-      <item value="adversary Account Name" />
-      <item value="captain Finance List" />
-      <item value="driver Finance List" />
+      <item value="FLOW" />
+      <item value="The error occurred while setting parameters" />
+      <item value="The error may involve defaultParameterMap" />
+      <item value="Incorrect datetime value: '1' for column 'relations_pay_time' at row 1" />
+      <item value="real Time Collection" />
+      <item value="Prefix must be in canonical form" />
+      <item value="switch" />
+      <item value="select Unconfirmed" />
+      <item value="AFTER" />
+      <item value="WALLET TRANSFER" />
+      <item value="finished" />
+      <item value="This is a plugin for SAP Hybris Commerce integration." />
+      <item value="Eliminate context switching and costly distractions. Create and merge PRs and perform code reviews from inside your IDE while using jump-to-definition, your favorite keybindings, and other IDE favorites." />
+      <item value="Code With Me (EAP) – a tool for collaborative development and pair programming by JetBrains. Share your coding session with others easily!" />
+      <item value="polling" />
+      <item value="sort Type" />
+      <item value="paing" />
+      <item value="Broken pipe" />
+      <item value="url" />
+      <item value="multiply" />
+      <item value="By default, a transaction will be rolling back on {@link RuntimeException} * and {@link Error} but not on checked exceptions (business exceptions). See * {@link org.springframework.transaction.interceptor.DefaultTransactionAttribute#rollbackOn(Throwable)} * for a detailed explanation." />
+      <item value="Defines zero (0) or more exception {@link Class classes}, which must be * subclasses of {@link Throwable}, indicating which exception types must cause * a transaction rollback." />
+      <item value="状态" />
+      <item value="Duplicate entry '43' for key 'reserveId'" />
+      <item value="attach" />
+      <item value="refund" />
+      <item value="根据业务ID发起微信退款" />
+      <item value="Asyn" />
+      <item value="pay Notify" />
+      <item value="process Notify" />
+      <item value="unified Order" />
+      <item value="Prefix" />
+      <item value="unifiedorder" />
+      <item value="confirm" />
+      <item value="1 counts of IllegalAnnotationExceptions" />
+      <item value="this problem is related to the following location: at public java.lang.String com.redox.tms.pay.zx.XmlDomain.getAction() at com.redox.tms.pay.zx.XmlDomain" />
+      <item value="Class has two properties of the same name &quot;action&quot;" />
+      <item value="standalone" />
+      <item value="unexpected element (uri:&quot;&quot;, local:&quot;stream&quot;). Expected elements are (none)" />
+      <item value="This plugin extends the IDE’s folding features to emulate some of these modern languages’ features helping fight verbosity." />
+      <item value="Modern JVM languages such as Kotlin, Groovy, Scala and some others offer many language features that let you write code in a more concise and expressive manner. These features include type inference, properties, interpolated string, range and tuple literals, enhanced operators, clojures, implicits, smart casts and many more." />
+      <item value="Modern JVM languages such as Kotlin, Groovy, Scala and some others offer many language features that let you write code in a more concise and expressive manner. These features include type inference, properties, interpolated string, range and tuple literals, enhanced operators, clojures, implicits, smart casts and many more. This plugin extends the IDE’s folding features to emulate some of these modern languages’ features helping fight verbosity." />
+      <item value="Use HTML Emmet anywhere. For example in Google Closure Template (*.soy files). Just type your code and press CTRL+ALT+]" />
+      <item value="EmmetEverywhere Plugin for IntelliJ IDEA" />
+      <item value="Alibaba Java Coding Guidelines plugin support.(XenoAmess TPM) Third-party maintenance by XenoAmess." />
+      <item value="Alibaba Java Coding Guidelines plugin support." />
+      <item value="Case switching, sorting, filtering, incrementing, aligning to columns, grepping, escaping, encoding..." />
+      <item value="String and code manipulations, performed on keyboard shortcut with detection of intended manipulation. The type of manipulation only has to be selected manually when multiple are possible." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="429" />
-        <entry key="ENGLISH" value="430" />
+        <entry key="CHINESE" value="467" />
+        <entry key="ENGLISH" value="468" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
@@ -65,8 +65,10 @@
         <entry key="KURDISH" value="2" />
         <entry key="ROMANIAN" value="2" />
         <entry key="NORWEGIAN" value="1" />
+        <entry key="WELSH" value="1" />
         <entry key="SPANISH" value="1" />
         <entry key="HINDI" value="1" />
+        <entry key="JAVANESE" value="1" />
         <entry key="VIETNAMESE" value="2" />
       </map>
     </option>

@@ -10,6 +10,9 @@
   <action id="$EditorTranslateAction">
     <keyboard-shortcut first-keystroke="shift meta x" />
   </action>
+  <action id="$LRU">
+    <keyboard-shortcut first-keystroke="meta o" />
+  </action>
   <action id="$Paste">
     <keyboard-shortcut first-keystroke="ctrl v" />
     <keyboard-shortcut first-keystroke="meta v" />
@@ -141,6 +144,9 @@
   </action>
   <action id="Editor EditorTranslateAction">
     <keyboard-shortcut first-keystroke="shift meta x" />
+  </action>
+  <action id="Editor LRU">
+    <keyboard-shortcut first-keystroke="meta o" />
   </action>
   <action id="Editor Paste">
     <keyboard-shortcut first-keystroke="meta v" />
