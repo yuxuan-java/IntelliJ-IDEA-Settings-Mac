@@ -1,6 +1,23 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="public Reconcilable No" />
+      <item value="interest Accrual No" />
+      <item value="interest Bearing No" />
+      <item value="Bearing" />
+      <item value="public Reconciliate No" />
+      <item value="Initialize" />
+      <item value="Reconciliation" />
+      <item value="public Reconciliation No" />
+      <item value="Charges" />
+      <item value="interest Bearing" />
+      <item value="Bearing Charges" />
+      <item value="interest Bearing Charges" />
+      <item value="公共计息收费" />
+      <item value="Funds" />
+      <item value="initialize Public Funds No" />
+      <item value="init Public Funds No" />
+      <item value="init Public Funds" />
       <item value="fleet Captain Pay" />
       <item value="fleet Driver Pay" />
       <item value="FLOW" />
@@ -34,28 +51,11 @@
       <item value="pay Notify" />
       <item value="process Notify" />
       <item value="unified Order" />
-      <item value="Prefix" />
-      <item value="unifiedorder" />
-      <item value="confirm" />
-      <item value="1 counts of IllegalAnnotationExceptions" />
-      <item value="this problem is related to the following location: at public java.lang.String com.redox.tms.pay.zx.XmlDomain.getAction() at com.redox.tms.pay.zx.XmlDomain" />
-      <item value="Class has two properties of the same name &quot;action&quot;" />
-      <item value="standalone" />
-      <item value="unexpected element (uri:&quot;&quot;, local:&quot;stream&quot;). Expected elements are (none)" />
-      <item value="This plugin extends the IDE’s folding features to emulate some of these modern languages’ features helping fight verbosity." />
-      <item value="Modern JVM languages such as Kotlin, Groovy, Scala and some others offer many language features that let you write code in a more concise and expressive manner. These features include type inference, properties, interpolated string, range and tuple literals, enhanced operators, clojures, implicits, smart casts and many more." />
-      <item value="Modern JVM languages such as Kotlin, Groovy, Scala and some others offer many language features that let you write code in a more concise and expressive manner. These features include type inference, properties, interpolated string, range and tuple literals, enhanced operators, clojures, implicits, smart casts and many more. This plugin extends the IDE’s folding features to emulate some of these modern languages’ features helping fight verbosity." />
-      <item value="Use HTML Emmet anywhere. For example in Google Closure Template (*.soy files). Just type your code and press CTRL+ALT+]" />
-      <item value="EmmetEverywhere Plugin for IntelliJ IDEA" />
-      <item value="Alibaba Java Coding Guidelines plugin support.(XenoAmess TPM) Third-party maintenance by XenoAmess." />
-      <item value="Alibaba Java Coding Guidelines plugin support." />
-      <item value="Case switching, sorting, filtering, incrementing, aligning to columns, grepping, escaping, encoding..." />
-      <item value="String and code manipulations, performed on keyboard shortcut with detection of intended manipulation. The type of manipulation only has to be selected manually when multiple are possible." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="467" />
-        <entry key="ENGLISH" value="468" />
+        <entry key="CHINESE" value="486" />
+        <entry key="ENGLISH" value="487" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
