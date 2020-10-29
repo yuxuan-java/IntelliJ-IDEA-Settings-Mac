@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Bill" />
       <item value="public Reconcilable No" />
       <item value="interest Accrual No" />
       <item value="interest Bearing No" />
@@ -50,12 +51,11 @@
       <item value="Asyn" />
       <item value="pay Notify" />
       <item value="process Notify" />
-      <item value="unified Order" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="486" />
-        <entry key="ENGLISH" value="487" />
+        <entry key="CHINESE" value="487" />
+        <entry key="ENGLISH" value="488" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
