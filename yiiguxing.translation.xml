@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Default method 'toString' overrides a member of 'java.lang.Object'" />
       <item value="Handler dispatch failed" />
       <item value="export" />
       <item value="offline Pay List" />
@@ -50,11 +51,10 @@
       <item value="url" />
       <item value="multiply" />
       <item value="By default, a transaction will be rolling back on {@link RuntimeException} * and {@link Error} but not on checked exceptions (business exceptions). See * {@link org.springframework.transaction.interceptor.DefaultTransactionAttribute#rollbackOn(Throwable)} * for a detailed explanation." />
-      <item value="Defines zero (0) or more exception {@link Class classes}, which must be * subclasses of {@link Throwable}, indicating which exception types must cause * a transaction rollback." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="496" />
+        <entry key="CHINESE" value="497" />
         <entry key="ENGLISH" value="497" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
