@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="If a subquery returns any rows at all, EXISTS subquery is TRUE, and NOT EXISTS subquery is FALSE" />
       <item value="JWT String argument cannot be null or empty." />
       <item value="get Finance Change Amount" />
       <item value="Default method 'toString' overrides a member of 'java.lang.Object'" />
@@ -50,11 +51,10 @@
       <item value="sort Type" />
       <item value="paing" />
       <item value="Broken pipe" />
-      <item value="url" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="498" />
+        <entry key="CHINESE" value="499" />
         <entry key="ENGLISH" value="499" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
