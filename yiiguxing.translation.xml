@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="JWT String argument cannot be null or empty." />
       <item value="get Finance Change Amount" />
       <item value="Default method 'toString' overrides a member of 'java.lang.Object'" />
       <item value="Handler dispatch failed" />
@@ -50,12 +51,11 @@
       <item value="paing" />
       <item value="Broken pipe" />
       <item value="url" />
-      <item value="multiply" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="497" />
-        <entry key="ENGLISH" value="498" />
+        <entry key="CHINESE" value="498" />
+        <entry key="ENGLISH" value="499" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
