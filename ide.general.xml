@@ -12,5 +12,6 @@
     <entry key="search.everywhere.settings" value="true" />
     <entry key="ide.windowSystem.autoShowProcessPopup" value="true" />
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
+    <entry key="compiler.automake.allow.when.app.running" value="true" />
   </component>
 </application>
