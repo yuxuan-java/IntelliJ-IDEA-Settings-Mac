@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Reserve Date Info" />
+      <item value="train Number" />
       <item value="subscript" />
       <item value="Allow auto-make to start even if developed application is currently running. Note that automatically started make may eventually delete some classes that are required by the application." />
       <item value="compute If Absent" />
@@ -49,13 +51,11 @@
       <item value="finished" />
       <item value="This is a plugin for SAP Hybris Commerce integration." />
       <item value="Eliminate context switching and costly distractions. Create and merge PRs and perform code reviews from inside your IDE while using jump-to-definition, your favorite keybindings, and other IDE favorites." />
-      <item value="Code With Me (EAP) – a tool for collaborative development and pair programming by JetBrains. Share your coding session with others easily!" />
-      <item value="polling" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="500" />
-        <entry key="ENGLISH" value="501" />
+        <entry key="CHINESE" value="502" />
+        <entry key="ENGLISH" value="503" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
