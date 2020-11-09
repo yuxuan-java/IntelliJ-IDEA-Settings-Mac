@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="the radix to be used while parsing {@code s}." />
       <item value="get Reserve Date Info" />
       <item value="train Number" />
       <item value="subscript" />
@@ -50,12 +51,11 @@
       <item value="WALLET TRANSFER" />
       <item value="finished" />
       <item value="This is a plugin for SAP Hybris Commerce integration." />
-      <item value="Eliminate context switching and costly distractions. Create and merge PRs and perform code reviews from inside your IDE while using jump-to-definition, your favorite keybindings, and other IDE favorites." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="502" />
-        <entry key="ENGLISH" value="503" />
+        <entry key="CHINESE" value="503" />
+        <entry key="ENGLISH" value="504" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
