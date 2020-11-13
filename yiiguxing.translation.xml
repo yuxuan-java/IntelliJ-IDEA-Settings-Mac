@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Fleet Driver" />
       <item value="Annotation for handling exceptions in specific handler classes and/or * handler methods." />
       <item value="Broken pipe" />
       <item value="automatic Cancel" />
@@ -50,12 +51,11 @@
       <item value="real Time Collection" />
       <item value="Prefix must be in canonical form" />
       <item value="switch" />
-      <item value="select Unconfirmed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="506" />
-        <entry key="ENGLISH" value="507" />
+        <entry key="CHINESE" value="507" />
+        <entry key="ENGLISH" value="508" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
@@ -79,6 +79,5 @@
     <option name="showWordForms" value="false" />
     <option name="showWordsOnStartup" value="true" />
     <option name="targetLanguageSelection" value="PRIMARY_LANGUAGE" />
-    <option name="translateDocumentation" value="true" />
   </component>
 </application>
