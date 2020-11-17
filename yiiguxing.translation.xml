@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Duplicate" />
       <item value="Unexpected error occurred in scheduled task." />
       <item value="The name of the sheet header." />
       <item value="Constant expression required" />
@@ -50,12 +51,11 @@
       <item value="FLOW" />
       <item value="The error occurred while setting parameters" />
       <item value="The error may involve defaultParameterMap" />
-      <item value="Incorrect datetime value: '1' for column 'relations_pay_time' at row 1" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="509" />
-        <entry key="ENGLISH" value="510" />
+        <entry key="CHINESE" value="510" />
+        <entry key="ENGLISH" value="511" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
