@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Enable Eureka Client" />
+      <item value="Enable Discovery Client" />
       <item value="Duplicate" />
       <item value="Unexpected error occurred in scheduled task." />
       <item value="The name of the sheet header." />
@@ -49,13 +51,11 @@
       <item value="fleet Captain Pay" />
       <item value="fleet Driver Pay" />
       <item value="FLOW" />
-      <item value="The error occurred while setting parameters" />
-      <item value="The error may involve defaultParameterMap" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="510" />
-        <entry key="ENGLISH" value="511" />
+        <entry key="CHINESE" value="512" />
+        <entry key="ENGLISH" value="513" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
