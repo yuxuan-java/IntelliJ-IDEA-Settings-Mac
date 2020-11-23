@@ -125,6 +125,8 @@
   </action>
   <action id="Debug">
     <keyboard-shortcut first-keystroke="f12" />
+  </action>
+  <action id="DebugClass">
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
   <action id="Debugger.RemoveAllBreakpoints">
@@ -265,9 +267,7 @@
   <action id="Resume">
     <keyboard-shortcut first-keystroke="f8" />
   </action>
-  <action id="Run">
-    <keyboard-shortcut first-keystroke="shift alt j" />
-  </action>
+  <action id="Run" />
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="ctrl s" />
     <keyboard-shortcut first-keystroke="meta s" />
@@ -313,6 +313,7 @@
   <action id="ViewBreakpoints">
     <keyboard-shortcut first-keystroke="f9" />
   </action>
+  <action id="XDebugger.AttachToProcess" />
   <action id="XDebugger.MuteBreakpoints">
     <keyboard-shortcut first-keystroke="f10" />
   </action>
