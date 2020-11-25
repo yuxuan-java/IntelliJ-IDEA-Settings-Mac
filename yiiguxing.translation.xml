@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Adaptee" />
+      <item value="Adapter" />
       <item value="Log an exception (throwable) at the ERROR level with an * accompanying message." />
       <item value="expected at least 1 bean which qualifies as autowire candidate" />
       <item value="Unsatisfied Dependency Exception" />
@@ -49,13 +51,11 @@
       <item value="公共计息收费" />
       <item value="Funds" />
       <item value="initialize Public Funds No" />
-      <item value="init Public Funds No" />
-      <item value="init Public Funds" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="515" />
-        <entry key="ENGLISH" value="516" />
+        <entry key="CHINESE" value="517" />
+        <entry key="ENGLISH" value="518" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
