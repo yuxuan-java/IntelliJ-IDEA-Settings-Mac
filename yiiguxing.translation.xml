@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Abstraction" />
+      <item value="Concrete Implementor A" />
+      <item value="Concrete Implementor B" />
+      <item value="Refined Abstraction" />
       <item value="Adaptee" />
       <item value="Adapter" />
       <item value="Log an exception (throwable) at the ERROR level with an * accompanying message." />
@@ -47,15 +51,11 @@
       <item value="Charges" />
       <item value="interest Bearing" />
       <item value="Bearing Charges" />
-      <item value="interest Bearing Charges" />
-      <item value="公共计息收费" />
-      <item value="Funds" />
-      <item value="initialize Public Funds No" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="517" />
-        <entry key="ENGLISH" value="518" />
+        <entry key="CHINESE" value="522" />
+        <entry key="ENGLISH" value="523" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
