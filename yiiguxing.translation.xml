@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="plus Days" />
+      <item value="one Month Ago" />
       <item value="today Unfinished" />
       <item value="reservation Sum" />
       <item value="guard User Id" />
@@ -49,13 +51,11 @@
       <item value="Bill" />
       <item value="public Reconcilable No" />
       <item value="interest Accrual No" />
-      <item value="interest Bearing No" />
-      <item value="Bearing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="529" />
-        <entry key="ENGLISH" value="530" />
+        <entry key="CHINESE" value="531" />
+        <entry key="ENGLISH" value="532" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
