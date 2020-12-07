@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reservation Sum" />
       <item value="guard User Id" />
       <item value="Consider injecting the bean as one of its interfaces or forcing the use of CGLib-based proxies by setting proxyTargetClass=true on @EnableAsync and/or @EnableCaching." />
       <item value="because it is a JDK dynamic proxy that implements:" />
@@ -50,12 +51,11 @@
       <item value="interest Bearing No" />
       <item value="Bearing" />
       <item value="public Reconciliate No" />
-      <item value="Initialize" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="527" />
-        <entry key="ENGLISH" value="528" />
+        <entry key="CHINESE" value="528" />
+        <entry key="ENGLISH" value="529" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
