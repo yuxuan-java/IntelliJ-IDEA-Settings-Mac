@@ -292,7 +292,7 @@
     <keyboard-shortcut first-keystroke="shift alt t" />
   </action>
   <action id="Stop">
-    <keyboard-shortcut first-keystroke="ctrl f12" />
+    <keyboard-shortcut first-keystroke="shift meta s" />
   </action>
   <action id="SurroundWith">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
