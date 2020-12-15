@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="825" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="填充" />
       <item value="update Group Manager Login Status" />
       <item value="in Storage Number" />
       <item value="Unable to resolve table 'order'" />
@@ -52,11 +53,10 @@
       <item value="export" />
       <item value="offline Pay List" />
       <item value="OFFLINE" />
-      <item value="offline pay" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="536" />
+        <entry key="CHINESE" value="538" />
         <entry key="ENGLISH" value="537" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
