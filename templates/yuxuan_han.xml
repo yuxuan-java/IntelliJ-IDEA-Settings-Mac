@@ -37,4 +37,19 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="pvs" value="private String " description="private String" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="pvi" value="private Integer " description="private Integer" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="pvl" value="private Long " description="private Long" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>

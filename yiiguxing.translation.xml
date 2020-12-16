@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="825" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="Info" />
       <item value="test Proactive Notification" />
       <item value="Registe" />
       <item value="user Registe Application" />
@@ -52,12 +53,11 @@
       <item value="train Number" />
       <item value="subscript" />
       <item value="Allow auto-make to start even if developed application is currently running. Note that automatically started make may eventually delete some classes that are required by the application." />
-      <item value="compute If Absent" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="543" />
-        <entry key="ENGLISH" value="542" />
+        <entry key="ENGLISH" value="543" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
