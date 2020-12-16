@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="825" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="Prepaid Transaction Request" />
       <item value="test Smart Withdrawal" />
       <item value="testsmart Withdrawal" />
       <item value="查询" />
@@ -52,12 +53,11 @@
       <item value="Annotation for handling exceptions in specific handler classes and/or * handler methods." />
       <item value="Broken pipe" />
       <item value="automatic Cancel" />
-      <item value="auto Cancel" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="547" />
-        <entry key="ENGLISH" value="548" />
+        <entry key="CHINESE" value="548" />
+        <entry key="ENGLISH" value="549" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
