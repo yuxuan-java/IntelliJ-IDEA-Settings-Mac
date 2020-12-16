@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="825" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="test Smart Withdrawal" />
+      <item value="testsmart Withdrawal" />
       <item value="查询" />
       <item value="Inquiry" />
       <item value="test User Balance Inquiry" />
@@ -51,13 +53,11 @@
       <item value="Broken pipe" />
       <item value="automatic Cancel" />
       <item value="auto Cancel" />
-      <item value="the radix to be used while parsing {@code s}." />
-      <item value="get Reserve Date Info" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="546" />
-        <entry key="ENGLISH" value="546" />
+        <entry key="CHINESE" value="547" />
+        <entry key="ENGLISH" value="548" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
