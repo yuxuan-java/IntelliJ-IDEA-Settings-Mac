@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="825" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="查询" />
+      <item value="Inquiry" />
+      <item value="test User Balance Inquiry" />
       <item value="Info" />
       <item value="test Proactive Notification" />
       <item value="Registe" />
@@ -50,14 +53,11 @@
       <item value="auto Cancel" />
       <item value="the radix to be used while parsing {@code s}." />
       <item value="get Reserve Date Info" />
-      <item value="train Number" />
-      <item value="subscript" />
-      <item value="Allow auto-make to start even if developed application is currently running. Note that automatically started make may eventually delete some classes that are required by the application." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="543" />
-        <entry key="ENGLISH" value="543" />
+        <entry key="CHINESE" value="546" />
+        <entry key="ENGLISH" value="546" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
