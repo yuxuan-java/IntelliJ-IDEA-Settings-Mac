@@ -32,7 +32,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="pv" value="private" description="private" toReformat="false" toShortenFQNames="true">
+  <template name="pv" value="private " description="private" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
