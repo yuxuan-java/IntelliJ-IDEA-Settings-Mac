@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="825" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="Registe" />
+      <item value="user Registe Application" />
+      <item value="通过该接口，平台商户可以上传要注册的新用户的信息至中信银行。" />
+      <item value="注册" />
       <item value="lunch Break Timezone" />
       <item value="Required Integer parameter 'breakTime' is not present" />
       <item value="The last packet successfully received from the server was 2,256,876 milliseconds ago" />
@@ -49,15 +53,11 @@
       <item value="Allow auto-make to start even if developed application is currently running. Note that automatically started make may eventually delete some classes that are required by the application." />
       <item value="compute If Absent" />
       <item value="If a subquery returns any rows at all, EXISTS subquery is TRUE, and NOT EXISTS subquery is FALSE" />
-      <item value="JWT String argument cannot be null or empty." />
-      <item value="get Finance Change Amount" />
-      <item value="Default method 'toString' overrides a member of 'java.lang.Object'" />
-      <item value="Handler dispatch failed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="539" />
-        <entry key="ENGLISH" value="540" />
+        <entry key="CHINESE" value="543" />
+        <entry key="ENGLISH" value="541" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
@@ -67,6 +67,7 @@
         <entry key="KURDISH" value="2" />
         <entry key="ROMANIAN" value="3" />
         <entry key="NORWEGIAN" value="1" />
+        <entry key="PORTUGUESE" value="1" />
         <entry key="WELSH" value="1" />
         <entry key="SPANISH" value="1" />
         <entry key="HINDI" value="1" />
