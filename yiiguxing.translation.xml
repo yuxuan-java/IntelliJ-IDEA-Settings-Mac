@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="825" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="Parking Fee pay" />
       <item value="park charge rule" />
       <item value="Attach Type" />
       <item value="unified" />
@@ -52,12 +53,11 @@
       <item value="Enable Eureka Client" />
       <item value="Enable Discovery Client" />
       <item value="Duplicate" />
-      <item value="Unexpected error occurred in scheduled task." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="554" />
-        <entry key="ENGLISH" value="555" />
+        <entry key="CHINESE" value="555" />
+        <entry key="ENGLISH" value="556" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
