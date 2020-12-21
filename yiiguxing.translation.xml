@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="825" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="park charge upper" />
       <item value="Parking Fee pay" />
       <item value="park charge rule" />
       <item value="Attach Type" />
@@ -52,12 +53,11 @@
       <item value="Unsatisfied Dependency Exception" />
       <item value="Enable Eureka Client" />
       <item value="Enable Discovery Client" />
-      <item value="Duplicate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="555" />
-        <entry key="ENGLISH" value="556" />
+        <entry key="CHINESE" value="556" />
+        <entry key="ENGLISH" value="557" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
