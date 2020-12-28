@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="825" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="minus" />
       <item value="list Valid By Platform Ids" />
       <item value="ceil" />
       <item value="last Finished" />
@@ -52,12 +53,11 @@
       <item value="because it is a JDK dynamic proxy that implements:" />
       <item value="update Edit" />
       <item value="Scope 'request' is not active for the current thread; consider defining a scoped proxy for this bean if you intend to refer to it from a singleton; nested exception is java.lang.IllegalStateException: No thread-bound request found: Are you referring to request attributes outside of an actual web request, or processing a request outside of the originally receiving thread? If you are actually operating within a web request and still receive this message, your code is probably running outside of DispatcherServlet: In this case, use RequestContextListener or RequestContextFilter to expose the current request" />
-      <item value="Abstraction" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="566" />
-        <entry key="ENGLISH" value="567" />
+        <entry key="CHINESE" value="567" />
+        <entry key="ENGLISH" value="568" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1608520373082" />
+    <option name="lastTrimTime" value="1609138882399" />
   </component>
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
