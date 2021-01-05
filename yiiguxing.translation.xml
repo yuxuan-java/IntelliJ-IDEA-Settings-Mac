@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="825" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="inventory" />
+      <item value="reservation Total" />
+      <item value="urgent Reservation Total" />
+      <item value="achievement Rate" />
       <item value="management Billboard" />
       <item value="total" />
       <item value="park Amount List" />
@@ -49,15 +53,11 @@
       <item value="Non-terminating decimal expansion; no exact representable decimal result." />
       <item value="divide" />
       <item value="plus Days" />
-      <item value="one Month Ago" />
-      <item value="today Unfinished" />
-      <item value="reservation Sum" />
-      <item value="guard User Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="571" />
-        <entry key="ENGLISH" value="572" />
+        <entry key="CHINESE" value="575" />
+        <entry key="ENGLISH" value="576" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
