@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="825" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="reservation History" />
       <item value="inventory" />
       <item value="reservation Total" />
       <item value="urgent Reservation Total" />
@@ -52,12 +53,11 @@
       <item value="get Warden Info" />
       <item value="Non-terminating decimal expansion; no exact representable decimal result." />
       <item value="divide" />
-      <item value="plus Days" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="575" />
-        <entry key="ENGLISH" value="576" />
+        <entry key="CHINESE" value="576" />
+        <entry key="ENGLISH" value="577" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
