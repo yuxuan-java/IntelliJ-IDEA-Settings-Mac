@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="825" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="management Billboard" />
       <item value="total" />
       <item value="park Amount List" />
       <item value="minus Days" />
@@ -52,12 +53,11 @@
       <item value="today Unfinished" />
       <item value="reservation Sum" />
       <item value="guard User Id" />
-      <item value="Consider injecting the bean as one of its interfaces or forcing the use of CGLib-based proxies by setting proxyTargetClass=true on @EnableAsync and/or @EnableCaching." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="570" />
-        <entry key="ENGLISH" value="571" />
+        <entry key="CHINESE" value="571" />
+        <entry key="ENGLISH" value="572" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
