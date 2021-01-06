@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="825" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="achievement Rate Total" />
       <item value="in Reservation Finished Number" />
       <item value="get Rush Number" />
       <item value="achievement Rate" />
@@ -52,12 +53,11 @@
       <item value="update Group Manager Login Status" />
       <item value="in Storage Number" />
       <item value="Unable to resolve table 'order'" />
-      <item value="get Warden Info" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="580" />
-        <entry key="ENGLISH" value="581" />
+        <entry key="CHINESE" value="581" />
+        <entry key="ENGLISH" value="582" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
