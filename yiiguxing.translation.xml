@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="825" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="STOPPED" />
+      <item value="CANCELLED" />
       <item value="achievement Rate Total" />
       <item value="in Reservation Finished Number" />
       <item value="get Rush Number" />
@@ -51,13 +53,11 @@
       <item value="The last packet successfully received from the server was 2,256,876 milliseconds ago" />
       <item value="填充" />
       <item value="update Group Manager Login Status" />
-      <item value="in Storage Number" />
-      <item value="Unable to resolve table 'order'" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="581" />
-        <entry key="ENGLISH" value="582" />
+        <entry key="CHINESE" value="583" />
+        <entry key="ENGLISH" value="584" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
