@@ -168,6 +168,7 @@
   <action id="EditorToggleCase">
     <keyboard-shortcut first-keystroke="shift ctrl u" />
     <keyboard-shortcut first-keystroke="shift ctrl y" />
+    <keyboard-shortcut first-keystroke="meta y" />
   </action>
   <action id="EvaluateExpression">
     <keyboard-shortcut first-keystroke="shift ctrl meta e" />
