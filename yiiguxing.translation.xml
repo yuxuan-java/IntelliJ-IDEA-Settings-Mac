@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="825" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="Broken pipe" />
       <item value="Invalid value for YearOfEra" />
       <item value="in Unfinished Number" />
       <item value="STOPPED" />
@@ -52,12 +53,11 @@
       <item value="注册" />
       <item value="lunch Break Timezone" />
       <item value="Required Integer parameter 'breakTime' is not present" />
-      <item value="The last packet successfully received from the server was 2,256,876 milliseconds ago" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="585" />
-        <entry key="ENGLISH" value="586" />
+        <entry key="CHINESE" value="586" />
+        <entry key="ENGLISH" value="587" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
