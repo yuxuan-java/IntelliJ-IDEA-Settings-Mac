@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="825" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="会员注册" />
       <item value="Virtual Account" />
       <item value="caption Way Result" />
       <item value="get User Payee Way" />
@@ -52,12 +53,11 @@
       <item value="test User Balance Inquiry" />
       <item value="Info" />
       <item value="test Proactive Notification" />
-      <item value="Registe" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="591" />
-        <entry key="ENGLISH" value="592" />
+        <entry key="CHINESE" value="593" />
+        <entry key="ENGLISH" value="593" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
