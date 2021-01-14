@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="825" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="trans In Account" />
       <item value="reconciliation" />
       <item value="资金初始化" />
       <item value="contact Phone" />
@@ -52,12 +53,11 @@
       <item value="unified Order" />
       <item value="1 counts of IllegalAnnotationExceptions" />
       <item value="test User Bind Card Inquiry" />
-      <item value="Prepaid Transaction Request" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="600" />
-        <entry key="ENGLISH" value="601" />
+        <entry key="CHINESE" value="601" />
+        <entry key="ENGLISH" value="602" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
