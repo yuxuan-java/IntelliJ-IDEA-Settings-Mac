@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="825" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="online Account Cancellation" />
       <item value="loan Sign" />
       <item value="transaction Detail" />
       <item value="Account Balance Resp" />
@@ -52,12 +53,11 @@
       <item value="parking Hours" />
       <item value="parking Time" />
       <item value="max Fee" />
-      <item value="park charge upper" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="608" />
-        <entry key="ENGLISH" value="609" />
+        <entry key="CHINESE" value="609" />
+        <entry key="ENGLISH" value="610" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
