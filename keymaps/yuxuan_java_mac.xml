@@ -100,6 +100,11 @@
     <keyboard-shortcut first-keystroke="alt slash" />
     <keyboard-shortcut first-keystroke="meta slash" />
   </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+    <keyboard-shortcut first-keystroke="ctrl back_quote" />
+  </action>
   <action id="Compile">
     <keyboard-shortcut first-keystroke="shift alt b" />
   </action>
@@ -178,6 +183,10 @@
   </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FindPrevious" />
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="ctrl g" />
+    <keyboard-shortcut first-keystroke="meta g" />
+  </action>
   <action id="FindWordAtCaret" />
   <action id="Forward">
     <mouse-shortcut keystroke="button5" />
@@ -251,6 +260,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
   <action id="PublishGroup.UploadTo" />
+  <action id="QuickChangeScheme" />
   <action id="QuickEvaluateExpression">
     <keyboard-shortcut first-keystroke="ctrl alt f8" />
   </action>
