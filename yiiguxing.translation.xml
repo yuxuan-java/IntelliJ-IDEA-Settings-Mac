@@ -3,8 +3,12 @@
     <option name="newTranslationDialogX" value="825" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
-      <item value="附言" />
+      <item value="unfreeze" />
+      <item value="thaw" />
       <item value="memo" />
+      <item value="transfer" />
+      <item value="transfer Account" />
+      <item value="附言" />
       <item value="select By Primary Key" />
       <item value="industrial commercial tax number" />
       <item value="id card" />
@@ -49,15 +53,11 @@
       <item value="urgent Reservation Total" />
       <item value="management Billboard" />
       <item value="total" />
-      <item value="park Amount List" />
-      <item value="minus Days" />
-      <item value="minus" />
-      <item value="list Valid By Platform Ids" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="618" />
-        <entry key="ENGLISH" value="618" />
+        <entry key="CHINESE" value="622" />
+        <entry key="ENGLISH" value="623" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
