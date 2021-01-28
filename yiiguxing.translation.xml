@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="825" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="call Pay Processing" />
+      <item value="call Pay Process" />
       <item value="Lock wait timeout exceeded; try restarting transaction" />
       <item value="host Flw" />
       <item value="cry Type" />
@@ -51,13 +53,11 @@
       <item value="get Beans Of Type" />
       <item value="paged" />
       <item value="Broken pipe" />
-      <item value="Invalid value for YearOfEra" />
-      <item value="in Unfinished Number" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="633" />
-        <entry key="ENGLISH" value="634" />
+        <entry key="CHINESE" value="635" />
+        <entry key="ENGLISH" value="636" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
