@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="825" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="fleet Captain Pay" />
       <item value="Check the route 53 DNS Registry" />
       <item value="The replica size seems to be empty" />
       <item value="Major" />
@@ -52,12 +53,11 @@
       <item value="mistake Back" />
       <item value="trans In Account" />
       <item value="reconciliation" />
-      <item value="资金初始化" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="643" />
-        <entry key="ENGLISH" value="644" />
+        <entry key="CHINESE" value="644" />
+        <entry key="ENGLISH" value="645" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
