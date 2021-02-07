@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="825" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="in Gold" />
+      <item value="into Gold" />
+      <item value="processing" />
       <item value="duplicate Data" />
       <item value="deduplication" />
       <item value="credit debit flag" />
@@ -50,14 +53,11 @@
       <item value="Component" />
       <item value="passbook" />
       <item value="online Account Cancellation" />
-      <item value="transaction Detail" />
-      <item value="Account Balance Resp" />
-      <item value="query Transaction Result" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="649" />
-        <entry key="ENGLISH" value="650" />
+        <entry key="CHINESE" value="652" />
+        <entry key="ENGLISH" value="653" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
