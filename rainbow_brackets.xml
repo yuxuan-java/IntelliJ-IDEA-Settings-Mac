@@ -1,5 +1,8 @@
 <application>
   <component name="RainbowSettings">
+    <option name="disableRainbowIndentsInZenMode" value="false" />
+    <option name="doNOTRainbowifyBigFiles" value="false" />
+    <option name="numberOfColors" value="16" />
     <option name="version" value="6.15" />
   </component>
 </application>
