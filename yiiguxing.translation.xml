@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="825" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="Embeds a code minimap similar to the one found in Sublime into the editor pane. Works with both light and dark themes using your customized colors for syntax highlighting." />
       <item value="The replica size seems to be empty. Check the route 53 DNS Registry" />
       <item value="distribution of fees" />
       <item value="transaction Detail" />
@@ -52,7 +53,6 @@
       <item value="industrial commercial tax number" />
       <item value="id card" />
       <item value="TAIWAN" />
-      <item value="enterprise code" />
     </histories>
     <option name="languageScores">
       <map>
