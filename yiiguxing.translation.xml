@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="825" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="Comsumer" />
       <item value="priority" />
       <item value="NON PERSISTENT" />
       <item value="convert Message If Necessary" />
@@ -52,12 +53,11 @@
       <item value="unfreeze" />
       <item value="thaw" />
       <item value="memo" />
-      <item value="transfer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="660" />
-        <entry key="ENGLISH" value="661" />
+        <entry key="CHINESE" value="661" />
+        <entry key="ENGLISH" value="662" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
