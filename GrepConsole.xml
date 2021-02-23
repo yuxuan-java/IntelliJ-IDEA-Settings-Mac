@@ -20,6 +20,7 @@
                             </GrepColor>
                           </option>
                           <option name="bold" value="true" />
+                          <option name="italic" value="true" />
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
