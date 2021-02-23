@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="825" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="convert Message If Necessary" />
+      <item value="ACCESS REFUSED" />
       <item value="Sms" />
       <item value="find Today Trucking Nums" />
       <item value="Embeds a code minimap similar to the one found in Sublime into the editor pane. Works with both light and dark themes using your customized colors for syntax highlighting." />
@@ -51,13 +53,11 @@
       <item value="transfer" />
       <item value="transfer Account" />
       <item value="附言" />
-      <item value="select By Primary Key" />
-      <item value="industrial commercial tax number" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="657" />
-        <entry key="ENGLISH" value="657" />
+        <entry key="CHINESE" value="658" />
+        <entry key="ENGLISH" value="659" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
