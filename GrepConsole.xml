@@ -4,6 +4,7 @@
       <list>
         <Profile>
           <option name="defaultProfile" value="true" />
+          <option name="enableFoldings" value="true" />
           <option name="grepExpressionGroups">
             <list>
               <GrepExpressionGroup>
@@ -32,6 +33,7 @@
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
+                          <option name="bold" value="true" />
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
@@ -45,6 +47,7 @@
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
+                          <option name="bold" value="true" />
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
@@ -58,7 +61,7 @@
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
-                              <option name="color" value="-10653328" />
+                              <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
                           <option name="foregroundColor">
@@ -67,6 +70,7 @@
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
+                          <option name="italic" value="true" />
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
