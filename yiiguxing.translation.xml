@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="825" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="analyzer" />
       <item value="Unable to create an instance of com.redox.tms.entity.pay.zx.resp.ZxPayResp" />
       <item value="Discard Policy" />
       <item value="Abort Policy" />
@@ -52,12 +53,11 @@
       <item value="Auto-generated catch block" />
       <item value="FIXME change it to the project's website" />
       <item value="Some developers argue that the practice improves code readability, because it enables them to explicitly name what is being returned. However, this variable is an internal implementation detail that is not exposed to the callers of the method. The method name should be sufficient for callers to know exactly what will be returned." />
-      <item value="group Recharge" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="665" />
-        <entry key="ENGLISH" value="666" />
+        <entry key="CHINESE" value="666" />
+        <entry key="ENGLISH" value="667" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
