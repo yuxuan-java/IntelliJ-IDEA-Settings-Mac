@@ -1,4 +1,5 @@
 <keymap version="1" name="yuxuan_java_mac" parent="Eclipse">
+  <action id="$ChooseTranslatorAction" />
   <action id="$Copy">
     <keyboard-shortcut first-keystroke="ctrl c" />
     <keyboard-shortcut first-keystroke="meta c" />
