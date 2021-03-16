@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="newTranslationDialogX" value="825" />
     <option name="newTranslationDialogY" value="484" />
+    <option name="pinNewTranslationDialog" value="true" />
     <histories>
       <item value="fleet Captain Pay" />
       <item value="fleet Driver Pay" />
@@ -56,8 +57,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="691" />
-        <entry key="ENGLISH" value="692" />
+        <entry key="CHINESE" value="692" />
+        <entry key="ENGLISH" value="693" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
