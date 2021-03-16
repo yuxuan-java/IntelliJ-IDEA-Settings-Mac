@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="825" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="fleet Captain Pay" />
+      <item value="fleet Driver Pay" />
       <item value="Hot Swap failed" />
       <item value="Reconciliation" />
       <item value="is Reconciliation" />
@@ -18,7 +20,6 @@
       <item value="Cust Cert Type Enum" />
       <item value="test Register" />
       <item value="regist" />
-      <item value="fleet Driver Pay" />
       <item value="get Delivery Tag" />
       <item value="handle" />
       <item value="process" />
@@ -51,13 +52,12 @@
       <item value="credit debit flag" />
       <item value="Lifecycle method annotation requires a no-arg method" />
       <item value="Post-processing of merged bean definition failed" />
-      <item value="fleet Captain Pay" />
       <item value="Check the route 53 DNS Registry" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="688" />
-        <entry key="ENGLISH" value="689" />
+        <entry key="CHINESE" value="691" />
+        <entry key="ENGLISH" value="692" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
@@ -86,6 +86,5 @@
     <option name="showWordForms" value="false" />
     <option name="showWordsOnStartup" value="true" />
     <option name="targetLanguageSelection" value="PRIMARY_LANGUAGE" />
-    <option name="translateDocumentation" value="true" />
   </component>
 </application>
