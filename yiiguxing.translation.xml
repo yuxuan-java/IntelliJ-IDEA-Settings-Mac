@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="484" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="embedded" />
       <item value="get Percent" />
       <item value="User Payee Way" />
       <item value="shipping Input Settlement" />
@@ -53,12 +54,11 @@
       <item value="processing" />
       <item value="duplicate Data" />
       <item value="deduplication" />
-      <item value="credit debit flag" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="695" />
-        <entry key="ENGLISH" value="696" />
+        <entry key="CHINESE" value="696" />
+        <entry key="ENGLISH" value="697" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
