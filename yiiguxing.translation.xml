@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="484" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Invalid bound statement" />
       <item value="One Dark theme for JetBrains." />
       <item value="With this plugin, you can conveniently work with Zeppelin notebooks, monitor Spark and Hadoop applications, and preview AWS S3, Google Cloud Storage, Minio, Linode, Digital Open Space, Microsoft Azure, and Hadoop Distributed File System files right from IntelliJ-based IDEs including IntelliJ IDEA Ultimate, PyCharm Professional, and DataGrip." />
       <item value="Eliminate context switching and costly distractions. Create and merge PRs and perform code reviews from inside your IDE while using jump-to-definition, your favorite keybindings, and other IDE favorites." />
@@ -53,12 +54,11 @@
       <item value="The replica size seems to be empty. Check the route 53 DNS Registry" />
       <item value="distribution of fees" />
       <item value="transaction Detail" />
-      <item value="in Gold" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="696" />
-        <entry key="ENGLISH" value="697" />
+        <entry key="CHINESE" value="697" />
+        <entry key="ENGLISH" value="698" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
