@@ -4,6 +4,10 @@
     <option name="newTranslationDialogY" value="484" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="One Dark theme for JetBrains." />
+      <item value="With this plugin, you can conveniently work with Zeppelin notebooks, monitor Spark and Hadoop applications, and preview AWS S3, Google Cloud Storage, Minio, Linode, Digital Open Space, Microsoft Azure, and Hadoop Distributed File System files right from IntelliJ-based IDEs including IntelliJ IDEA Ultimate, PyCharm Professional, and DataGrip." />
+      <item value="Eliminate context switching and costly distractions. Create and merge PRs and perform code reviews from inside your IDE while using jump-to-definition, your favorite keybindings, and other IDE favorites." />
+      <item value="The AWS Toolkit for JetBrains makes it easier to write applications built on Amazon Web Services. If you come across bugs with the toolkit or have feature requests, please raise an issue on our GitHub repository." />
       <item value="embedded" />
       <item value="get Percent" />
       <item value="User Payee Way" />
@@ -50,10 +54,6 @@
       <item value="distribution of fees" />
       <item value="transaction Detail" />
       <item value="in Gold" />
-      <item value="into Gold" />
-      <item value="processing" />
-      <item value="duplicate Data" />
-      <item value="deduplication" />
     </histories>
     <option name="languageScores">
       <map>
