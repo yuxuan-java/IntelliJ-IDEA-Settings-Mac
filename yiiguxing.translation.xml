@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="484" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Scheduled" />
       <item value="Analysis complete." />
       <item value="Web Security Config" />
       <item value="'url' attribute is not specified and no embedded datasource could be configured." />
@@ -53,12 +54,11 @@
       <item value="handle" />
       <item value="process" />
       <item value="union" />
-      <item value="PROCESSED SUCCESS" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="720" />
-        <entry key="ENGLISH" value="721" />
+        <entry key="CHINESE" value="721" />
+        <entry key="ENGLISH" value="722" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
