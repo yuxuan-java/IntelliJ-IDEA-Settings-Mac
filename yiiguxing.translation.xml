@@ -4,6 +4,20 @@
     <option name="newTranslationDialogY" value="484" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="invoice finished" />
+      <item value="invoice processing" />
+      <item value="IN PROGRESS" />
+      <item value="SETTLEMENT finished" />
+      <item value="in the settlement" />
+      <item value="settlementing" />
+      <item value="not settlement" />
+      <item value="unsettle" />
+      <item value="UN settle" />
+      <item value="U Nsettlement" />
+      <item value="UN settlement" />
+      <item value="settlement" />
+      <item value="settle" />
+      <item value="outstanding" />
       <item value="first Month Of Quarter" />
       <item value="JANUARY" />
       <item value="FEBRUARY" />
@@ -40,32 +54,19 @@
       <item value="unit" />
       <item value="warmup Period" />
       <item value="Redundant default parameter value assignment" />
-      <item value="Could not fetch user details: class org.springframework.beans.factory.BeanCreationException, Error creating bean with name 'scopedTarget.oauth2ClientContext': Scope 'request' is not active for the current thread; consider defining a scoped proxy for this bean if you intend to refer to it from a singleton; nested exception is java.lang.IllegalStateException: No thread-bound request found: Are you referring to request attributes outside of an actual web request, or processing a request outside of the originally receiving thread? If you are actually operating within a web request and still receive this message, your code is probably running outside of DispatcherServlet: In this case, use RequestContextListener or RequestContextFilter to expose the current request." />
-      <item value="is General Driver" />
-      <item value="Invalid bound statement" />
-      <item value="One Dark theme for JetBrains." />
-      <item value="With this plugin, you can conveniently work with Zeppelin notebooks, monitor Spark and Hadoop applications, and preview AWS S3, Google Cloud Storage, Minio, Linode, Digital Open Space, Microsoft Azure, and Hadoop Distributed File System files right from IntelliJ-based IDEs including IntelliJ IDEA Ultimate, PyCharm Professional, and DataGrip." />
-      <item value="Eliminate context switching and costly distractions. Create and merge PRs and perform code reviews from inside your IDE while using jump-to-definition, your favorite keybindings, and other IDE favorites." />
-      <item value="The AWS Toolkit for JetBrains makes it easier to write applications built on Amazon Web Services. If you come across bugs with the toolkit or have feature requests, please raise an issue on our GitHub repository." />
-      <item value="embedded" />
-      <item value="get Percent" />
-      <item value="User Payee Way" />
-      <item value="shipping Input Settlement" />
-      <item value="fleet Captain Pay" />
-      <item value="fleet Driver Pay" />
-      <item value="Hot Swap failed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="745" />
-        <entry key="ENGLISH" value="746" />
+        <entry key="CHINESE" value="758" />
+        <entry key="ENGLISH" value="759" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
         <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="FINNISH" value="1" />
-        <entry key="CATALAN" value="1" />
+        <entry key="CATALAN" value="3" />
+        <entry key="CROATIAN" value="1" />
         <entry key="KURDISH" value="2" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="3" />
