@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="484" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="prefix" />
       <item value="Temporal Adjuster" />
       <item value="is Start Day Of Month" />
       <item value="is Month Start" />
@@ -53,12 +54,11 @@
       <item value="Data Integrity Violation Exception" />
       <item value="withdraw Amount" />
       <item value="提现金额" />
-      <item value="withdraw group Withdraw" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="729" />
-        <entry key="ENGLISH" value="730" />
+        <entry key="CHINESE" value="730" />
+        <entry key="ENGLISH" value="731" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
