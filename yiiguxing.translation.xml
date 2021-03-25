@@ -4,6 +4,9 @@
     <option name="newTranslationDialogY" value="484" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="list All Fee Product" />
+      <item value="list All Charge Product" />
+      <item value="cancle" />
       <item value="list All Valid Contract" />
       <item value="create Bill For Period Start" />
       <item value="Time Unit" />
@@ -51,14 +54,11 @@
       <item value="cust" />
       <item value="Cert" />
       <item value="Cust Cert Type Enum" />
-      <item value="test Register" />
-      <item value="regist" />
-      <item value="get Delivery Tag" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="724" />
-        <entry key="ENGLISH" value="725" />
+        <entry key="CHINESE" value="726" />
+        <entry key="ENGLISH" value="727" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
