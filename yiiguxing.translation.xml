@@ -4,6 +4,9 @@
     <option name="newTranslationDialogY" value="484" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Temporal Adjuster" />
+      <item value="is Start Day Of Month" />
+      <item value="is Month Start" />
       <item value="list All Fee Product" />
       <item value="list All Charge Product" />
       <item value="cancle" />
@@ -51,14 +54,11 @@
       <item value="withdraw Amount" />
       <item value="提现金额" />
       <item value="withdraw group Withdraw" />
-      <item value="cust" />
-      <item value="Cert" />
-      <item value="Cust Cert Type Enum" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="726" />
-        <entry key="ENGLISH" value="727" />
+        <entry key="CHINESE" value="729" />
+        <entry key="ENGLISH" value="730" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
