@@ -4,13 +4,13 @@
     <option name="newTranslationDialogY" value="484" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="first Month Of Quarter" />
+      <item value="JANUARY" />
+      <item value="FEBRUARY" />
+      <item value="DECEMBER" />
       <item value="NOVEMBER" />
       <item value="next Quarter First Month" />
       <item value="APRIL" />
-      <item value="FEBRUARY" />
-      <item value="DECEMBER" />
-      <item value="JANUARY" />
-      <item value="first Month Of Quarter" />
       <item value="Quarter" />
       <item value="prefix" />
       <item value="Temporal Adjuster" />
@@ -57,8 +57,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="740" />
-        <entry key="ENGLISH" value="741" />
+        <entry key="CHINESE" value="745" />
+        <entry key="ENGLISH" value="746" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
