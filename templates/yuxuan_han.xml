@@ -27,7 +27,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="/log" value="LoggerUtils.info(CommonLogger.MESSAGE, &quot;######[]: &quot; + );" description="生成日志代码" toReformat="false" toShortenFQNames="true">
+  <template name="/log" value="log.info(&quot;######[]: &quot; + );" description="生成日志代码" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
