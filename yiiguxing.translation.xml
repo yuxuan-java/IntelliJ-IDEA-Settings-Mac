@@ -4,6 +4,9 @@
     <option name="newTranslationDialogY" value="484" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="this Quarter Total Days" />
+      <item value="Non-terminating decimal expansion; no exact representable decimal result" />
+      <item value="test Quarter Split" />
       <item value="remaining Days" />
       <item value="FOREVER" />
       <item value="ERAS" />
@@ -51,14 +54,11 @@
       <item value="list All Valid Contract" />
       <item value="create Bill For Period Start" />
       <item value="Time Unit" />
-      <item value="Scheduled" />
-      <item value="Analysis complete." />
-      <item value="Web Security Config" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="771" />
-        <entry key="ENGLISH" value="772" />
+        <entry key="CHINESE" value="774" />
+        <entry key="ENGLISH" value="775" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
