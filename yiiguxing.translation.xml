@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="484" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="remaining Number" />
       <item value="day Num" />
       <item value="NOT PAY" />
       <item value="PAY processing" />
@@ -53,12 +54,11 @@
       <item value="increment" />
       <item value="currern Num" />
       <item value="the time unit of the warmupPeriod argument" />
-      <item value="the duration of the period where the {@code RateLimiter} ramps up its rate, before reaching its stable (maximum) rate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="763" />
-        <entry key="ENGLISH" value="763" />
+        <entry key="CHINESE" value="764" />
+        <entry key="ENGLISH" value="765" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
