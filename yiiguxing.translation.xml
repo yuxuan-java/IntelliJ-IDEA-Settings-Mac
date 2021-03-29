@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="484" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="AFTER" />
+      <item value="BEFORE" />
       <item value="multiply" />
       <item value="Rounding mode to round towards {@literal &quot;nearest neighbor&quot;} unless both neighbors are equidistant, in which case round up. Behaves as for {@code ROUND_UP} if the discarded fraction is &amp;ge; 0.5; otherwise, behaves as for {@code ROUND_DOWN}. Note that this is the rounding mode that most of us were taught in grade school." />
       <item value="ROUND HALF UP" />
@@ -52,13 +54,11 @@
       <item value="is Start Day Of Month" />
       <item value="is Month Start" />
       <item value="list All Fee Product" />
-      <item value="list All Charge Product" />
-      <item value="cancle" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="777" />
-        <entry key="ENGLISH" value="778" />
+        <entry key="CHINESE" value="779" />
+        <entry key="ENGLISH" value="780" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
