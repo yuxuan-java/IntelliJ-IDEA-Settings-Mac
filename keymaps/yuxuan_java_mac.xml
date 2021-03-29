@@ -137,9 +137,7 @@
   <action id="CopyReference">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
-  <action id="Debug">
-    <keyboard-shortcut first-keystroke="f12" />
-  </action>
+  <action id="Debug" />
   <action id="DebugClass">
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
