@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="484" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Rounding mode to round towards {@literal &quot;nearest neighbor&quot;} unless both neighbors are equidistant, in which case round up. Behaves as for {@code ROUND_UP} if the discarded fraction is &amp;ge; 0.5; otherwise, behaves as for {@code ROUND_DOWN}. Note that this is the rounding mode that most of us were taught in grade school." />
+      <item value="ROUND HALF UP" />
       <item value="this Quarter Total Days" />
       <item value="Non-terminating decimal expansion; no exact representable decimal result" />
       <item value="test Quarter Split" />
@@ -52,13 +54,11 @@
       <item value="list All Charge Product" />
       <item value="cancle" />
       <item value="list All Valid Contract" />
-      <item value="create Bill For Period Start" />
-      <item value="Time Unit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="774" />
-        <entry key="ENGLISH" value="775" />
+        <entry key="CHINESE" value="776" />
+        <entry key="ENGLISH" value="777" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
@@ -83,7 +83,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1616397952495" />
+    <option name="lastTrimTime" value="1617001563181" />
   </component>
   <component name="Settings">
     <option name="showExplanation" value="true" />
