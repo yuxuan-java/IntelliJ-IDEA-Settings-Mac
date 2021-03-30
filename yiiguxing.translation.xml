@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="484" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="list Wait For Payment Details" />
+      <item value="pay Bill Detail Every Day" />
       <item value="bill Detail Discount" />
       <item value="Service provider" />
       <item value="服务商" />
@@ -52,13 +54,11 @@
       <item value="UN settle" />
       <item value="U Nsettlement" />
       <item value="UN settlement" />
-      <item value="settlement" />
-      <item value="settle" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="794" />
-        <entry key="ENGLISH" value="795" />
+        <entry key="CHINESE" value="797" />
+        <entry key="ENGLISH" value="798" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
