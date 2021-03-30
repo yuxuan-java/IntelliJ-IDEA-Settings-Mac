@@ -4,6 +4,10 @@
     <option name="newTranslationDialogY" value="484" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="remove Existed Bill Product" />
+      <item value="distinct" />
+      <item value="distinct Existed Bill" />
+      <item value="distinct Exists Bill" />
       <item value="AFTER" />
       <item value="BEFORE" />
       <item value="multiply" />
@@ -50,15 +54,11 @@
       <item value="APRIL" />
       <item value="Quarter" />
       <item value="prefix" />
-      <item value="Temporal Adjuster" />
-      <item value="is Start Day Of Month" />
-      <item value="is Month Start" />
-      <item value="list All Fee Product" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="779" />
-        <entry key="ENGLISH" value="780" />
+        <entry key="CHINESE" value="783" />
+        <entry key="ENGLISH" value="784" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
