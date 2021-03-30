@@ -4,6 +4,12 @@
     <option name="newTranslationDialogY" value="484" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Service provider" />
+      <item value="服务商" />
+      <item value="server" />
+      <item value="SERVICE" />
+      <item value="Customer" />
+      <item value="create Bill For Period Start" />
       <item value="create Cycle Bill" />
       <item value="list Current Exists Bill" />
       <item value="list Now Bill Product Id" />
@@ -48,17 +54,11 @@
       <item value="settlement" />
       <item value="settle" />
       <item value="outstanding" />
-      <item value="first Month Of Quarter" />
-      <item value="JANUARY" />
-      <item value="FEBRUARY" />
-      <item value="DECEMBER" />
-      <item value="NOVEMBER" />
-      <item value="next Quarter First Month" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="786" />
-        <entry key="ENGLISH" value="787" />
+        <entry key="CHINESE" value="793" />
+        <entry key="ENGLISH" value="794" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
