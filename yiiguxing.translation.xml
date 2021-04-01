@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="484" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="is Platform Collection" />
       <item value="every Day" />
       <item value="everyday" />
       <item value="create Customer Bill For Period Start" />
@@ -53,12 +54,11 @@
       <item value="invoice finished" />
       <item value="invoice processing" />
       <item value="IN PROGRESS" />
-      <item value="SETTLEMENT finished" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="804" />
-        <entry key="ENGLISH" value="805" />
+        <entry key="CHINESE" value="805" />
+        <entry key="ENGLISH" value="806" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
