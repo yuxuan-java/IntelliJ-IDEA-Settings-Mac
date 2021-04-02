@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="484" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="create Bare Connection" />
       <item value="An unexpected connection driver error occured (Exception message: Socket closed)" />
       <item value="V Host Name Invalid" />
       <item value="registration status: 204" />
@@ -53,12 +54,11 @@
       <item value="HALF DAYS" />
       <item value="MICROS" />
       <item value="NANOS" />
-      <item value="quarter Numbers" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="815" />
-        <entry key="ENGLISH" value="816" />
+        <entry key="CHINESE" value="816" />
+        <entry key="ENGLISH" value="817" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
