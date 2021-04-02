@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="484" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="create Bill For Period Start" />
+      <item value="pending" />
       <item value="Channel shutdown: connection error" />
       <item value="Caching Connection Factory" />
       <item value="Forgiving Exception Handler" />
@@ -33,7 +35,6 @@
       <item value="server" />
       <item value="SERVICE" />
       <item value="Customer" />
-      <item value="create Bill For Period Start" />
       <item value="create Cycle Bill" />
       <item value="list Current Exists Bill" />
       <item value="list Now Bill Product Id" />
@@ -53,12 +54,11 @@
       <item value="FOREVER" />
       <item value="ERAS" />
       <item value="CENTURIES" />
-      <item value="DECADES" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="822" />
-        <entry key="ENGLISH" value="823" />
+        <entry key="CHINESE" value="823" />
+        <entry key="ENGLISH" value="824" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
