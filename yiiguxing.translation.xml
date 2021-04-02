@@ -4,10 +4,11 @@
     <option name="newTranslationDialogY" value="484" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Bean named 'connectionFactory' is expected to be of type 'com.rabbitmq.client.ConnectionFactory' but was actually of type 'org.springframework.amqp.rabbit.connection.CachingConnectionFactory'" />
+      <item value="Invalid Access Key Id" />
       <item value="access Key Secret" />
       <item value="security Token" />
       <item value="Signature Does Not Match" />
-      <item value="Invalid Access Key Id" />
       <item value="access Key" />
       <item value="virtual Host" />
       <item value="severity" />
@@ -53,12 +54,11 @@
       <item value="distinct Exists Bill" />
       <item value="AFTER" />
       <item value="BEFORE" />
-      <item value="multiply" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="836" />
-        <entry key="ENGLISH" value="837" />
+        <entry key="CHINESE" value="838" />
+        <entry key="ENGLISH" value="839" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
