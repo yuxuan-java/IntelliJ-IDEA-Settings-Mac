@@ -4,6 +4,12 @@
     <option name="newTranslationDialogY" value="484" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="access Key Secret" />
+      <item value="security Token" />
+      <item value="Signature Does Not Match" />
+      <item value="Invalid Access Key Id" />
+      <item value="access Key" />
+      <item value="virtual Host" />
       <item value="severity" />
       <item value="basic Publish" />
       <item value="get Severity" />
@@ -48,17 +54,11 @@
       <item value="AFTER" />
       <item value="BEFORE" />
       <item value="multiply" />
-      <item value="Rounding mode to round towards {@literal &quot;nearest neighbor&quot;} unless both neighbors are equidistant, in which case round up. Behaves as for {@code ROUND_UP} if the discarded fraction is &amp;ge; 0.5; otherwise, behaves as for {@code ROUND_DOWN}. Note that this is the rounding mode that most of us were taught in grade school." />
-      <item value="ROUND HALF UP" />
-      <item value="this Quarter Total Days" />
-      <item value="Non-terminating decimal expansion; no exact representable decimal result" />
-      <item value="test Quarter Split" />
-      <item value="remaining Days" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="826" />
-        <entry key="ENGLISH" value="827" />
+        <entry key="CHINESE" value="836" />
+        <entry key="ENGLISH" value="837" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
