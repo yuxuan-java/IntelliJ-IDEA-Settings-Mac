@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="484" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="fix" />
       <item value="Access Account Data Error" />
       <item value="Bean named 'connectionFactory' is expected to be of type 'com.rabbitmq.client.ConnectionFactory' but was actually of type 'org.springframework.amqp.rabbit.connection.CachingConnectionFactory'" />
       <item value="Invalid Access Key Id" />
@@ -53,7 +54,6 @@
       <item value="distinct" />
       <item value="distinct Existed Bill" />
       <item value="distinct Exists Bill" />
-      <item value="AFTER" />
     </histories>
     <option name="languageScores">
       <map>
@@ -83,7 +83,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1617001563181" />
+    <option name="lastTrimTime" value="1617767347077" />
   </component>
   <component name="Settings">
     <option name="showExplanation" value="true" />
