@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="484" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="platform Management Withdraw" />
+      <item value="platform" />
       <item value="platform Management Recharge" />
       <item value="perform Pay" />
       <item value="source List" />
@@ -52,13 +54,11 @@
       <item value="Customer" />
       <item value="create Cycle Bill" />
       <item value="list Current Exists Bill" />
-      <item value="list Now Bill Product Id" />
-      <item value="remove Existed Bill Product" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="842" />
-        <entry key="ENGLISH" value="843" />
+        <entry key="CHINESE" value="844" />
+        <entry key="ENGLISH" value="845" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
