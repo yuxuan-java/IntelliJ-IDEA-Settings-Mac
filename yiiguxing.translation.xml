@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="484" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="reconciliation Trans In Account" />
       <item value="get Processing Withdraw Record" />
       <item value="platform Management Withdraw" />
       <item value="platform" />
@@ -53,12 +54,11 @@
       <item value="server" />
       <item value="SERVICE" />
       <item value="Customer" />
-      <item value="create Cycle Bill" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="845" />
-        <entry key="ENGLISH" value="846" />
+        <entry key="CHINESE" value="846" />
+        <entry key="ENGLISH" value="847" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
