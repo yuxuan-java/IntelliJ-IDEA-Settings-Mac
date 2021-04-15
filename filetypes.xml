@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="log" type="ANSI Aware" />
       <mapping ext="bat" type="Batch" />
       <mapping ext="cmd" type="Batch" />
       <mapping ext="space.kts" type="Kotlin" />
