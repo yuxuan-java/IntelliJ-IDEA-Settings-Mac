@@ -5,6 +5,12 @@
     <option name="newTranslationDialogX" value="635" />
     <option name="newTranslationDialogY" value="488" />
     <histories>
+      <item value="Case switching, sorting, filtering, incrementing, aligning to columns, grepping, escaping, encoding..." />
+      <item value="Navigate the code by click the diagram shape." />
+      <item value="generate Simple Sequence Diagram." />
+      <item value="SequenceDiagram for IntelliJ IDEA" />
+      <item value="EasyCode,Easy Code,easy,code,code generate,code tools" />
+      <item value="Mind map editor is adapted part of (SciaReto editor). Mind maps are saved as plain-text files in a Markdown compatible format (MMD). It is the best way to keep semantic information among project files, keep links and even sensitive info (in password protected notes encrypted by AES-256)." />
       <item value="Failed to obtain seat" />
       <item value="It helps you navigate in line effortlessly. In short, it is like `f` and `F`, but accepting two characters instead of one. It makes your movement at least 1000% more precise and accurate." />
       <item value="Vim emulation plugin for IntelliJ Platform-based IDEs." />
@@ -49,12 +55,6 @@
       <item value="registration status: 204" />
       <item value="Failed to checkredeclare auto-delete queue(s)." />
       <item value="does the task executor have enough threads to support the container concurrency?" />
-      <item value="Attempting" />
-      <item value="f (!super.getGroupId().equals(1)) { financeRecord.setFinanceOwnerType(1); financeRecord.setFinanceOwnerId((long) super.getGroupId()); }" />
-      <item value="Make sure you quote IPv6 addresses like so: [2001:db8:85a3:8d3:1319:8a2e:370:7348]" />
-      <item value="seems to contain an unquoted IPv6 address" />
-      <item value="is Platform Collection" />
-      <item value="every Day" />
     </histories>
     <option name="languageScores">
       <map>
