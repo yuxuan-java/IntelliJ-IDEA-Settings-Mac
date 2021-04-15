@@ -4,7 +4,5 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="sout" value="System.out.printf(&quot;$END$&quot;);" description="Prints a formatted string to System.out" toReformat="true" toShortenFQNames="true">
-    <context />
-  </template>
+  <template name="sout" value="System.out.printf(&quot;$END$&quot;);" description="Prints a formatted string to System.out" toReformat="true" toShortenFQNames="true" />
 </templateSet>
