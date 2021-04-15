@@ -1,9 +1,17 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogX" value="825" />
-    <option name="newTranslationDialogY" value="484" />
-    <option name="pinNewTranslationDialog" value="true" />
+    <option name="newTranslationDialogHeight" value="286" />
+    <option name="newTranslationDialogWidth" value="690" />
+    <option name="newTranslationDialogX" value="635" />
+    <option name="newTranslationDialogY" value="488" />
     <histories>
+      <item value="Failed to obtain seat" />
+      <item value="It helps you navigate in line effortlessly. In short, it is like `f` and `F`, but accepting two characters instead of one. It makes your movement at least 1000% more precise and accurate." />
+      <item value="Vim emulation plugin for IntelliJ Platform-based IDEs." />
+      <item value="Please note this is not an official part of Checkstyle - they neither endorse nor bear responsibility for this plugin. Please see the README for full details." />
+      <item value="This plugin provides both real-time and on-demand scanning of Java files with CheckStyle from within IDEA." />
+      <item value="JRebel is a productivity tool that allows developers to reload code changes instantly. It skips the rebuild, restart, and redeploy cycle common in Java development. JRebel enables developers to get more done in the same amount of time and stay in the flow while coding. JRebel supports a majority of real-world enterprise java stacks and is easy to install into existing development environments." />
+      <item value="Instantly shows changes made to your code during a debugging session, making it unnecessary to reload web pages and Node.js files." />
       <item value="Allows to view image as base64-encoded for using in CSSHTML. Available as new button in image editor toolbar." />
       <item value="File pattern '.bat' (from 'Batch Scripts Support' plugin) was reassigned to file type 'Bat' by 'CMD Support' plugin You can confirm or revert reassigning pattern '.bat'" />
       <item value="Revert this pattern to file type 'Batch' from plugin 'Batch Scripts Support'" />
@@ -47,13 +55,6 @@
       <item value="seems to contain an unquoted IPv6 address" />
       <item value="is Platform Collection" />
       <item value="every Day" />
-      <item value="everyday" />
-      <item value="create Customer Bill For Period Start" />
-      <item value="create Server Provider" />
-      <item value="detail Fields" />
-      <item value="call Feign To Pay Detail" />
-      <item value="call Pay To Pay Detail" />
-      <item value="list Wait For Payment Details" />
     </histories>
     <option name="languageScores">
       <map>
