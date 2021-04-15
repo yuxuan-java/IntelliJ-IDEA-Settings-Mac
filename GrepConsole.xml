@@ -35,6 +35,7 @@
                             </GrepColor>
                           </option>
                           <option name="bold" value="true" />
+                          <option name="italic" value="true" />
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
@@ -49,6 +50,7 @@
                             </GrepColor>
                           </option>
                           <option name="bold" value="true" />
+                          <option name="italic" value="true" />
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
@@ -66,7 +68,6 @@
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
-                          <option name="italic" value="true" />
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
