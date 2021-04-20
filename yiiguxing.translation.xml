@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="635" />
     <option name="newTranslationDialogY" value="488" />
     <histories>
+      <item value="multiple" />
       <item value="fleet Captain Pay" />
       <item value="open Account" />
       <item value="Catdea Plugin intended to match Android Logcat log entries with the source code that emit these entries, thereby providing navigation and interactivity, in order to simplify debugging or reverse engineering." />
@@ -54,7 +55,6 @@
       <item value="Forgiving Exception Handler" />
       <item value="V Host Name Invalid" />
       <item value="create Bare Connection" />
-      <item value="An unexpected connection driver error occured (Exception message: Socket closed)" />
     </histories>
     <option name="languageScores">
       <map>
