@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="635" />
     <option name="newTranslationDialogY" value="488" />
     <histories>
+      <item value="revert" />
       <item value="fail" />
       <item value="revert Shipping Status" />
       <item value="multiple" />
@@ -54,7 +55,6 @@
       <item value="pending" />
       <item value="Channel shutdown: connection error" />
       <item value="Caching Connection Factory" />
-      <item value="Forgiving Exception Handler" />
     </histories>
     <option name="languageScores">
       <map>
