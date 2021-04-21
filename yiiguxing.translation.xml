@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="635" />
     <option name="newTranslationDialogY" value="488" />
     <histories>
+      <item value="fail" />
+      <item value="revert Shipping Status" />
       <item value="multiple" />
       <item value="fleet Captain Pay" />
       <item value="open Account" />
@@ -53,8 +55,6 @@
       <item value="Channel shutdown: connection error" />
       <item value="Caching Connection Factory" />
       <item value="Forgiving Exception Handler" />
-      <item value="V Host Name Invalid" />
-      <item value="create Bare Connection" />
     </histories>
     <option name="languageScores">
       <map>
