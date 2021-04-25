@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="635" />
     <option name="newTranslationDialogY" value="488" />
     <histories>
+      <item value="is External Transfer" />
       <item value="correlation Data" />
       <item value="get User Payee Way" />
       <item value="fleet Driver Pay" />
@@ -54,7 +55,6 @@
       <item value="virtual Host" />
       <item value="severity" />
       <item value="basic Publish" />
-      <item value="get Severity" />
     </histories>
     <option name="languageScores">
       <map>
@@ -84,7 +84,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1618819127647" />
+    <option name="lastTrimTime" value="1619340818123" />
   </component>
   <component name="Settings">
     <option name="showExplanation" value="true" />
