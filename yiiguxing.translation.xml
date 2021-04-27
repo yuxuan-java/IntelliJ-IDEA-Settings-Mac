@@ -5,11 +5,11 @@
     <option name="newTranslationDialogX" value="635" />
     <option name="newTranslationDialogY" value="488" />
     <histories>
+      <item value="settle Bill For Period End" />
       <item value="bill detail real pay time" />
       <item value="real Pay Time" />
       <item value="apply Pay Time" />
       <item value="Paid" />
-      <item value="settle Bill For Period End" />
       <item value="is External Transfer" />
       <item value="correlation Data" />
       <item value="get User Payee Way" />
