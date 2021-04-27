@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="635" />
     <option name="newTranslationDialogY" value="488" />
     <histories>
+      <item value="list Not Finisded" />
       <item value="settle Bill For Period End" />
       <item value="bill detail real pay time" />
       <item value="real Pay Time" />
@@ -54,7 +55,6 @@
       <item value="Bean named 'connectionFactory' is expected to be of type 'com.rabbitmq.client.ConnectionFactory' but was actually of type 'org.springframework.amqp.rabbit.connection.CachingConnectionFactory'" />
       <item value="Invalid Access Key Id" />
       <item value="access Key Secret" />
-      <item value="security Token" />
     </histories>
     <option name="languageScores">
       <map>
