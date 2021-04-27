@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="635" />
     <option name="newTranslationDialogY" value="488" />
     <histories>
+      <item value="Paid" />
       <item value="settle Bill For Period End" />
       <item value="is External Transfer" />
       <item value="correlation Data" />
@@ -54,7 +55,6 @@
       <item value="Signature Does Not Match" />
       <item value="access Key" />
       <item value="virtual Host" />
-      <item value="severity" />
     </histories>
     <option name="languageScores">
       <map>
