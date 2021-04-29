@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="635" />
     <option name="newTranslationDialogY" value="488" />
     <histories>
+      <item value="Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured." />
       <item value="PAY PROCESSING" />
       <item value="in Settlement" />
       <item value="WAITING AGAIN PAY" />
@@ -54,7 +55,6 @@
       <item value="platform" />
       <item value="platform Management Recharge" />
       <item value="perform Pay" />
-      <item value="source List" />
     </histories>
     <option name="languageScores">
       <map>

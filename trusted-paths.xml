@@ -3,6 +3,11 @@
     <option name="TRUSTED_PATHS">
       <list>
         <option value="$USER_HOME$/Java/RedoxProject/tms_edoe" />
+        <option value="$USER_HOME$/Java/RedoxProject/tms_master" />
+        <option value="$USER_HOME$/Java/RedoxProject/tms_platform" />
+        <option value="$USER_HOME$/Java/RedoxProject/tms_hotfix" />
+        <option value="$USER_HOME$/Java/RedoxProject/tms_develop" />
+        <option value="$USER_HOME$/Java/RedoxProject/edoe_develop" />
       </list>
     </option>
   </component>
