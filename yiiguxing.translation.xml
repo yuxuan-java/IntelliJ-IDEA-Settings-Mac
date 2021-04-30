@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="635" />
     <option name="newTranslationDialogY" value="488" />
     <histories>
+      <item value="insufficient" />
       <item value="COLLECTION" />
       <item value="insufficient Balance" />
       <item value="failure" />
@@ -54,7 +55,6 @@
       <item value="processing Bill Detail Pay Result" />
       <item value="Settle Bill" />
       <item value="reconciliation Trans In Account" />
-      <item value="get Processing Withdraw Record" />
     </histories>
     <option name="languageScores">
       <map>
@@ -84,7 +84,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1619340818123" />
+    <option name="lastTrimTime" value="1619779454616" />
   </component>
   <component name="Settings">
     <option name="showExplanation" value="true" />
