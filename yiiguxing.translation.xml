@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="635" />
     <option name="newTranslationDialogY" value="488" />
     <histories>
+      <item value="bill Remain Amount Total" />
+      <item value="bill Surplus Amount Total" />
+      <item value="bill Surplus Amt Total" />
+      <item value="surplus" />
       <item value="Owner" />
       <item value="insufficient" />
       <item value="COLLECTION" />
@@ -51,10 +55,6 @@
       <item value="Allows to view image as base64-encoded for using in CSSHTML. Available as new button in image editor toolbar." />
       <item value="File pattern '.bat' (from 'Batch Scripts Support' plugin) was reassigned to file type 'Bat' by 'CMD Support' plugin You can confirm or revert reassigning pattern '.bat'" />
       <item value="Revert this pattern to file type 'Batch' from plugin 'Batch Scripts Support'" />
-      <item value="Confirm reassign this pattern to file type 'Cmd' from plugin 'CMD Support'" />
-      <item value="extract" />
-      <item value="processing Bill Detail Pay Result" />
-      <item value="Settle Bill" />
     </histories>
     <option name="languageScores">
       <map>
