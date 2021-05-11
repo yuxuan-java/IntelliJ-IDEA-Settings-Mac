@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="635" />
     <option name="newTranslationDialogY" value="488" />
     <histories>
+      <item value="Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured." />
       <item value="settle Bill For Period End" />
       <item value="bill Re Payment" />
       <item value="bill Remain Amount Total" />
@@ -17,7 +18,6 @@
       <item value="insufficient Balance" />
       <item value="failure" />
       <item value="Failed to determine a suitable driver class" />
-      <item value="Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured." />
       <item value="PAY PROCESSING" />
       <item value="in Settlement" />
       <item value="WAITING AGAIN PAY" />
