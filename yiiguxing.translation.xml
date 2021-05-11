@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="635" />
     <option name="newTranslationDialogY" value="488" />
     <histories>
+      <item value="get Bill Period" />
+      <item value="bill Period" />
+      <item value="account Period" />
+      <item value="export" />
       <item value="Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured." />
       <item value="settle Bill For Period End" />
       <item value="bill Re Payment" />
@@ -51,10 +55,6 @@
       <item value="Vim emulation plugin for IntelliJ Platform-based IDEs." />
       <item value="Please note this is not an official part of Checkstyle - they neither endorse nor bear responsibility for this plugin. Please see the README for full details." />
       <item value="This plugin provides both real-time and on-demand scanning of Java files with CheckStyle from within IDEA." />
-      <item value="JRebel is a productivity tool that allows developers to reload code changes instantly. It skips the rebuild, restart, and redeploy cycle common in Java development. JRebel enables developers to get more done in the same amount of time and stay in the flow while coding. JRebel supports a majority of real-world enterprise java stacks and is easy to install into existing development environments." />
-      <item value="Instantly shows changes made to your code during a debugging session, making it unnecessary to reload web pages and Node.js files." />
-      <item value="Allows to view image as base64-encoded for using in CSSHTML. Available as new button in image editor toolbar." />
-      <item value="File pattern '.bat' (from 'Batch Scripts Support' plugin) was reassigned to file type 'Bat' by 'CMD Support' plugin You can confirm or revert reassigning pattern '.bat'" />
     </histories>
     <option name="languageScores">
       <map>
