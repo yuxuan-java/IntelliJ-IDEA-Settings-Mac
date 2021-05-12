@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="635" />
     <option name="newTranslationDialogY" value="488" />
     <histories>
+      <item value="bill Receive Amount Total" />
       <item value="get Bill Period" />
       <item value="bill Period" />
       <item value="account Period" />
@@ -54,7 +55,6 @@
       <item value="It helps you navigate in line effortlessly. In short, it is like `f` and `F`, but accepting two characters instead of one. It makes your movement at least 1000% more precise and accurate." />
       <item value="Vim emulation plugin for IntelliJ Platform-based IDEs." />
       <item value="Please note this is not an official part of Checkstyle - they neither endorse nor bear responsibility for this plugin. Please see the README for full details." />
-      <item value="This plugin provides both real-time and on-demand scanning of Java files with CheckStyle from within IDEA." />
     </histories>
     <option name="languageScores">
       <map>
