@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="635" />
     <option name="newTranslationDialogY" value="488" />
     <histories>
+      <item value="minus Days" />
       <item value="sum Month Bill Amount" />
       <item value="sum Monthly Bill Amount" />
       <item value="bill Receive Amount Total" />
@@ -54,7 +55,6 @@
       <item value="EasyCode,Easy Code,easy,code,code generate,code tools" />
       <item value="Mind map editor is adapted part of (SciaReto editor). Mind maps are saved as plain-text files in a Markdown compatible format (MMD). It is the best way to keep semantic information among project files, keep links and even sensitive info (in password protected notes encrypted by AES-256)." />
       <item value="Failed to obtain seat" />
-      <item value="It helps you navigate in line effortlessly. In short, it is like `f` and `F`, but accepting two characters instead of one. It makes your movement at least 1000% more precise and accurate." />
     </histories>
     <option name="languageScores">
       <map>
@@ -84,7 +84,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1620372743725" />
+    <option name="lastTrimTime" value="1620963698875" />
   </component>
   <component name="Settings">
     <option name="showExplanation" value="true" />
