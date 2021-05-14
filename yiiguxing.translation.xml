@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="635" />
     <option name="newTranslationDialogY" value="488" />
     <histories>
+      <item value="get Bill Remain Amount Total" />
+      <item value="check Bill Account Balance" />
       <item value="minus Days" />
       <item value="sum Month Bill Amount" />
       <item value="sum Monthly Bill Amount" />
@@ -53,8 +55,6 @@
       <item value="generate Simple Sequence Diagram." />
       <item value="SequenceDiagram for IntelliJ IDEA" />
       <item value="EasyCode,Easy Code,easy,code,code generate,code tools" />
-      <item value="Mind map editor is adapted part of (SciaReto editor). Mind maps are saved as plain-text files in a Markdown compatible format (MMD). It is the best way to keep semantic information among project files, keep links and even sensitive info (in password protected notes encrypted by AES-256)." />
-      <item value="Failed to obtain seat" />
     </histories>
     <option name="languageScores">
       <map>
