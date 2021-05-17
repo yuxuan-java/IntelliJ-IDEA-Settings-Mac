@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="635" />
     <option name="newTranslationDialogY" value="488" />
     <histories>
+      <item value="rename Account" />
       <item value="manual Recharge" />
       <item value="get Bill Remain Amount Total" />
       <item value="check Bill Account Balance" />
@@ -54,7 +55,6 @@
       <item value="Case switching, sorting, filtering, incrementing, aligning to columns, grepping, escaping, encoding..." />
       <item value="Navigate the code by click the diagram shape." />
       <item value="generate Simple Sequence Diagram." />
-      <item value="SequenceDiagram for IntelliJ IDEA" />
     </histories>
     <option name="languageScores">
       <map>
