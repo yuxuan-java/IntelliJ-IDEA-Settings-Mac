@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="635" />
     <option name="newTranslationDialogY" value="488" />
     <histories>
+      <item value="list Bill Repay Detail" />
+      <item value="list Bill Re Pay Detail" />
       <item value="check Verify Code" />
       <item value="rename Account" />
       <item value="manual Recharge" />
@@ -53,8 +55,6 @@
       <item value="fleet Captain Pay" />
       <item value="open Account" />
       <item value="Catdea Plugin intended to match Android Logcat log entries with the source code that emit these entries, thereby providing navigation and interactivity, in order to simplify debugging or reverse engineering." />
-      <item value="Case switching, sorting, filtering, incrementing, aligning to columns, grepping, escaping, encoding..." />
-      <item value="Navigate the code by click the diagram shape." />
     </histories>
     <option name="languageScores">
       <map>
