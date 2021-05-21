@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="635" />
     <option name="newTranslationDialogY" value="488" />
     <histories>
+      <item value="Discovery Client" />
       <item value="list Bill Repay Detail" />
       <item value="list Bill Re Pay Detail" />
       <item value="check Verify Code" />
@@ -54,7 +55,6 @@
       <item value="multiple" />
       <item value="fleet Captain Pay" />
       <item value="open Account" />
-      <item value="Catdea Plugin intended to match Android Logcat log entries with the source code that emit these entries, thereby providing navigation and interactivity, in order to simplify debugging or reverse engineering." />
     </histories>
     <option name="languageScores">
       <map>
@@ -84,7 +84,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1620963698875" />
+    <option name="lastTrimTime" value="1621586868791" />
   </component>
   <component name="Settings">
     <option name="showExplanation" value="true" />
