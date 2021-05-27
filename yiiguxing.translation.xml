@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="635" />
     <option name="newTranslationDialogY" value="488" />
     <histories>
+      <item value="get Account New Name" />
       <item value="Non-terminating decimal expansion; no exact representable decimal result." />
       <item value="HALF UP" />
       <item value="edoe Pay Failure" />
@@ -54,7 +55,6 @@
       <item value="Commented out code" />
       <item value="revert" />
       <item value="fail" />
-      <item value="revert Shipping Status" />
     </histories>
     <option name="languageScores">
       <map>
@@ -84,7 +84,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1621586868791" />
+    <option name="lastTrimTime" value="1622096971916" />
   </component>
   <component name="Settings">
     <option name="showExplanation" value="true" />
