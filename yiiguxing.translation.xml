@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="488" />
     <histories>
       <item value="minus Days" />
+      <item value="switch Settlement Way" />
       <item value="Cron expression must consist of 6 fields (found 7 in &quot;0 0 0 1 ? &quot;)" />
       <item value="get Account New Name" />
       <item value="Non-terminating decimal expansion; no exact representable decimal result." />
@@ -54,7 +55,6 @@
       <item value="get User Payee Way" />
       <item value="fleet Driver Pay" />
       <item value="Commented out code" />
-      <item value="revert" />
     </histories>
     <option name="languageScores">
       <map>
