@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="635" />
     <option name="newTranslationDialogY" value="488" />
     <histories>
+      <item value="minus Days" />
       <item value="Cron expression must consist of 6 fields (found 7 in &quot;0 0 0 1 ? &quot;)" />
       <item value="get Account New Name" />
       <item value="Non-terminating decimal expansion; no exact representable decimal result." />
@@ -18,7 +19,6 @@
       <item value="manual Recharge" />
       <item value="get Bill Remain Amount Total" />
       <item value="check Bill Account Balance" />
-      <item value="minus Days" />
       <item value="sum Month Bill Amount" />
       <item value="sum Monthly Bill Amount" />
       <item value="bill Receive Amount Total" />
