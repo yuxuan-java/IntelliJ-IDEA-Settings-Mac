@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="488" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="No instances found of configserver (drm-service)" />
       <item value="constants" />
       <item value="constans" />
       <item value="minus Days" />
@@ -55,7 +56,6 @@
       <item value="Paid" />
       <item value="is External Transfer" />
       <item value="correlation Data" />
-      <item value="get User Payee Way" />
     </histories>
     <option name="languageScores">
       <map>
