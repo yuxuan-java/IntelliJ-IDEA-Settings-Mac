@@ -4,7 +4,10 @@
     <option name="newTranslationDialogWidth" value="690" />
     <option name="newTranslationDialogX" value="635" />
     <option name="newTranslationDialogY" value="488" />
+    <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="constants" />
+      <item value="constans" />
       <item value="minus Days" />
       <item value="switch Settlement Way" />
       <item value="Cron expression must consist of 6 fields (found 7 in &quot;0 0 0 1 ? &quot;)" />
@@ -53,8 +56,6 @@
       <item value="is External Transfer" />
       <item value="correlation Data" />
       <item value="get User Payee Way" />
-      <item value="fleet Driver Pay" />
-      <item value="Commented out code" />
     </histories>
     <option name="languageScores">
       <map>
@@ -84,7 +85,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1622540333682" />
+    <option name="lastTrimTime" value="1623314284748" />
   </component>
   <component name="Settings">
     <option name="showExplanation" value="true" />
