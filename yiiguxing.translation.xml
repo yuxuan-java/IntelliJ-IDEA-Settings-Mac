@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="488" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="set Query Timeout" />
       <item value="object is not an instance of declaring class" />
       <item value="Attribute value must be constant" />
       <item value="combination" />
@@ -55,7 +56,6 @@
       <item value="remaining Days" />
       <item value="list Not Finisded" />
       <item value="bill detail real pay time" />
-      <item value="real Pay Time" />
     </histories>
     <option name="languageScores">
       <map>
