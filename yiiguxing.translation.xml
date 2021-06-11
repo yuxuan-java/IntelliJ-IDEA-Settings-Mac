@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="488" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="combination" />
+      <item value="It was either not specified andor could not be found for the javaType" />
       <item value="No instances found of configserver (drm-service)" />
       <item value="constants" />
       <item value="constans" />
@@ -54,8 +56,6 @@
       <item value="real Pay Time" />
       <item value="apply Pay Time" />
       <item value="Paid" />
-      <item value="is External Transfer" />
-      <item value="correlation Data" />
     </histories>
     <option name="languageScores">
       <map>
