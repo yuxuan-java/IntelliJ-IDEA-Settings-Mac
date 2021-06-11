@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="488" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="set Break After Acquire Failure" />
       <item value="is Enable" />
       <item value="is Test While Idle" />
       <item value="set Query Timeout" />
@@ -55,7 +56,6 @@
       <item value="in Settlement" />
       <item value="WAITING AGAIN PAY" />
       <item value="WAITING REPAY" />
-      <item value="remaining Days" />
     </histories>
     <option name="languageScores">
       <map>
