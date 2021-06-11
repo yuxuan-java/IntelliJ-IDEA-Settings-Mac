@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="488" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Attribute value must be constant" />
       <item value="combination" />
       <item value="It was either not specified andor could not be found for the javaType" />
       <item value="No instances found of configserver (drm-service)" />
@@ -55,7 +56,6 @@
       <item value="bill detail real pay time" />
       <item value="real Pay Time" />
       <item value="apply Pay Time" />
-      <item value="Paid" />
     </histories>
     <option name="languageScores">
       <map>
