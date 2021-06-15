@@ -6,6 +6,9 @@
     <option name="newTranslationDialogY" value="488" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="exists could not take such arguments" />
+      <item value="list Model Not Bind Product" />
+      <item value="list Not Bind Product" />
       <item value="column Calculate Formula" />
       <item value="Incorrect column count: expected 1, actual 21" />
       <item value="COMMENT" />
@@ -53,9 +56,6 @@
       <item value="surplus" />
       <item value="Owner" />
       <item value="insufficient" />
-      <item value="COLLECTION" />
-      <item value="insufficient Balance" />
-      <item value="failure" />
     </histories>
     <option name="languageScores">
       <map>
@@ -85,7 +85,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1623314284748" />
+    <option name="lastTrimTime" value="1623751400829" />
   </component>
   <component name="Settings">
     <option name="showExplanation" value="true" />
