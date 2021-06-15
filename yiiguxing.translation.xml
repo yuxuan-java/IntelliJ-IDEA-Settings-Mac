@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="488" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="COMMENT" />
+      <item value="TABLE COMMENT" />
       <item value="Statement" />
       <item value="set Break After Acquire Failure" />
       <item value="is Enable" />
@@ -54,8 +56,6 @@
       <item value="failure" />
       <item value="Failed to determine a suitable driver class" />
       <item value="PAY PROCESSING" />
-      <item value="in Settlement" />
-      <item value="WAITING AGAIN PAY" />
     </histories>
     <option name="languageScores">
       <map>
