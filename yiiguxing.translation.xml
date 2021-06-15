@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="488" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="column Calculate Formula" />
       <item value="Incorrect column count: expected 1, actual 21" />
       <item value="COMMENT" />
       <item value="TABLE COMMENT" />
@@ -55,7 +56,6 @@
       <item value="COLLECTION" />
       <item value="insufficient Balance" />
       <item value="failure" />
-      <item value="Failed to determine a suitable driver class" />
     </histories>
     <option name="languageScores">
       <map>
