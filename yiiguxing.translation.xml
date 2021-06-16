@@ -6,6 +6,10 @@
     <option name="newTranslationDialogY" value="488" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="delimiter" />
+      <item value="splice With Symbol" />
+      <item value="splice" />
+      <item value="splicing List" />
       <item value="exists could not take such arguments" />
       <item value="list Model Not Bind Product" />
       <item value="list Not Bind Product" />
@@ -52,10 +56,6 @@
       <item value="bill Re Payment" />
       <item value="bill Remain Amount Total" />
       <item value="bill Surplus Amount Total" />
-      <item value="bill Surplus Amt Total" />
-      <item value="surplus" />
-      <item value="Owner" />
-      <item value="insufficient" />
     </histories>
     <option name="languageScores">
       <map>
