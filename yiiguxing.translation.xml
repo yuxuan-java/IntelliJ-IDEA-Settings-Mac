@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="488" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="alias Map" />
       <item value="table Alias" />
       <item value="delimiter" />
       <item value="splice With Symbol" />
@@ -55,7 +56,6 @@
       <item value="Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured." />
       <item value="settle Bill For Period End" />
       <item value="bill Re Payment" />
-      <item value="bill Remain Amount Total" />
     </histories>
     <option name="languageScores">
       <map>
