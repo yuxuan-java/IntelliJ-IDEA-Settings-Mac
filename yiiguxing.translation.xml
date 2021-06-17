@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="488" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="append" />
       <item value="condition" />
       <item value="handler Model Query Request" />
       <item value="preview" />
@@ -55,7 +56,6 @@
       <item value="get Bill Period" />
       <item value="bill Period" />
       <item value="account Period" />
-      <item value="export" />
     </histories>
     <option name="languageScores">
       <map>
