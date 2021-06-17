@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="488" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="get Model Column Down List" />
       <item value="Incorrect result size: expected 1, actual 199" />
       <item value="append" />
       <item value="condition" />
@@ -55,7 +56,6 @@
       <item value="sum Monthly Bill Amount" />
       <item value="bill Receive Amount Total" />
       <item value="get Bill Period" />
-      <item value="bill Period" />
     </histories>
     <option name="languageScores">
       <map>
