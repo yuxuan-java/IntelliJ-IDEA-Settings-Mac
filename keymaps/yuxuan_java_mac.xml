@@ -58,6 +58,9 @@
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="meta 1" />
   </action>
+  <action id="ActivateRedisManagerToolWindow">
+    <keyboard-shortcut first-keystroke="meta 6" />
+  </action>
   <action id="ActivateRunToolWindow" />
   <action id="ActivateServicesToolWindow">
     <keyboard-shortcut first-keystroke="meta 2" />
