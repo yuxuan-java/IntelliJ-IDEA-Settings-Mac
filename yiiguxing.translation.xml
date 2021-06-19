@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="488" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="is External Transfer" />
+      <item value="is Reconciliation" />
       <item value="foreign Apply Type" />
       <item value="append Alias" />
       <item value="get Model Column Down List" />
@@ -54,8 +56,6 @@
       <item value="manual Recharge" />
       <item value="get Bill Remain Amount Total" />
       <item value="check Bill Account Balance" />
-      <item value="sum Month Bill Amount" />
-      <item value="sum Monthly Bill Amount" />
     </histories>
     <option name="languageScores">
       <map>
