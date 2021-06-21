@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="488" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="splice With Symbol" />
       <item value="is External Transfer" />
       <item value="is Reconciliation" />
       <item value="foreign Apply Type" />
@@ -19,7 +20,6 @@
       <item value="alias Map" />
       <item value="table Alias" />
       <item value="delimiter" />
-      <item value="splice With Symbol" />
       <item value="splice" />
       <item value="splicing List" />
       <item value="exists could not take such arguments" />
