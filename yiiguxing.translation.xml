@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="488" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Broken pipe" />
       <item value="splice With Symbol" />
       <item value="is External Transfer" />
       <item value="is Reconciliation" />
@@ -55,7 +56,6 @@
       <item value="rename Account" />
       <item value="manual Recharge" />
       <item value="get Bill Remain Amount Total" />
-      <item value="check Bill Account Balance" />
     </histories>
     <option name="languageScores">
       <map>
@@ -85,7 +85,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1623751400829" />
+    <option name="lastTrimTime" value="1624439966554" />
   </component>
   <component name="Settings">
     <option name="showExplanation" value="true" />
