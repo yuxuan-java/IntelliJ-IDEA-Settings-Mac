@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="488" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="boolean" />
       <item value="Cancelled" />
       <item value="Registered instance" />
       <item value="Broken pipe" />
@@ -55,7 +56,6 @@
       <item value="list Bill Repay Detail" />
       <item value="list Bill Re Pay Detail" />
       <item value="check Verify Code" />
-      <item value="rename Account" />
     </histories>
     <option name="languageScores">
       <map>
