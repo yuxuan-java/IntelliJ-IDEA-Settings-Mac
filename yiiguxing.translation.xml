@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="488" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Cancelled" />
+      <item value="Registered instance" />
       <item value="Broken pipe" />
       <item value="splice With Symbol" />
       <item value="is External Transfer" />
@@ -54,8 +56,6 @@
       <item value="list Bill Re Pay Detail" />
       <item value="check Verify Code" />
       <item value="rename Account" />
-      <item value="manual Recharge" />
-      <item value="get Bill Remain Amount Total" />
     </histories>
     <option name="languageScores">
       <map>
