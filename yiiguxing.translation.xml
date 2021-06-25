@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="488" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="With this plugin, you can conveniently work with Zeppelin notebooks, monitor Spark and Hadoop applications, and preview AWS S3, Google Cloud Storage, Minio, Linode, Digital Open Space, Microsoft Azure, and Hadoop Distributed File System files right from IntelliJ-based IDEs including IntelliJ IDEA Ultimate, PyCharm Professional, and DataGrip." />
+      <item value="JPA Buddy simplifies and accelerates everything related to JPA and surrounding mainstream Java technology. It provides tools to assist your work with Hibernate, Spring Data JPA, Liquibase, Flyway, SQL and similar things." />
       <item value="need Column PK" />
       <item value="boolean" />
       <item value="Cancelled" />
@@ -54,8 +56,6 @@
       <item value="HALF UP" />
       <item value="edoe Pay Failure" />
       <item value="Discovery Client" />
-      <item value="list Bill Repay Detail" />
-      <item value="list Bill Re Pay Detail" />
     </histories>
     <option name="languageScores">
       <map>
