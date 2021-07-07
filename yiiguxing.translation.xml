@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="488" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="info" />
       <item value="list Backlog" />
       <item value="designate User Relations" />
       <item value="PRINCIPAL" />
@@ -55,7 +56,6 @@
       <item value="set Break After Acquire Failure" />
       <item value="is Enable" />
       <item value="is Test While Idle" />
-      <item value="set Query Timeout" />
     </histories>
     <option name="languageScores">
       <map>
