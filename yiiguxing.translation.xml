@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="488" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="list Backlog" />
       <item value="designate User Relations" />
       <item value="PRINCIPAL" />
       <item value="ABNORMAL OTHER" />
@@ -55,7 +56,6 @@
       <item value="is Enable" />
       <item value="is Test While Idle" />
       <item value="set Query Timeout" />
-      <item value="object is not an instance of declaring class" />
     </histories>
     <option name="languageScores">
       <map>
