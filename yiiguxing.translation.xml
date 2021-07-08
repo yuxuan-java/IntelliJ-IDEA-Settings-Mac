@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="488" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="last" />
       <item value="FOUNDER" />
       <item value="CREATOT" />
       <item value="info" />
@@ -55,7 +56,6 @@
       <item value="TABLE COMMENT" />
       <item value="Statement" />
       <item value="set Break After Acquire Failure" />
-      <item value="is Enable" />
     </histories>
     <option name="languageScores">
       <map>
