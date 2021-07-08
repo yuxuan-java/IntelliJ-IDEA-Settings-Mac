@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="488" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="FOUNDER" />
+      <item value="CREATOT" />
       <item value="info" />
       <item value="list Backlog" />
       <item value="designate User Relations" />
@@ -15,7 +17,6 @@
       <item value="damage" />
       <item value="CREATE MANUALLY" />
       <item value="principal" />
-      <item value="FOUNDER" />
       <item value="finish" />
       <item value="PROCESS" />
       <item value="closed" />
@@ -55,7 +56,6 @@
       <item value="Statement" />
       <item value="set Break After Acquire Failure" />
       <item value="is Enable" />
-      <item value="is Test While Idle" />
     </histories>
     <option name="languageScores">
       <map>
