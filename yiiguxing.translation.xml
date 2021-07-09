@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="488" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="distinct" />
       <item value="distinct Item Product List" />
       <item value="out Time Total" />
       <item value="completion Rate" />
@@ -55,7 +56,6 @@
       <item value="list Not Bind Product" />
       <item value="column Calculate Formula" />
       <item value="Incorrect column count: expected 1, actual 21" />
-      <item value="COMMENT" />
     </histories>
     <option name="languageScores">
       <map>
