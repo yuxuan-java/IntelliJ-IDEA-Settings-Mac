@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="488" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Provides advanced support for UI automation with Selenium libraries in JVMPython languages:" />
+      <item value="With this plugin, you can conveniently work with Zeppelin notebooks, monitor Spark and Hadoop applications, and preview AWS S3, Google Cloud Storage, Minio, Linode, Digital Open Space, Microsoft Azure, and Hadoop Distributed File System files right from IntelliJ-based IDEs including IntelliJ IDEA Ultimate, PyCharm Professional, and DataGrip." />
       <item value="distinct" />
       <item value="distinct Item Product List" />
       <item value="out Time Total" />
@@ -28,7 +30,6 @@
       <item value="finished" />
       <item value="processing" />
       <item value="Creator" />
-      <item value="With this plugin, you can conveniently work with Zeppelin notebooks, monitor Spark and Hadoop applications, and preview AWS S3, Google Cloud Storage, Minio, Linode, Digital Open Space, Microsoft Azure, and Hadoop Distributed File System files right from IntelliJ-based IDEs including IntelliJ IDEA Ultimate, PyCharm Professional, and DataGrip." />
       <item value="JPA Buddy simplifies and accelerates everything related to JPA and surrounding mainstream Java technology. It provides tools to assist your work with Hibernate, Spring Data JPA, Liquibase, Flyway, SQL and similar things." />
       <item value="need Column PK" />
       <item value="boolean" />
@@ -55,7 +56,6 @@
       <item value="list Model Not Bind Product" />
       <item value="list Not Bind Product" />
       <item value="column Calculate Formula" />
-      <item value="Incorrect column count: expected 1, actual 21" />
     </histories>
     <option name="languageScores">
       <map>
@@ -85,7 +85,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1625543833706" />
+    <option name="lastTrimTime" value="1626056512477" />
   </component>
   <component name="Settings">
     <option name="showExplanation" value="true" />
