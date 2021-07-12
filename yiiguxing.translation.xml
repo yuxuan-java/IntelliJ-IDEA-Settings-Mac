@@ -6,6 +6,10 @@
     <option name="newTranslationDialogY" value="488" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="The plugin provides 'Find External Usages' action which allows developers to quickly find plugins which use IntelliJ platform classes, methods or fields and 'Check external usages' option in 'Commit Changes' dialog which checks that changes in IntelliJ platform classes don't break external plugins." />
+      <item value="pending Total" />
+      <item value="operate Total" />
+      <item value="upcoming" />
       <item value="Provides advanced support for UI automation with Selenium libraries in JVMPython languages:" />
       <item value="With this plugin, you can conveniently work with Zeppelin notebooks, monitor Spark and Hadoop applications, and preview AWS S3, Google Cloud Storage, Minio, Linode, Digital Open Space, Microsoft Azure, and Hadoop Distributed File System files right from IntelliJ-based IDEs including IntelliJ IDEA Ultimate, PyCharm Professional, and DataGrip." />
       <item value="distinct" />
@@ -52,10 +56,6 @@
       <item value="delimiter" />
       <item value="splice" />
       <item value="splicing List" />
-      <item value="exists could not take such arguments" />
-      <item value="list Model Not Bind Product" />
-      <item value="list Not Bind Product" />
-      <item value="column Calculate Formula" />
     </histories>
     <option name="languageScores">
       <map>
