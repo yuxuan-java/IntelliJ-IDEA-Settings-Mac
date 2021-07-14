@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="526" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="exists" />
       <item value="Retains only the elements in this list that are contained in the specified collection (optional operation). In other words, removes from this list all of its elements that are not contained in the specified collection" />
       <item value="retain All" />
       <item value="The plugin provides 'Find External Usages' action which allows developers to quickly find plugins which use IntelliJ platform classes, methods or fields and 'Check external usages' option in 'Commit Changes' dialog which checks that changes in IntelliJ platform classes don't break external plugins." />
@@ -55,7 +56,6 @@
       <item value="preview" />
       <item value="alias Map" />
       <item value="table Alias" />
-      <item value="delimiter" />
     </histories>
     <option name="languageScores">
       <map>
