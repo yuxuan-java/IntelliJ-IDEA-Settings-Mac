@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="526" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Protocol handler start failed" />
       <item value="exists" />
       <item value="Retains only the elements in this list that are contained in the specified collection (optional operation). In other words, removes from this list all of its elements that are not contained in the specified collection" />
       <item value="retain All" />
@@ -55,7 +56,6 @@
       <item value="handler Model Query Request" />
       <item value="preview" />
       <item value="alias Map" />
-      <item value="table Alias" />
     </histories>
     <option name="languageScores">
       <map>
