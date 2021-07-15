@@ -6,6 +6,10 @@
     <option name="newTranslationDialogY" value="526" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Embeds a code minimap similar to the one found in SublimeAtom into the editor pane. Works with both light and dark themes using your customized colors for syntax highlighting." />
+      <item value="String and code manipulations, performed on keyboard shortcut with detection of intended manipulation. The type of manipulation only has to be selected manually when multiple are possible." />
+      <item value="Changes new monochrome icons to the good colorful old ones. You can choose between icons from IntelliJ 2016.2 and 2018.1." />
+      <item value="Smart coding assistance for Dart that includes code completion, formatting, navigation, intentions, refactorings, and more" />
       <item value="active Inquiry" />
       <item value="force Transfer Account" />
       <item value="Every derived table must have its own alias" />
@@ -52,10 +56,6 @@
       <item value="is Reconciliation" />
       <item value="foreign Apply Type" />
       <item value="append Alias" />
-      <item value="get Model Column Down List" />
-      <item value="Incorrect result size: expected 1, actual 199" />
-      <item value="append" />
-      <item value="condition" />
     </histories>
     <option name="languageScores">
       <map>
