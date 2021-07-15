@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="526" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="active Inquiry" />
       <item value="force Transfer Account" />
       <item value="Every derived table must have its own alias" />
       <item value="Protocol handler start failed" />
@@ -55,7 +56,6 @@
       <item value="Incorrect result size: expected 1, actual 199" />
       <item value="append" />
       <item value="condition" />
-      <item value="handler Model Query Request" />
     </histories>
     <option name="languageScores">
       <map>
