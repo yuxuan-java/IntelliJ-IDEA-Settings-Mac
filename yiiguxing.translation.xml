@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="526" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="constant" />
       <item value="collection Fetch not case" />
       <item value="Embeds a code minimap similar to the one found in SublimeAtom into the editor pane. Works with both light and dark themes using your customized colors for syntax highlighting." />
       <item value="String and code manipulations, performed on keyboard shortcut with detection of intended manipulation. The type of manipulation only has to be selected manually when multiple are possible." />
@@ -55,7 +56,6 @@
       <item value="splice With Symbol" />
       <item value="is External Transfer" />
       <item value="is Reconciliation" />
-      <item value="foreign Apply Type" />
     </histories>
     <option name="languageScores">
       <map>
@@ -85,7 +85,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1626056512477" />
+    <option name="lastTrimTime" value="1626680434130" />
   </component>
   <component name="Settings">
     <option name="showExplanation" value="true" />
