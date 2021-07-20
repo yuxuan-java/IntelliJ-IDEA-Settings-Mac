@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="526" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Rounding necessary" />
       <item value="charge" />
       <item value="cost" />
       <item value="constant" />
@@ -55,7 +56,6 @@
       <item value="Cancelled" />
       <item value="Registered instance" />
       <item value="Broken pipe" />
-      <item value="splice With Symbol" />
     </histories>
     <option name="languageScores">
       <map>
