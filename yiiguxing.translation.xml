@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="526" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Protocol handler start failed" />
       <item value="Rounding necessary" />
       <item value="charge" />
       <item value="cost" />
@@ -18,7 +19,6 @@
       <item value="active Inquiry" />
       <item value="force Transfer Account" />
       <item value="Every derived table must have its own alias" />
-      <item value="Protocol handler start failed" />
       <item value="exists" />
       <item value="Retains only the elements in this list that are contained in the specified collection (optional operation). In other words, removes from this list all of its elements that are not contained in the specified collection" />
       <item value="retain All" />
