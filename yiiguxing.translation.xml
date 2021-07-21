@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="526" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Running the evict task with compensationTime" />
+      <item value="create Transport" />
       <item value="Protocol handler start failed" />
       <item value="Rounding necessary" />
       <item value="charge" />
@@ -54,8 +56,6 @@
       <item value="need Column PK" />
       <item value="boolean" />
       <item value="Cancelled" />
-      <item value="Registered instance" />
-      <item value="Broken pipe" />
     </histories>
     <option name="languageScores">
       <map>
