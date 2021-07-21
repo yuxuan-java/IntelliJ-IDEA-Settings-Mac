@@ -327,6 +327,156 @@
             </FeaturePluginsList>
           </value>
         </entry>
+        <entry key="com.intellij.facetType">
+          <value>
+            <FeaturePluginsList>
+              <option name="featureMap">
+                <map>
+                  <entry key="AspectJ">
+                    <value>
+                      <FeaturePluginData displayName="AspectJ" pluginName="AspectJ" pluginId="com.intellij.aspectj" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="Spring">
+                    <value>
+                      <FeaturePluginData displayName="Spring" pluginName="Spring" pluginId="com.intellij.spring" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="WebServicesClient">
+                    <value>
+                      <FeaturePluginData displayName="WebService 客户端" pluginName="Java EE: Web Services (JAX-WS)" pluginId="com.jetbrains.jax.ws" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="android">
+                    <value>
+                      <FeaturePluginData displayName="Android" pluginName="Android" pluginId="org.jetbrains.android" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="android-gradle">
+                    <value>
+                      <FeaturePluginData displayName="Android-Gradle" pluginName="Android" pluginId="org.jetbrains.android" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="apk">
+                    <value>
+                      <FeaturePluginData displayName="APK" pluginName="Android" pluginId="org.jetbrains.android" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="ejb">
+                    <value>
+                      <FeaturePluginData displayName="EJB" pluginName="Java EE: Enterprise Java Beans (EJB)" pluginId="com.intellij.javaee.ejb" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="hibernate">
+                    <value>
+                      <FeaturePluginData displayName="Hibernate" pluginName="Hibernate" pluginId="com.intellij.hibernate" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="java-gradle">
+                    <value>
+                      <FeaturePluginData displayName="Java-Gradle" pluginName="Android" pluginId="org.jetbrains.android" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="javaeeApplication">
+                    <value>
+                      <FeaturePluginData displayName="JavaEE 应用程序" pluginName="Java EE Platform" pluginId="com.intellij.javaee" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="jpa">
+                    <value>
+                      <FeaturePluginData displayName="JPA" pluginName="Java EE: Persistence (JPA)" pluginId="com.intellij.javaee.jpa" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="kotlin-language">
+                    <value>
+                      <FeaturePluginData displayName="Kotlin" pluginName="Kotlin" pluginId="org.jetbrains.kotlin" />
+                    </value>
+                  </entry>
+                  <entry key="native-android-gradle">
+                    <value>
+                      <FeaturePluginData displayName="Native-Android-Gradle" pluginName="Android" pluginId="org.jetbrains.android" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="web">
+                    <value>
+                      <FeaturePluginData displayName="Web" pluginName="Java EE: Web/Servlets" pluginId="com.intellij.javaee.web" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="webservices">
+                    <value>
+                      <FeaturePluginData displayName="WebService" pluginName="Java EE: Web Services (JAX-WS)" pluginId="com.jetbrains.jax.ws" bundled="true" />
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </FeaturePluginsList>
+          </value>
+        </entry>
+        <entry key="com.intellij.packaging.artifacts.ArtifactType">
+          <value>
+            <FeaturePluginsList>
+              <option name="featureMap">
+                <map>
+                  <entry key="ear">
+                    <value>
+                      <FeaturePluginData displayName="Java EE 应用程序: 存档" pluginName="Java EE Platform" pluginId="com.intellij.javaee" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="ejb-jar">
+                    <value>
+                      <FeaturePluginData displayName="EJB 应用程序: 存档" pluginName="Java EE Platform" pluginId="com.intellij.javaee" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="exploded-ear">
+                    <value>
+                      <FeaturePluginData displayName="Java EE 应用程序: 展开型" pluginName="Java EE Platform" pluginId="com.intellij.javaee" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="exploded-ejb">
+                    <value>
+                      <FeaturePluginData displayName="EJB 应用程序: 展开型" pluginName="Java EE Platform" pluginId="com.intellij.javaee" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="exploded-war">
+                    <value>
+                      <FeaturePluginData displayName="Web 应用程序: 展开型" pluginName="Java EE Platform" pluginId="com.intellij.javaee" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="jar">
+                    <value>
+                      <FeaturePluginData displayName="JAR" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="javafx">
+                    <value>
+                      <FeaturePluginData displayName="JavaFx 应用程序" pluginName="JavaFX" pluginId="org.jetbrains.plugins.javaFX" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="javafx-preloader">
+                    <value>
+                      <FeaturePluginData displayName="JavaFx 预加载程序" pluginName="JavaFX" pluginId="org.jetbrains.plugins.javaFX" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="jpackage">
+                    <value>
+                      <FeaturePluginData displayName="Platform specific package" pluginName="JavaFX" pluginId="org.jetbrains.plugins.javaFX" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="plain">
+                    <value>
+                      <FeaturePluginData displayName="其它" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="war">
+                    <value>
+                      <FeaturePluginData displayName="Web 应用程序: 存档" pluginName="Java EE Platform" pluginId="com.intellij.javaee" bundled="true" />
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </FeaturePluginsList>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
