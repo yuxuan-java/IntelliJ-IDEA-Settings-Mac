@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="526" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="transport Mode" />
+      <item value="transoprt Type" />
       <item value="proofread" />
       <item value="Running the evict task with compensationTime" />
       <item value="create Transport" />
@@ -54,8 +56,6 @@
       <item value="processing" />
       <item value="Creator" />
       <item value="JPA Buddy simplifies and accelerates everything related to JPA and surrounding mainstream Java technology. It provides tools to assist your work with Hibernate, Spring Data JPA, Liquibase, Flyway, SQL and similar things." />
-      <item value="need Column PK" />
-      <item value="boolean" />
     </histories>
     <option name="languageScores">
       <map>
