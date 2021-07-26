@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="526" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Customer Id" />
       <item value="Cannot deserialize instance of `java.lang.Long` out of START_ARRAY token" />
       <item value="transport Mode" />
       <item value="transoprt Type" />
@@ -55,7 +56,6 @@
       <item value="closed" />
       <item value="finished" />
       <item value="processing" />
-      <item value="Creator" />
     </histories>
     <option name="languageScores">
       <map>
@@ -85,7 +85,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1626680434130" />
+    <option name="lastTrimTime" value="1627270234399" />
   </component>
   <component name="Settings">
     <option name="showExplanation" value="true" />
