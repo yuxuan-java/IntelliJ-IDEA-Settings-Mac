@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="526" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="结算类型" />
       <item value="Customer Id" />
       <item value="Cannot deserialize instance of `java.lang.Long` out of START_ARRAY token" />
       <item value="transport Mode" />
@@ -55,7 +56,6 @@
       <item value="PROCESS" />
       <item value="closed" />
       <item value="finished" />
-      <item value="processing" />
     </histories>
     <option name="languageScores">
       <map>
