@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="526" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Publish" />
       <item value="Couldn't find Java 5 module on classpath. Annotation mappings will not be supported." />
       <item value="although at least one Creator exists" />
       <item value="结算类型" />
@@ -55,7 +56,6 @@
       <item value="CREATE MANUALLY" />
       <item value="principal" />
       <item value="finish" />
-      <item value="PROCESS" />
     </histories>
     <option name="languageScores">
       <map>
