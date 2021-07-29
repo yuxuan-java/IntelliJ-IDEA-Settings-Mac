@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="526" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Couldn't find a binding provider" />
       <item value="Therefore, this plugin gives you a better control what exactly you want to hotswap." />
       <item value="The builtin feature of Intellij &quot;Compile and Reload&quot; always reloads every single file that is referenced by the target class." />
       <item value="With this plugin you can hotswap way faster than usual by hotswapping only the file opened in the editor." />
@@ -55,7 +56,6 @@
       <item value="retain All" />
       <item value="The plugin provides 'Find External Usages' action which allows developers to quickly find plugins which use IntelliJ platform classes, methods or fields and 'Check external usages' option in 'Commit Changes' dialog which checks that changes in IntelliJ platform classes don't break external plugins." />
       <item value="pending Total" />
-      <item value="operate Total" />
     </histories>
     <option name="languageScores">
       <map>
