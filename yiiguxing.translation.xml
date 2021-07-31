@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="397" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="Fail" />
       <item value="Embeds a code minimap similar to the one found in SublimeAtom into the editor pane. Works with both light and dark themes using your customized colors for syntax highlighting." />
       <item value="Inspired by this question on Stack Overflow - this plugin adds an inspection that prevents some hard to find bugs related to invisible zero width characters in source code and resources." />
       <item value="I can reset your IDE eval information." />
@@ -54,7 +55,6 @@
       <item value="Changes new monochrome icons to the good colorful old ones. You can choose between icons from IntelliJ 2016.2 and 2018.1." />
       <item value="Smart coding assistance for Dart that includes code completion, formatting, navigation, intentions, refactorings, and more" />
       <item value="active Inquiry" />
-      <item value="force Transfer Account" />
     </histories>
     <option name="languageScores">
       <map>
@@ -84,7 +84,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1627270234399" />
+    <option name="lastTrimTime" value="1627727265321" />
   </component>
   <component name="Settings">
     <option name="showExplanation" value="true" />
