@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="397" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="The driver has not received any packets from the server." />
       <item value="Fail" />
       <item value="Embeds a code minimap similar to the one found in SublimeAtom into the editor pane. Works with both light and dark themes using your customized colors for syntax highlighting." />
       <item value="Inspired by this question on Stack Overflow - this plugin adds an inspection that prevents some hard to find bugs related to invisible zero width characters in source code and resources." />
@@ -54,7 +55,6 @@
       <item value="String and code manipulations, performed on keyboard shortcut with detection of intended manipulation. The type of manipulation only has to be selected manually when multiple are possible." />
       <item value="Changes new monochrome icons to the good colorful old ones. You can choose between icons from IntelliJ 2016.2 and 2018.1." />
       <item value="Smart coding assistance for Dart that includes code completion, formatting, navigation, intentions, refactorings, and more" />
-      <item value="active Inquiry" />
     </histories>
     <option name="languageScores">
       <map>
