@@ -9,6 +9,7 @@
         <option value="$USER_HOME$/Java/RedoxProject/tms_develop" />
         <option value="$USER_HOME$/Java/RedoxProject/edoe_develop" />
         <option value="$USER_HOME$/Java/RedoxProject/drm_develop" />
+        <option value="$USER_HOME$/Java/RedoxProject/edoe_hotfix/redox-tms" />
       </list>
     </option>
   </component>
