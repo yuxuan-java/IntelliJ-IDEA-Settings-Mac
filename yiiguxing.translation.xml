@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="397" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="not Pass List" />
       <item value="check Order Documents Modify" />
       <item value="remove" />
       <item value="get Declared Methods" />
@@ -54,7 +55,6 @@
       <item value="charge" />
       <item value="cost" />
       <item value="constant" />
-      <item value="collection Fetch not case" />
     </histories>
     <option name="languageScores">
       <map>
