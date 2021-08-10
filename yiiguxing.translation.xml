@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="397" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="ORDER MANUAL ENTRY SETTLEMENT" />
+      <item value="订单-系统结算" />
       <item value="not Pass List" />
       <item value="check Order Documents Modify" />
       <item value="remove" />
@@ -53,8 +55,6 @@
       <item value="Protocol handler start failed" />
       <item value="Rounding necessary" />
       <item value="charge" />
-      <item value="cost" />
-      <item value="constant" />
     </histories>
     <option name="languageScores">
       <map>
