@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="397" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="get Method Name" />
       <item value="list Invoice Not Confirm" />
       <item value="ORDER MANUAL ENTRY SETTLEMENT" />
       <item value="订单-系统结算" />
@@ -54,7 +55,6 @@
       <item value="Running the evict task with compensationTime" />
       <item value="create Transport" />
       <item value="Protocol handler start failed" />
-      <item value="Rounding necessary" />
     </histories>
     <option name="languageScores">
       <map>
