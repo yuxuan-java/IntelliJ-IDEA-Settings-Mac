@@ -20,7 +20,6 @@
           <option name="type" value="CHANGED_COUNT" />
         </DecorationPartConfig>
         <DecorationPartConfig>
-          <option name="prefix" value="- " />
           <option name="type" value="LOCATION" />
         </DecorationPartConfig>
       </list>
