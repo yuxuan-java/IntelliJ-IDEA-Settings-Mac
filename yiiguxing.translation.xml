@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="397" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="order Data Id" />
       <item value="Cannot deserialize" />
       <item value="Order Transport Ocean" />
       <item value="get Method Name" />
@@ -54,7 +55,6 @@
       <item value="transport Mode" />
       <item value="transoprt Type" />
       <item value="proofread" />
-      <item value="Running the evict task with compensationTime" />
     </histories>
     <option name="languageScores">
       <map>
