@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="397" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="base Dao" />
       <item value="fill Order File List" />
       <item value="order Data Id" />
       <item value="Cannot deserialize" />
@@ -54,7 +55,6 @@
       <item value="Customer Id" />
       <item value="Cannot deserialize instance of `java.lang.Long` out of START_ARRAY token" />
       <item value="transport Mode" />
-      <item value="transoprt Type" />
     </histories>
     <option name="languageScores">
       <map>
