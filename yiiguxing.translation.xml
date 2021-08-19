@@ -5,6 +5,13 @@
     <option name="newTranslationDialogX" value="397" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="RECONCILED" />
+      <item value="reconciled" />
+      <item value="REJECTED" />
+      <item value="RECONCILIATION" />
+      <item value="提交" />
+      <item value="COMMIT" />
+      <item value="REJECT" />
       <item value="base Dao" />
       <item value="fill Order File List" />
       <item value="order Data Id" />
@@ -48,13 +55,6 @@
       <item value="Test Management plugin is a part of the toolset for QA specialists and teams. Some features currently are available for JavaKotlin &amp; Python only." />
       <item value="Provides advanced support for UI automation with Selenium libraries in JVMPython languages:" />
       <item value="designate User Relations" />
-      <item value="Publish" />
-      <item value="Couldn't find Java 5 module on classpath. Annotation mappings will not be supported." />
-      <item value="although at least one Creator exists" />
-      <item value="结算类型" />
-      <item value="Customer Id" />
-      <item value="Cannot deserialize instance of `java.lang.Long` out of START_ARRAY token" />
-      <item value="transport Mode" />
     </histories>
     <option name="languageScores">
       <map>
