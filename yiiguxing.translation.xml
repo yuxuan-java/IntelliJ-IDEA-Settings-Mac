@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="397" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="fill Order File List" />
       <item value="through reference chain" />
       <item value="pickup" />
       <item value="check Order Documents Modify" />
@@ -16,7 +17,6 @@
       <item value="COMMIT" />
       <item value="REJECT" />
       <item value="base Dao" />
-      <item value="fill Order File List" />
       <item value="order Data Id" />
       <item value="Cannot deserialize" />
       <item value="Order Transport Ocean" />
