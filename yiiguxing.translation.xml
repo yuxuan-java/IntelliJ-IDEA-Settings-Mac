@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="397" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="customer Name" />
       <item value="fill Order File List" />
       <item value="through reference chain" />
       <item value="pickup" />
@@ -54,7 +55,6 @@
       <item value="The Foldable ProjectView is a plugin for the IntelliJ-based IDEs that lets you fold files located in the root of your project." />
       <item value="This plugin has the goal of being generally useful when working with nixpkgsNixOSnixops, it aims to provide the following:" />
       <item value="Json to dart beans are provided, and dart files ending in entity are provided to generate dart bean factory for use." />
-      <item value="Test Management plugin is a part of the toolset for QA specialists and teams. Some features currently are available for JavaKotlin &amp; Python only." />
     </histories>
     <option name="languageScores">
       <map>
