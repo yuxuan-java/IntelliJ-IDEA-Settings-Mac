@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="397" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="check Order Documents Modify" />
       <item value="RECONCILED" />
       <item value="reconciled" />
       <item value="REJECTED" />
@@ -22,7 +23,6 @@
       <item value="ORDER MANUAL ENTRY SETTLEMENT" />
       <item value="订单-系统结算" />
       <item value="not Pass List" />
-      <item value="check Order Documents Modify" />
       <item value="remove" />
       <item value="get Declared Methods" />
       <item value="The driver has not received any packets from the server." />
