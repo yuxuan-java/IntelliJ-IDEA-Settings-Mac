@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="397" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="pickup" />
       <item value="check Order Documents Modify" />
       <item value="RECONCILED" />
       <item value="reconciled" />
@@ -54,7 +55,6 @@
       <item value="Json to dart beans are provided, and dart files ending in entity are provided to generate dart bean factory for use." />
       <item value="Test Management plugin is a part of the toolset for QA specialists and teams. Some features currently are available for JavaKotlin &amp; Python only." />
       <item value="Provides advanced support for UI automation with Selenium libraries in JVMPython languages:" />
-      <item value="designate User Relations" />
     </histories>
     <option name="languageScores">
       <map>
