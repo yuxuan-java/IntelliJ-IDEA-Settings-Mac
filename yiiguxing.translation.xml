@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="397" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="checking pay" />
+      <item value="UNCOLLECTED TICKET" />
       <item value="customer Name" />
       <item value="fill Order File List" />
       <item value="through reference chain" />
@@ -53,8 +55,6 @@
       <item value="Eliminate context switching and costly distractions. Create and merge PRs and perform code reviews from inside your IDE while using jump-to-definition, your keybindings, and other IDE favorites" />
       <item value="Support for developing Flutter applications. Flutter gives developers an easy and productive way to build and deploy cross-platform, high-performance mobile apps for both Android and iOS. Installing this plugin will also install the Dart plugin." />
       <item value="The Foldable ProjectView is a plugin for the IntelliJ-based IDEs that lets you fold files located in the root of your project." />
-      <item value="This plugin has the goal of being generally useful when working with nixpkgsNixOSnixops, it aims to provide the following:" />
-      <item value="Json to dart beans are provided, and dart files ending in entity are provided to generate dart bean factory for use." />
     </histories>
     <option name="languageScores">
       <map>
@@ -84,7 +84,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1629099533192" />
+    <option name="lastTrimTime" value="1629686827689" />
   </component>
   <component name="Settings">
     <option name="showExplanation" value="true" />
