@@ -72,4 +72,9 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="pvb" value="private BigDecimal" description="private BigDecimal" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
