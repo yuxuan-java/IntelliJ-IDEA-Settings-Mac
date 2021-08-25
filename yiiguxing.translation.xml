@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="397" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="bill Pay Confirm Amount" />
       <item value="checking pay" />
       <item value="UNCOLLECTED TICKET" />
       <item value="customer Name" />
@@ -54,7 +55,6 @@
       <item value="A low-contrast light theme with lots of space between text lines. Made for writing in Markdown inside IntelliJ IDEs." />
       <item value="Eliminate context switching and costly distractions. Create and merge PRs and perform code reviews from inside your IDE while using jump-to-definition, your keybindings, and other IDE favorites" />
       <item value="Support for developing Flutter applications. Flutter gives developers an easy and productive way to build and deploy cross-platform, high-performance mobile apps for both Android and iOS. Installing this plugin will also install the Dart plugin." />
-      <item value="The Foldable ProjectView is a plugin for the IntelliJ-based IDEs that lets you fold files located in the root of your project." />
     </histories>
     <option name="languageScores">
       <map>
