@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="397" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="multiply" />
       <item value="receive" />
       <item value="bill Pay Confirm Amount" />
       <item value="checking pay" />
@@ -54,7 +55,6 @@
       <item value="A simple plugin for developing AutoHotkey scripts. The following features are available:" />
       <item value="IntelliJ-based IDEs Protobuf Language Plugin that provides Protobuf language support." />
       <item value="A low-contrast light theme with lots of space between text lines. Made for writing in Markdown inside IntelliJ IDEs." />
-      <item value="Eliminate context switching and costly distractions. Create and merge PRs and perform code reviews from inside your IDE while using jump-to-definition, your keybindings, and other IDE favorites" />
     </histories>
     <option name="languageScores">
       <map>
