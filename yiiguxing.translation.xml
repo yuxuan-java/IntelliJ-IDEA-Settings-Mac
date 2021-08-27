@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="397" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="Prefix" />
       <item value="weight Total" />
       <item value="multiply" />
       <item value="receive" />
@@ -54,7 +55,6 @@
       <item value="Java Object Layout (JOL) is a tool to analyze in memory object layout schemes in JVMs. It allows you to make an estimate how much memory the object takes. This allows to make a simplest but most efficient performance improvements. Just check your DTOs if they fit into 64 bytes of processor's cache line." />
       <item value="Open Liberty Tools adds support in IntelliJ for your Open Liberty projects. Open Liberty development mode allows you to easily develop your cloud-native Jakarta EE and Java microservices (with MicroProfile) applications with hot reload and deployment. This is a preview release. The following features are available through the Liberty tool window:" />
       <item value="A simple plugin for developing AutoHotkey scripts. The following features are available:" />
-      <item value="IntelliJ-based IDEs Protobuf Language Plugin that provides Protobuf language support." />
     </histories>
     <option name="languageScores">
       <map>
