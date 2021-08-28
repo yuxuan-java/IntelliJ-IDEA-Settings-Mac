@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="397" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="accept Delivery Date" />
       <item value="PACKING LIST file" />
       <item value="Prefix" />
       <item value="weight Total" />
@@ -54,7 +55,6 @@
       <item value="Viewing HotSpot compilation logs in IntelliJ IDEA. See GitHub for documentation." />
       <item value="IntelliHeap attaches to an instrumented HotSpot JVM and collects and graphically displays garbage collection, class loader, and HotSpot compiler performance data. The target JVM is identified by its virtual machine identifier, or vmid." />
       <item value="Java Object Layout (JOL) is a tool to analyze in memory object layout schemes in JVMs. It allows you to make an estimate how much memory the object takes. This allows to make a simplest but most efficient performance improvements. Just check your DTOs if they fit into 64 bytes of processor's cache line." />
-      <item value="Open Liberty Tools adds support in IntelliJ for your Open Liberty projects. Open Liberty development mode allows you to easily develop your cloud-native Jakarta EE and Java microservices (with MicroProfile) applications with hot reload and deployment. This is a preview release. The following features are available through the Liberty tool window:" />
     </histories>
     <option name="languageScores">
       <map>
