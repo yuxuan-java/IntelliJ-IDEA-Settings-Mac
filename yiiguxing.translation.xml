@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="397" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="uncollected Ticket" />
       <item value="accept Delivery Date" />
       <item value="PACKING LIST file" />
       <item value="Prefix" />
@@ -54,7 +55,6 @@
       <item value="Something productive to do while waiting for your build to complete." />
       <item value="Viewing HotSpot compilation logs in IntelliJ IDEA. See GitHub for documentation." />
       <item value="IntelliHeap attaches to an instrumented HotSpot JVM and collects and graphically displays garbage collection, class loader, and HotSpot compiler performance data. The target JVM is identified by its virtual machine identifier, or vmid." />
-      <item value="Java Object Layout (JOL) is a tool to analyze in memory object layout schemes in JVMs. It allows you to make an estimate how much memory the object takes. This allows to make a simplest but most efficient performance improvements. Just check your DTOs if they fit into 64 bytes of processor's cache line." />
     </histories>
     <option name="languageScores">
       <map>
