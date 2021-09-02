@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="397" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="detail currency total" />
       <item value="uncollected Ticket" />
       <item value="accept Delivery Date" />
       <item value="PACKING LIST file" />
@@ -54,7 +55,6 @@
       <item value="With this plugin you can hotswap way faster than usual by hotswapping only the file opened in the editor." />
       <item value="Something productive to do while waiting for your build to complete." />
       <item value="Viewing HotSpot compilation logs in IntelliJ IDEA. See GitHub for documentation." />
-      <item value="IntelliHeap attaches to an instrumented HotSpot JVM and collects and graphically displays garbage collection, class loader, and HotSpot compiler performance data. The target JVM is identified by its virtual machine identifier, or vmid." />
     </histories>
     <option name="languageScores">
       <map>
@@ -84,7 +84,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1630123214646" />
+    <option name="lastTrimTime" value="1630567335253" />
   </component>
   <component name="Settings">
     <option name="showExplanation" value="true" />
