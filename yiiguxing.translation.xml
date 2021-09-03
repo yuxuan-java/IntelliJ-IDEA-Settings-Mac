@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="397" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="This is a plugin for splicing the Sql log output by Mybatis, which can easily and automatically replace the parameter placeholders in the Sql log" />
       <item value="detail currency total" />
       <item value="uncollected Ticket" />
       <item value="accept Delivery Date" />
@@ -54,7 +55,6 @@
       <item value="The builtin feature of Intellij &quot;Compile and Reload&quot; always reloads every single file that is referenced by the target class." />
       <item value="With this plugin you can hotswap way faster than usual by hotswapping only the file opened in the editor." />
       <item value="Something productive to do while waiting for your build to complete." />
-      <item value="Viewing HotSpot compilation logs in IntelliJ IDEA. See GitHub for documentation." />
     </histories>
     <option name="languageScores">
       <map>
