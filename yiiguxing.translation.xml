@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="397" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="No more boilerplate!" />
+      <item value="Auto Generate Unit Tests in Java, Groovy or Scala." />
+      <item value="A plugin that allows you to run JUnit4 tests in parallel (using multiple CPU coresthreads)." />
       <item value="This is a plugin for splicing the Sql log output by Mybatis, which can easily and automatically replace the parameter placeholders in the Sql log" />
       <item value="detail currency total" />
       <item value="uncollected Ticket" />
@@ -52,9 +55,6 @@
       <item value="The plugin allows Java developers to easily develop, configure, test, and deploy highly available and scalable Java web apps. It also supports Azure Synapse data engineers, Azure HDInsight developers and Apache Spark on SQL Server users to create, test and submit Apache SparkHadoop jobs to Azure from IntelliJ on all supported platforms." />
       <item value="Couldn't find a binding provider" />
       <item value="Therefore, this plugin gives you a better control what exactly you want to hotswap." />
-      <item value="The builtin feature of Intellij &quot;Compile and Reload&quot; always reloads every single file that is referenced by the target class." />
-      <item value="With this plugin you can hotswap way faster than usual by hotswapping only the file opened in the editor." />
-      <item value="Something productive to do while waiting for your build to complete." />
     </histories>
     <option name="languageScores">
       <map>
