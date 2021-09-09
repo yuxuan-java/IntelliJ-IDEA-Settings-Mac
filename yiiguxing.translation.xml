@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="397" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="get Declared Fields" />
       <item value="reference chain" />
       <item value="Data Integrity Violation" />
       <item value="No more boilerplate!" />
@@ -54,7 +55,6 @@
       <item value="This plugin provides page preview support." />
       <item value="A dark, clean, simple and elegant theme for JetBrains IDE." />
       <item value="Unofficial WebStormPhpStormGoLandPyCharmCLionRubyMine plugin for developing Flutter applications. AppCoder and Rider currently only supports open Flutter project folder. Flutter and the related logo are trademarks of Google LLC. We are not endorsed by or affiliated with Google LLC." />
-      <item value="The plugin allows Java developers to easily develop, configure, test, and deploy highly available and scalable Java web apps. It also supports Azure Synapse data engineers, Azure HDInsight developers and Apache Spark on SQL Server users to create, test and submit Apache SparkHadoop jobs to Azure from IntelliJ on all supported platforms." />
     </histories>
     <option name="languageScores">
       <map>
