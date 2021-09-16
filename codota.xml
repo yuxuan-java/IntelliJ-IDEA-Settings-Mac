@@ -29,6 +29,11 @@
         <entry key="763907e7" value="1" />
       </map>
     </option>
+    <option name="incompleteIndexingProjects">
+      <set>
+        <option value="f044fce2" />
+      </set>
+    </option>
     <option name="usedLanguages">
       <set>
         <option value="java" />
