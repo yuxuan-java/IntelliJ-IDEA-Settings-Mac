@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="397" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="The port may already be in use or the connector may be misconfigured." />
+      <item value="The port may already be in use or the connector may be misconfigured" />
       <item value="艾仕得入库" />
       <item value="陶氏SADARA海运" />
       <item value="EXPORT" />
@@ -53,8 +55,6 @@
       <item value="get Declared Methods" />
       <item value="The driver has not received any packets from the server." />
       <item value="Fail" />
-      <item value="Embeds a code minimap similar to the one found in SublimeAtom into the editor pane. Works with both light and dark themes using your customized colors for syntax highlighting." />
-      <item value="Inspired by this question on Stack Overflow - this plugin adds an inspection that prevents some hard to find bugs related to invisible zero width characters in source code and resources." />
     </histories>
     <option name="languageScores">
       <map>
@@ -84,12 +84,17 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1631080164830" />
+    <option name="lastTrimTime" value="1631868696668" />
   </component>
   <component name="Settings">
-    <option name="showExplanation" value="true" />
-    <option name="showWordForms" value="false" />
-    <option name="showWordsOnStartup" value="true" />
-    <option name="targetLanguageSelection" value="PRIMARY_LANGUAGE" />
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
+    </option>
+    <option name="keepFormat" value="true" />
+    <option name="phoneticFontFamily" value="Consolas" />
+    <option name="primaryFontFamily" value="Consolas" />
+    <option name="translateDocumentation" value="true" />
   </component>
 </application>
