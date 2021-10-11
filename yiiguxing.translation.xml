@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="397" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="Illegal Argument Exception" />
       <item value="voyage" />
       <item value="The port may already be in use or the connector may be misconfigured." />
       <item value="The port may already be in use or the connector may be misconfigured" />
@@ -54,12 +55,11 @@
       <item value="not Pass List" />
       <item value="remove" />
       <item value="get Declared Methods" />
-      <item value="The driver has not received any packets from the server." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="846" />
-        <entry key="ENGLISH" value="847" />
+        <entry key="CHINESE" value="847" />
+        <entry key="ENGLISH" value="848" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
