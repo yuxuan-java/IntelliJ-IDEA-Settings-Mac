@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="397" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="IDE Eval Reset" />
       <item value="Illegal Argument Exception" />
       <item value="voyage" />
       <item value="The port may already be in use or the connector may be misconfigured." />
@@ -54,12 +55,11 @@
       <item value="订单-系统结算" />
       <item value="not Pass List" />
       <item value="remove" />
-      <item value="get Declared Methods" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="847" />
-        <entry key="ENGLISH" value="848" />
+        <entry key="CHINESE" value="848" />
+        <entry key="ENGLISH" value="849" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
