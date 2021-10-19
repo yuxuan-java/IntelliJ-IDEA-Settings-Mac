@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="397" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="vehicle Number" />
       <item value="IDE Eval Reset" />
       <item value="Illegal Argument Exception" />
       <item value="voyage" />
@@ -54,12 +55,11 @@
       <item value="ORDER MANUAL ENTRY SETTLEMENT" />
       <item value="订单-系统结算" />
       <item value="not Pass List" />
-      <item value="remove" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="848" />
-        <entry key="ENGLISH" value="849" />
+        <entry key="CHINESE" value="849" />
+        <entry key="ENGLISH" value="850" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
