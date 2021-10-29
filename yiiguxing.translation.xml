@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="397" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="our Life" />
       <item value="proofread" />
       <item value="vehicle Number" />
       <item value="IDE Eval Reset" />
@@ -54,12 +55,11 @@
       <item value="get Method Name" />
       <item value="list Invoice Not Confirm" />
       <item value="ORDER MANUAL ENTRY SETTLEMENT" />
-      <item value="订单-系统结算" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="850" />
-        <entry key="ENGLISH" value="851" />
+        <entry key="CHINESE" value="851" />
+        <entry key="ENGLISH" value="852" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
