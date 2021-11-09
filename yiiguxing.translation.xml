@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="397" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="DEFAULT INITIAL CAPACITY" />
+      <item value="UNTREEIFY THRESHOLD" />
+      <item value="TREEIFY THRESHOLD" />
       <item value="get Target Service User" />
       <item value="get Target Customer User" />
       <item value="our Life" />
@@ -52,14 +55,11 @@
       <item value="REJECT" />
       <item value="base Dao" />
       <item value="order Data Id" />
-      <item value="Cannot deserialize" />
-      <item value="Order Transport Ocean" />
-      <item value="get Method Name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="853" />
-        <entry key="ENGLISH" value="854" />
+        <entry key="CHINESE" value="856" />
+        <entry key="ENGLISH" value="857" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
