@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="397" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="take Effect" />
       <item value="DEFAULT INITIAL CAPACITY" />
       <item value="UNTREEIFY THRESHOLD" />
       <item value="TREEIFY THRESHOLD" />
@@ -54,12 +55,11 @@
       <item value="COMMIT" />
       <item value="REJECT" />
       <item value="base Dao" />
-      <item value="order Data Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="856" />
-        <entry key="ENGLISH" value="857" />
+        <entry key="CHINESE" value="857" />
+        <entry key="ENGLISH" value="858" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
