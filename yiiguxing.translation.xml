@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="397" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="last Day Of Quarter" />
       <item value="convert Num To Col String" />
       <item value="set Force Formula Recalculation" />
       <item value="Connection reset by peer" />
@@ -54,12 +55,11 @@
       <item value="through reference chain" />
       <item value="pickup" />
       <item value="check Order Documents Modify" />
-      <item value="RECONCILED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="865" />
-        <entry key="ENGLISH" value="866" />
+        <entry key="CHINESE" value="866" />
+        <entry key="ENGLISH" value="867" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
