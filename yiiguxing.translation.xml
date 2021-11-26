@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="397" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="settlement" />
       <item value="The driver has not received any packets from the server" />
       <item value="create Common Clearance Export" />
       <item value="final Estimate Date" />
@@ -54,12 +55,11 @@
       <item value="checking pay" />
       <item value="UNCOLLECTED TICKET" />
       <item value="customer Name" />
-      <item value="fill Order File List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="869" />
-        <entry key="ENGLISH" value="870" />
+        <entry key="CHINESE" value="870" />
+        <entry key="ENGLISH" value="871" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
