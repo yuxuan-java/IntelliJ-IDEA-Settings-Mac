@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="397" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="Incorrect decimal value" />
       <item value="container net weight" />
       <item value="container gross weight" />
       <item value="save Container" />
@@ -54,12 +55,11 @@
       <item value="weight Total" />
       <item value="multiply" />
       <item value="receive" />
-      <item value="bill Pay Confirm Amount" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="875" />
-        <entry key="ENGLISH" value="876" />
+        <entry key="CHINESE" value="876" />
+        <entry key="ENGLISH" value="877" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
