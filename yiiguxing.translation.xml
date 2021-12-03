@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="397" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="in Foreign Currency Cost List" />
+      <item value="charge Cost List" />
       <item value="Incorrect decimal value" />
       <item value="container net weight" />
       <item value="container gross weight" />
@@ -53,13 +55,11 @@
       <item value="PACKING LIST file" />
       <item value="Prefix" />
       <item value="weight Total" />
-      <item value="multiply" />
-      <item value="receive" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="876" />
-        <entry key="ENGLISH" value="877" />
+        <entry key="CHINESE" value="878" />
+        <entry key="ENGLISH" value="879" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
