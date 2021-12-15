@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="397" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="PARTIAL PAID BACK" />
+      <item value="PARTIAL PAYMENT" />
       <item value="Column 'convert_rmb_amount' in field list is ambiguous" />
       <item value="operation Time" />
       <item value="pay Back" />
@@ -53,13 +55,11 @@
       <item value="Auto Generate Unit Tests in Java, Groovy or Scala." />
       <item value="A plugin that allows you to run JUnit4 tests in parallel (using multiple CPU coresthreads)." />
       <item value="This is a plugin for splicing the Sql log output by Mybatis, which can easily and automatically replace the parameter placeholders in the Sql log" />
-      <item value="detail currency total" />
-      <item value="uncollected Ticket" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="882" />
-        <entry key="ENGLISH" value="883" />
+        <entry key="CHINESE" value="884" />
+        <entry key="ENGLISH" value="885" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
