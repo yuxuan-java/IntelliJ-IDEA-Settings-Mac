@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="397" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="determine value" />
+      <item value="Cannot determine value type from string '乔仁强'" />
       <item value="Data truncation: Out of range value for column 'invoice_exchange_rate' at row 1" />
       <item value="PARTIAL PAID BACK" />
       <item value="PARTIAL PAYMENT" />
@@ -53,13 +55,11 @@
       <item value="reference chain" />
       <item value="Data Integrity Violation" />
       <item value="No more boilerplate!" />
-      <item value="Auto Generate Unit Tests in Java, Groovy or Scala." />
-      <item value="A plugin that allows you to run JUnit4 tests in parallel (using multiple CPU coresthreads)." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="885" />
-        <entry key="ENGLISH" value="886" />
+        <entry key="CHINESE" value="886" />
+        <entry key="ENGLISH" value="888" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
