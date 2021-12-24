@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="397" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="vehicle Latest Location Query" />
       <item value="trans Date" />
       <item value="determine value" />
       <item value="Cannot determine value type from string '乔仁强'" />
@@ -54,12 +55,11 @@
       <item value="effect Flag" />
       <item value="get Declared Fields" />
       <item value="reference chain" />
-      <item value="Data Integrity Violation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="887" />
-        <entry key="ENGLISH" value="889" />
+        <entry key="CHINESE" value="888" />
+        <entry key="ENGLISH" value="890" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
