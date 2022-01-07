@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="397" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="Portal Page" />
       <item value="road Transport Certificate Verification" />
       <item value="The bean 'logMapper' could not be injected as a 'com.redox.tms.mappers.TmsCallLogMapper' because it is a JDK dynamic proxy that implements:" />
       <item value="vehicle Latest Location Query" />
@@ -54,12 +55,11 @@
       <item value="陶氏SADARA海运" />
       <item value="EXPORT" />
       <item value="effect" />
-      <item value="effect Flag" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="890" />
-        <entry key="ENGLISH" value="892" />
+        <entry key="CHINESE" value="891" />
+        <entry key="ENGLISH" value="893" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
