@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="397" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="funder" />
       <item value="abnormal" />
       <item value="error" />
       <item value="declare" />
@@ -54,12 +55,11 @@
       <item value="voyage" />
       <item value="The port may already be in use or the connector may be misconfigured." />
       <item value="The port may already be in use or the connector may be misconfigured" />
-      <item value="艾仕得入库" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="894" />
-        <entry key="ENGLISH" value="896" />
+        <entry key="CHINESE" value="895" />
+        <entry key="ENGLISH" value="897" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
