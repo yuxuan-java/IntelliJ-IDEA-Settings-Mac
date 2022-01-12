@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="397" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="chech Confirm" />
       <item value="JACK" />
       <item value="SPARE TIRE" />
       <item value="装饰配件" />
@@ -54,12 +55,11 @@
       <item value="our Life" />
       <item value="proofread" />
       <item value="vehicle Number" />
-      <item value="IDE Eval Reset" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="901" />
-        <entry key="ENGLISH" value="902" />
+        <entry key="CHINESE" value="902" />
+        <entry key="ENGLISH" value="903" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
