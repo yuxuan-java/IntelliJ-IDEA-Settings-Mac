@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="397" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="count Order Completeness" />
       <item value="NOT COUNTED" />
       <item value="ABNORMAL" />
       <item value="chech Confirm" />
@@ -54,12 +55,11 @@
       <item value="TREEIFY THRESHOLD" />
       <item value="get Target Service User" />
       <item value="get Target Customer User" />
-      <item value="our Life" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="904" />
-        <entry key="ENGLISH" value="905" />
+        <entry key="CHINESE" value="905" />
+        <entry key="ENGLISH" value="906" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
