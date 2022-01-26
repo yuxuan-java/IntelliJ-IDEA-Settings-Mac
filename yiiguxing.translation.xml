@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="397" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="order Predict Time" />
       <item value="although at least one Creator exists" />
       <item value="DECLARATION COMPLETED" />
       <item value="Order Detail Count" />
@@ -54,12 +55,11 @@
       <item value="Broken pipe" />
       <item value="peer" />
       <item value="set Height In Points" />
-      <item value="shift Rows" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="911" />
-        <entry key="ENGLISH" value="912" />
+        <entry key="CHINESE" value="912" />
+        <entry key="ENGLISH" value="913" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
