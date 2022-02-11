@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="397" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="unfinish Num" />
       <item value="It's likely that neither a Result Type nor a Result Map was specified" />
       <item value="custodian" />
       <item value="order Predict Time" />
@@ -54,12 +55,11 @@
       <item value="convert Num To Col String" />
       <item value="set Force Formula Recalculation" />
       <item value="Connection reset by peer" />
-      <item value="Broken pipe" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="914" />
-        <entry key="ENGLISH" value="915" />
+        <entry key="CHINESE" value="915" />
+        <entry key="ENGLISH" value="916" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
