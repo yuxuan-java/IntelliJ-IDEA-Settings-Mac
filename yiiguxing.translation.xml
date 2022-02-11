@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="397" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="EXTERIOR TRIM" />
       <item value="QUICK" />
       <item value="unfinish Num" />
       <item value="It's likely that neither a Result Type nor a Result Map was specified" />
@@ -14,7 +15,6 @@
       <item value="DECLARATION COMPLETED" />
       <item value="Order Detail Count" />
       <item value="exterior Trim" />
-      <item value="EXTERIOR TRIM" />
       <item value="Parent" />
       <item value="count Order Completeness" />
       <item value="NOT COUNTED" />
@@ -58,8 +58,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="916" />
-        <entry key="ENGLISH" value="917" />
+        <entry key="CHINESE" value="917" />
+        <entry key="ENGLISH" value="918" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
