@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="397" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="update Status Not Abnormal" />
       <item value="EXTERIOR TRIM" />
       <item value="QUICK" />
       <item value="unfinish Num" />
@@ -54,12 +55,11 @@
       <item value="final Estimate Date" />
       <item value="last Day Of Quarter" />
       <item value="convert Num To Col String" />
-      <item value="set Force Formula Recalculation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="917" />
-        <entry key="ENGLISH" value="918" />
+        <entry key="CHINESE" value="918" />
+        <entry key="ENGLISH" value="919" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
