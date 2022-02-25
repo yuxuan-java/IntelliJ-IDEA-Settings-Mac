@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="397" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="Duplicate column name" />
       <item value="custodian" />
       <item value="update Status Not Abnormal" />
       <item value="Column 'order_id' in where clause is ambiguous" />
@@ -54,12 +55,11 @@
       <item value="The driver has not received any packets from the server" />
       <item value="create Common Clearance Export" />
       <item value="final Estimate Date" />
-      <item value="last Day Of Quarter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="921" />
-        <entry key="ENGLISH" value="922" />
+        <entry key="CHINESE" value="922" />
+        <entry key="ENGLISH" value="923" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
