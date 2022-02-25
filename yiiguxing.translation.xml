@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="397" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="Block Nested Loop" />
       <item value="Duplicate column name" />
       <item value="custodian" />
       <item value="update Status Not Abnormal" />
@@ -54,12 +55,11 @@
       <item value="settlement" />
       <item value="The driver has not received any packets from the server" />
       <item value="create Common Clearance Export" />
-      <item value="final Estimate Date" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="922" />
-        <entry key="ENGLISH" value="923" />
+        <entry key="CHINESE" value="924" />
+        <entry key="ENGLISH" value="924" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
