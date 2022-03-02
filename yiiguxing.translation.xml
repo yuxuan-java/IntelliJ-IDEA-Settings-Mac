@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="397" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="alias Map" />
+      <item value="get Sql Group By Formula" />
+      <item value="handle Model Query Request" />
+      <item value="handler Model Query Request" />
       <item value="Block Nested Loop" />
       <item value="Duplicate column name" />
       <item value="custodian" />
@@ -51,15 +55,11 @@
       <item value="Incorrect decimal value" />
       <item value="container net weight" />
       <item value="container gross weight" />
-      <item value="save Container" />
-      <item value="settlement" />
-      <item value="The driver has not received any packets from the server" />
-      <item value="create Common Clearance Export" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="924" />
-        <entry key="ENGLISH" value="924" />
+        <entry key="CHINESE" value="927" />
+        <entry key="ENGLISH" value="927" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
@@ -77,7 +77,7 @@
         <entry key="WELSH" value="1" />
         <entry key="SPANISH" value="1" />
         <entry key="HINDI" value="2" />
-        <entry key="INDONESIAN" value="1" />
+        <entry key="INDONESIAN" value="2" />
         <entry key="JAVANESE" value="1" />
         <entry key="VIETNAMESE" value="2" />
       </map>
