@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="397" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="当前" />
       <item value="普通" />
       <item value="approval success" />
       <item value="alias Map" />
@@ -54,12 +55,11 @@
       <item value="reexchange" />
       <item value="in Foreign Currency Cost List" />
       <item value="charge Cost List" />
-      <item value="Incorrect decimal value" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="928" />
-        <entry key="ENGLISH" value="928" />
+        <entry key="CHINESE" value="929" />
+        <entry key="ENGLISH" value="929" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
