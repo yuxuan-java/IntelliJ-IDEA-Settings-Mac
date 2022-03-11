@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="397" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="普通" />
       <item value="approval success" />
       <item value="alias Map" />
       <item value="get Sql Group By Formula" />
@@ -54,11 +55,10 @@
       <item value="in Foreign Currency Cost List" />
       <item value="charge Cost List" />
       <item value="Incorrect decimal value" />
-      <item value="container net weight" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="927" />
+        <entry key="CHINESE" value="928" />
         <entry key="ENGLISH" value="928" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
