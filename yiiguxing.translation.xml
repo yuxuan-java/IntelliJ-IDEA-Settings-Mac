@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="397" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="\u 5 F 00\u 542 F\u 6279\u 91 CF\u 63 D 2\u 5165" />
       <item value="当前" />
       <item value="普通" />
       <item value="approval success" />
@@ -54,12 +55,11 @@
       <item value="pay Back" />
       <item value="reexchange" />
       <item value="in Foreign Currency Cost List" />
-      <item value="charge Cost List" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="929" />
-        <entry key="ENGLISH" value="929" />
+        <entry key="ENGLISH" value="930" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
@@ -84,7 +84,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1647829018896" />
+    <option name="lastTrimTime" value="1652679263791" />
   </component>
   <component name="Settings">
     <option name="keepFormat" value="true" />
