@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="397" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="Did not match" />
       <item value="Id Hi Value Service Impl" />
       <item value="\u 5 F 00\u 542 F\u 6279\u 91 CF\u 63 D 2\u 5165" />
       <item value="当前" />
@@ -54,12 +55,11 @@
       <item value="Column 'convert_rmb_amount' in field list is ambiguous" />
       <item value="operation Time" />
       <item value="pay Back" />
-      <item value="reexchange" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="930" />
-        <entry key="ENGLISH" value="931" />
+        <entry key="CHINESE" value="931" />
+        <entry key="ENGLISH" value="932" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
