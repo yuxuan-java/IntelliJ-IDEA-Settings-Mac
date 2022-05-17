@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="397" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="Block Supplier Dto" />
       <item value="push Block Suplier JSON" />
       <item value="Did not match" />
       <item value="Id Hi Value Service Impl" />
@@ -54,12 +55,11 @@
       <item value="PARTIAL PAID BACK" />
       <item value="PARTIAL PAYMENT" />
       <item value="Column 'convert_rmb_amount' in field list is ambiguous" />
-      <item value="operation Time" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="932" />
-        <entry key="ENGLISH" value="933" />
+        <entry key="CHINESE" value="933" />
+        <entry key="ENGLISH" value="934" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
