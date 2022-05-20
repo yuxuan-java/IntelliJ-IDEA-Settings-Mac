@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="397" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="rest Template Ignore Cert" />
+      <item value="Key Store Exception" />
+      <item value="Key Management Exception" />
+      <item value="No Such Algorithm Exception" />
       <item value="Unexpected end of file from server" />
       <item value="Illegal character in scheme name at index 0: 127.0.0.1:" />
       <item value="Could not resolve placeholder 'push.cpuProjectUrl' in value &quot;{push.cpuProjectUrl}&quot;" />
@@ -51,15 +55,11 @@
       <item value="road Transport Certificate Verification" />
       <item value="The bean 'logMapper' could not be injected as a 'com.redox.tms.mappers.TmsCallLogMapper' because it is a JDK dynamic proxy that implements:" />
       <item value="vehicle Latest Location Query" />
-      <item value="trans Date" />
-      <item value="determine value" />
-      <item value="Cannot determine value type from string '乔仁强'" />
-      <item value="Data truncation: Out of range value for column 'invoice_exchange_rate' at row 1" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="936" />
-        <entry key="ENGLISH" value="937" />
+        <entry key="CHINESE" value="940" />
+        <entry key="ENGLISH" value="941" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
