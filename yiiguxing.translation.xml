@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="397" />
     <option name="newTranslationDialogY" value="486" />
     <histories>
+      <item value="parallel Stream" />
       <item value="delimiter" />
       <item value="unsupport type interface org.springframework.util.MultiValueMap" />
       <item value="rest Template Ignore Cert" />
@@ -54,12 +55,11 @@
       <item value="error" />
       <item value="declare" />
       <item value="Portal Page" />
-      <item value="road Transport Certificate Verification" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="942" />
-        <entry key="ENGLISH" value="943" />
+        <entry key="CHINESE" value="943" />
+        <entry key="ENGLISH" value="944" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
