@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="712" />
     <option name="newTranslationDialogY" value="477" />
     <histories>
+      <item value="distinct" />
       <item value="Using such generic exceptions as Error, RuntimeException, Throwable, and Exception prevents calling methods from handling true, system-generated exceptions differently than application-generated errors." />
       <item value="contains" />
       <item value="section Id Array" />
@@ -54,12 +55,11 @@
       <item value="It's likely that neither a Result Type nor a Result Map was specified" />
       <item value="order Predict Time" />
       <item value="although at least one Creator exists" />
-      <item value="DECLARATION COMPLETED" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="957" />
-        <entry key="ENGLISH" value="952" />
+        <entry key="ENGLISH" value="953" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
