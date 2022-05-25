@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="712" />
     <option name="newTranslationDialogY" value="477" />
     <histories>
+      <item value="A dead store happens when a local variable is assigned a value that is not read by any subsequent instruction. Calculating or retrieving a value only to then overwrite it or throw it away, could indicate a serious error in the code. Even if it’s not an error, it is at best a waste of resources. Therefore all calculated values should be used." />
       <item value="project Id List" />
       <item value="Cognitive Complexity is a measure of how hard the control flow of a method is to understand. Methods with high Cognitive Complexity will be difficult to maintain." />
       <item value="Comparisons of dissimilar types will always return false. The comparison and all its dependent code can simply be removed. This includes:" />
@@ -54,11 +55,10 @@
       <item value="Parent" />
       <item value="count Order Completeness" />
       <item value="NOT COUNTED" />
-      <item value="ABNORMAL" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="953" />
+        <entry key="CHINESE" value="954" />
         <entry key="ENGLISH" value="949" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
@@ -73,6 +73,7 @@
         <entry key="ROMANIAN" value="3" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="PORTUGUESE" value="2" />
+        <entry key="ESPERANTO" value="1" />
         <entry key="SLOVENIAN" value="1" />
         <entry key="WELSH" value="1" />
         <entry key="SPANISH" value="1" />
