@@ -2,9 +2,15 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="286" />
     <option name="newTranslationDialogWidth" value="940" />
-    <option name="newTranslationDialogX" value="397" />
-    <option name="newTranslationDialogY" value="486" />
+    <option name="newTranslationDialogX" value="712" />
+    <option name="newTranslationDialogY" value="477" />
     <histories>
+      <item value="project Id List" />
+      <item value="Cognitive Complexity is a measure of how hard the control flow of a method is to understand. Methods with high Cognitive Complexity will be difficult to maintain." />
+      <item value="Comparisons of dissimilar types will always return false. The comparison and all its dependent code can simply be removed. This includes:" />
+      <item value="A loop with at most one iteration is equivalent to the use of an if statement to conditionally execute one piece of code. No developer expects to find such a use of a loop statement. If the initial intention of the author was really to conditionally execute one piece of code, an if statement should be used instead." />
+      <item value="Following parameter values can be set in Rule Settings. In connected mode, server side configuration overrides local settings." />
+      <item value="Cognitive Complexity is a measure of how hard the control flow of a method is to understand. Methods with high Cognitive Complexity will be difficult to maintain.&#10;" />
       <item value="unmodifiable List" />
       <item value="joint Evaluate Committee" />
       <item value="The default initial capacity - MUST be a power of two." />
@@ -49,17 +55,11 @@
       <item value="count Order Completeness" />
       <item value="NOT COUNTED" />
       <item value="ABNORMAL" />
-      <item value="chech Confirm" />
-      <item value="JACK" />
-      <item value="SPARE TIRE" />
-      <item value="装饰配件" />
-      <item value="dispatch" />
-      <item value="funder" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="947" />
-        <entry key="ENGLISH" value="948" />
+        <entry key="CHINESE" value="953" />
+        <entry key="ENGLISH" value="949" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
@@ -87,6 +87,11 @@
     <option name="lastTrimTime" value="1653185238597" />
   </component>
   <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="primaryLanguage" value="ESPERANTO" />
+      </google-translate>
+    </option>
     <option name="keepFormat" value="true" />
     <option name="phoneticFontFamily" value="Consolas" />
     <option name="primaryFontFamily" value="Consolas" />
