@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="712" />
     <option name="newTranslationDialogY" value="477" />
     <histories>
+      <item value="plugin is not enabled" />
       <item value="distinct" />
       <item value="Using such generic exceptions as Error, RuntimeException, Throwable, and Exception prevents calling methods from handling true, system-generated exceptions differently than application-generated errors." />
       <item value="contains" />
@@ -54,12 +55,11 @@
       <item value="unfinish Num" />
       <item value="It's likely that neither a Result Type nor a Result Map was specified" />
       <item value="order Predict Time" />
-      <item value="although at least one Creator exists" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="957" />
-        <entry key="ENGLISH" value="953" />
+        <entry key="ENGLISH" value="954" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
