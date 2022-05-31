@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="712" />
     <option name="newTranslationDialogY" value="477" />
     <histories>
+      <item value="Invalid Key Exception" />
+      <item value="Detect premature EOF" />
+      <item value="Cipher" />
+      <item value="decrypt" />
+      <item value="Response Helper" />
       <item value="OTHER EXCEPTIONS" />
       <item value="REPEAT PUSH" />
       <item value="REQUIRED FIELD NOT FILLED" />
@@ -50,16 +55,11 @@
       <item value="Key Store Exception" />
       <item value="Key Management Exception" />
       <item value="No Such Algorithm Exception" />
-      <item value="Unexpected end of file from server" />
-      <item value="Illegal character in scheme name at index 0: 127.0.0.1:" />
-      <item value="Could not resolve placeholder 'push.cpuProjectUrl' in value &quot;{push.cpuProjectUrl}&quot;" />
-      <item value="Block Supplier Dto" />
-      <item value="push Block Suplier JSON" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="972" />
-        <entry key="ENGLISH" value="973" />
+        <entry key="CHINESE" value="977" />
+        <entry key="ENGLISH" value="978" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
