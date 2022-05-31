@@ -5,6 +5,14 @@
     <option name="newTranslationDialogX" value="712" />
     <option name="newTranslationDialogY" value="477" />
     <histories>
+      <item value="CHECK ORDER" />
+      <item value="INVENTORY ORDER" />
+      <item value="INVENTORY" />
+      <item value="自用出库单" />
+      <item value="callback" />
+      <item value="inquiry" />
+      <item value="Ofs Budget Request" />
+      <item value="Budget" />
       <item value="FAIL" />
       <item value="budget Management" />
       <item value="Budget Management" />
@@ -47,19 +55,11 @@
       <item value="approval success" />
       <item value="alias Map" />
       <item value="get Sql Group By Formula" />
-      <item value="handle Model Query Request" />
-      <item value="handler Model Query Request" />
-      <item value="Block Nested Loop" />
-      <item value="Duplicate column name" />
-      <item value="custodian" />
-      <item value="update Status Not Abnormal" />
-      <item value="Column 'order_id' in where clause is ambiguous" />
-      <item value="EXTERIOR TRIM" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="957" />
-        <entry key="ENGLISH" value="958" />
+        <entry key="CHINESE" value="964" />
+        <entry key="ENGLISH" value="965" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
