@@ -5,6 +5,12 @@
     <option name="newTranslationDialogX" value="712" />
     <option name="newTranslationDialogY" value="477" />
     <histories>
+      <item value="OTHER EXCEPTIONS" />
+      <item value="REPEAT PUSH" />
+      <item value="REQUIRED FIELD NOT FILLED" />
+      <item value="PROCESSING COMPLETED" />
+      <item value="PROCESS COMPLETED" />
+      <item value="RECEIVED FAILURE" />
       <item value="Even though it is not listed, this annotation also has the onConstructor parameter. See the full documentation for more details." />
       <item value="Required Args Constructor" />
       <item value="CHECK ORDER" />
@@ -49,17 +55,11 @@
       <item value="Could not resolve placeholder 'push.cpuProjectUrl' in value &quot;{push.cpuProjectUrl}&quot;" />
       <item value="Block Supplier Dto" />
       <item value="push Block Suplier JSON" />
-      <item value="Did not match" />
-      <item value="Id Hi Value Service Impl" />
-      <item value="\u 5 F 00\u 542 F\u 6279\u 91 CF\u 63 D 2\u 5165" />
-      <item value="当前" />
-      <item value="普通" />
-      <item value="approval success" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="966" />
-        <entry key="ENGLISH" value="967" />
+        <entry key="CHINESE" value="972" />
+        <entry key="ENGLISH" value="973" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
