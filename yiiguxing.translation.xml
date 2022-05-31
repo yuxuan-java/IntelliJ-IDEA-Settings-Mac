@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="712" />
     <option name="newTranslationDialogY" value="477" />
     <histories>
+      <item value="Budget Management" />
       <item value="tenant" />
       <item value="plugin is not enabled" />
       <item value="distinct" />
@@ -54,12 +55,11 @@
       <item value="EXTERIOR TRIM" />
       <item value="QUICK" />
       <item value="unfinish Num" />
-      <item value="It's likely that neither a Result Type nor a Result Map was specified" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="957" />
-        <entry key="ENGLISH" value="955" />
+        <entry key="ENGLISH" value="956" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
