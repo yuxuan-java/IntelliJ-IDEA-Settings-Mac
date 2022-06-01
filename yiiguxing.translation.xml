@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="712" />
     <option name="newTranslationDialogY" value="477" />
     <histories>
+      <item value="Too many pattern letters: s" />
+      <item value="Instantiation of bean failed" />
       <item value="The Object mapper." />
       <item value="The Platform mapper." />
       <item value="Cipher" />
@@ -53,13 +55,11 @@
       <item value="parallel Stream" />
       <item value="delimiter" />
       <item value="unsupport type interface org.springframework.util.MultiValueMap" />
-      <item value="rest Template Ignore Cert" />
-      <item value="Key Store Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="980" />
-        <entry key="ENGLISH" value="981" />
+        <entry key="CHINESE" value="982" />
+        <entry key="ENGLISH" value="983" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
