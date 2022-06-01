@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="712" />
     <option name="newTranslationDialogY" value="477" />
     <histories>
+      <item value="Required Args Constructor" />
       <item value="Unknown system variable 'query_cache_size'" />
       <item value="Too many pattern letters: s" />
       <item value="Instantiation of bean failed" />
@@ -22,7 +23,6 @@
       <item value="PROCESS COMPLETED" />
       <item value="RECEIVED FAILURE" />
       <item value="Even though it is not listed, this annotation also has the onConstructor parameter. See the full documentation for more details." />
-      <item value="Required Args Constructor" />
       <item value="CHECK ORDER" />
       <item value="INVENTORY ORDER" />
       <item value="INVENTORY" />
@@ -58,8 +58,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="983" />
-        <entry key="ENGLISH" value="984" />
+        <entry key="CHINESE" value="984" />
+        <entry key="ENGLISH" value="985" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
