@@ -2,9 +2,12 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="286" />
     <option name="newTranslationDialogWidth" value="940" />
-    <option name="newTranslationDialogX" value="712" />
-    <option name="newTranslationDialogY" value="477" />
+    <option name="newTranslationDialogX" value="675" />
+    <option name="newTranslationDialogY" value="599" />
     <histories>
+      <item value="Shared coding conventions allow teams to collaborate efficiently. This rule checks that all package names match a provided regular expression." />
+      <item value="Generic types shouldn’t be used raw (without type parameters) in variable declarations or return values. Doing so bypasses generic type checking, and defers the catch of unsafe code to runtime.&#10;" />
+      <item value="Programmers should not comment out code as it bloats programs and reduces readability.&#10;Unused code should be deleted and can be retrieved from source control history if required." />
       <item value="Required Args Constructor" />
       <item value="Unknown system variable 'query_cache_size'" />
       <item value="Too many pattern letters: s" />
@@ -52,13 +55,10 @@
       <item value="unmodifiable List" />
       <item value="joint Evaluate Committee" />
       <item value="The default initial capacity - MUST be a power of two." />
-      <item value="The load factor used when none specified in constructor." />
-      <item value="parallel Stream" />
-      <item value="delimiter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="984" />
+        <entry key="CHINESE" value="987" />
         <entry key="ENGLISH" value="985" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
