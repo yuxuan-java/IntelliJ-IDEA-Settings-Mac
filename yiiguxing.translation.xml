@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="675" />
     <option name="newTranslationDialogY" value="599" />
     <histories>
+      <item value="received" />
       <item value="list Processing" />
       <item value="Shared coding conventions allow teams to collaborate efficiently. This rule checks that all package names match a provided regular expression." />
       <item value="Generic types shouldn’t be used raw (without type parameters) in variable declarations or return values. Doing so bypasses generic type checking, and defers the catch of unsafe code to runtime.&#10;" />
@@ -54,12 +55,11 @@
       <item value="Following parameter values can be set in Rule Settings. In connected mode, server side configuration overrides local settings." />
       <item value="Cognitive Complexity is a measure of how hard the control flow of a method is to understand. Methods with high Cognitive Complexity will be difficult to maintain.&#10;" />
       <item value="unmodifiable List" />
-      <item value="joint Evaluate Committee" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="987" />
-        <entry key="ENGLISH" value="986" />
+        <entry key="ENGLISH" value="987" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
