@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="675" />
     <option name="newTranslationDialogY" value="599" />
     <histories>
+      <item value="INVENTORY PROFIT INTO STORAGE" />
+      <item value="PROFIT" />
+      <item value="INVENTORY" />
       <item value="receive Org Id" />
       <item value="produce" />
       <item value="general picking apply" />
@@ -44,7 +47,6 @@
       <item value="Even though it is not listed, this annotation also has the onConstructor parameter. See the full documentation for more details." />
       <item value="CHECK ORDER" />
       <item value="INVENTORY ORDER" />
-      <item value="INVENTORY" />
       <item value="自用出库单" />
       <item value="callback" />
       <item value="inquiry" />
@@ -53,13 +55,11 @@
       <item value="FAIL" />
       <item value="budget Management" />
       <item value="Budget Management" />
-      <item value="tenant" />
-      <item value="plugin is not enabled" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="998" />
-        <entry key="ENGLISH" value="999" />
+        <entry key="CHINESE" value="1001" />
+        <entry key="ENGLISH" value="1002" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
