@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="675" />
     <option name="newTranslationDialogY" value="599" />
     <histories>
+      <item value="negative Number" />
       <item value="INVENTORY PROFIT INTO STORAGE" />
       <item value="PROFIT" />
       <item value="INVENTORY" />
@@ -54,12 +55,11 @@
       <item value="Budget" />
       <item value="FAIL" />
       <item value="budget Management" />
-      <item value="Budget Management" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1001" />
-        <entry key="ENGLISH" value="1002" />
+        <entry key="CHINESE" value="1002" />
+        <entry key="ENGLISH" value="1003" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
