@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="675" />
     <option name="newTranslationDialogY" value="599" />
     <histories>
+      <item value="Truncated incorrect DOUBLE value" />
+      <item value="Unrecognized" />
       <item value="expected 1, actual 0" />
       <item value="Incorrect column count: expected 1, actual 6" />
       <item value="multiply" />
@@ -53,13 +55,11 @@
       <item value="CHECK ORDER" />
       <item value="INVENTORY ORDER" />
       <item value="自用出库单" />
-      <item value="callback" />
-      <item value="inquiry" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1006" />
-        <entry key="ENGLISH" value="1007" />
+        <entry key="CHINESE" value="1008" />
+        <entry key="ENGLISH" value="1009" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
