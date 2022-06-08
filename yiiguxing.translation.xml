@@ -1,10 +1,15 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogHeight" value="286" />
+    <option name="newTranslationDialogHeight" value="290" />
     <option name="newTranslationDialogWidth" value="940" />
-    <option name="newTranslationDialogX" value="675" />
-    <option name="newTranslationDialogY" value="599" />
+    <option name="newTranslationDialogX" value="366" />
+    <option name="newTranslationDialogY" value="545" />
     <histories>
+      <item value="FAIL ON UNKNOWN PROPERTIES" />
+      <item value="Feature that determines whether encountering of unknown properties" />
+      <item value="Http Message Not Readable Exception" />
+      <item value="discard long time none received connection." />
+      <item value="Using such generic exceptions as Error, RuntimeException, Throwable, and Exception prevents calling methods from handling true, system-generated exceptions differently than application-generated errors." />
       <item value="Nullable" />
       <item value="Truncated incorrect DOUBLE value" />
       <item value="Unrecognized" />
@@ -50,16 +55,11 @@
       <item value="REPEAT PUSH" />
       <item value="REQUIRED FIELD NOT FILLED" />
       <item value="PROCESSING COMPLETED" />
-      <item value="PROCESS COMPLETED" />
-      <item value="RECEIVED FAILURE" />
-      <item value="Even though it is not listed, this annotation also has the onConstructor parameter. See the full documentation for more details." />
-      <item value="CHECK ORDER" />
-      <item value="INVENTORY ORDER" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1009" />
-        <entry key="ENGLISH" value="1010" />
+        <entry key="CHINESE" value="1013" />
+        <entry key="ENGLISH" value="1014" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
