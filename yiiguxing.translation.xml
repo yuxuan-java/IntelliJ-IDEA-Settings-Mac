@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="366" />
     <option name="newTranslationDialogY" value="545" />
     <histories>
+      <item value="FAILURE" />
       <item value="Cross Origin" />
       <item value="Operate fixed value" />
       <item value="get Material Out Request Es Type parsing failed" />
@@ -54,12 +55,11 @@
       <item value="Too many pattern letters: s" />
       <item value="Instantiation of bean failed" />
       <item value="The Object mapper." />
-      <item value="The Platform mapper." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1022" />
-        <entry key="ENGLISH" value="1023" />
+        <entry key="CHINESE" value="1023" />
+        <entry key="ENGLISH" value="1024" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
