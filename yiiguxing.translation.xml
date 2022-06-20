@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="366" />
     <option name="newTranslationDialogY" value="545" />
     <histories>
+      <item value="cancel" />
       <item value="CANCEL" />
       <item value="CANCLE" />
       <item value="delivery Order Service" />
@@ -54,7 +55,6 @@
       <item value="Generic types shouldn’t be used raw (without type parameters) in variable declarations or return values. Doing so bypasses generic type checking, and defers the catch of unsafe code to runtime.&#10;" />
       <item value="Programmers should not comment out code as it bloats programs and reduces readability.&#10;Unused code should be deleted and can be retrieved from source control history if required." />
       <item value="Required Args Constructor" />
-      <item value="Unknown system variable 'query_cache_size'" />
     </histories>
     <option name="languageScores">
       <map>
@@ -91,6 +91,7 @@
     <option name="keepFormat" value="true" />
     <option name="phoneticFontFamily" value="Consolas" />
     <option name="primaryFontFamily" value="Consolas" />
+    <option name="showReplacementActionInContextMenu" value="true" />
     <option name="translateDocumentation" value="true" />
   </component>
 </application>
