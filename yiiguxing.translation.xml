@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="366" />
     <option name="newTranslationDialogY" value="545" />
     <histories>
+      <item value="CANCEL" />
+      <item value="CANCLE" />
       <item value="delivery Order Service" />
       <item value="FAILURE" />
       <item value="Cross Origin" />
@@ -53,13 +55,11 @@
       <item value="Programmers should not comment out code as it bloats programs and reduces readability.&#10;Unused code should be deleted and can be retrieved from source control history if required." />
       <item value="Required Args Constructor" />
       <item value="Unknown system variable 'query_cache_size'" />
-      <item value="Too many pattern letters: s" />
-      <item value="Instantiation of bean failed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1024" />
-        <entry key="ENGLISH" value="1025" />
+        <entry key="CHINESE" value="1026" />
+        <entry key="ENGLISH" value="1027" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
