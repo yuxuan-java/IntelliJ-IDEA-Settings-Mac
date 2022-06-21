@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="302" />
     <option name="newTranslationDialogY" value="534" />
     <histories>
+      <item value="OPERATE FIXED VALUE" />
       <item value="shipping Create" />
       <item value="Null pointers should not be dereferenced" />
       <item value="cancel" />
@@ -54,12 +55,11 @@
       <item value="received" />
       <item value="list Processing" />
       <item value="Shared coding conventions allow teams to collaborate efficiently. This rule checks that all package names match a provided regular expression." />
-      <item value="Generic types shouldn’t be used raw (without type parameters) in variable declarations or return values. Doing so bypasses generic type checking, and defers the catch of unsafe code to runtime.&#10;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1027" />
-        <entry key="ENGLISH" value="1027" />
+        <entry key="ENGLISH" value="1028" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
