@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="302" />
     <option name="newTranslationDialogY" value="534" />
     <histories>
+      <item value="EXCLUDE ES TYPE LIST" />
       <item value="inventory" />
       <item value="OCCUPY API NAME" />
       <item value="OPERATE FIXED VALUE" />
@@ -54,12 +55,11 @@
       <item value="Alias for the basePackages attribute." />
       <item value="value is an alias for this attribute, simply allowing for more concise use of the annotation." />
       <item value="Type-safe alternative to basePackages for specifying the packages in which to select controllers to be advised by the @ControllerAdvice annotated class." />
-      <item value="received" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1029" />
-        <entry key="ENGLISH" value="1030" />
+        <entry key="CHINESE" value="1030" />
+        <entry key="ENGLISH" value="1031" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
