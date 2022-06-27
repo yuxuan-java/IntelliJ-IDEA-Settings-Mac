@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="302" />
     <option name="newTranslationDialogY" value="534" />
     <histories>
+      <item value="String and code manipulations, performed on keyboard shortcut with detection of intended manipulation. The type of manipulation only has to be selected manually when multiple are possible." />
+      <item value="Embeds a code minimap similar to the one found in Sublime into the editor pane. Works with both light and dark themes using your customized colors for syntax highlighting." />
       <item value="count Unreceived By Order Id" />
       <item value="count Unfinished Num By Order Id" />
       <item value="unfinish Num" />
@@ -53,12 +55,10 @@
       <item value="receive Org Id" />
       <item value="produce" />
       <item value="general picking apply" />
-      <item value="Inventory" />
-      <item value="repeat Check" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1039" />
+        <entry key="CHINESE" value="1041" />
         <entry key="ENGLISH" value="1040" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
