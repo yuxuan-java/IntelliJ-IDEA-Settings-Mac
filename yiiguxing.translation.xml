@@ -1,10 +1,17 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogHeight" value="290" />
-    <option name="newTranslationDialogWidth" value="940" />
-    <option name="newTranslationDialogX" value="302" />
-    <option name="newTranslationDialogY" value="534" />
+    <option name="newTranslationDialogHeight" value="376" />
+    <option name="newTranslationDialogWidth" value="1118" />
+    <option name="newTranslationDialogX" value="771" />
+    <option name="newTranslationDialogY" value="399" />
     <histories>
+      <item value="Easy to use toolwindow that can perform JSON string manipulations directly in your IDE rather than finding websites to do it for you. git This plugin will:" />
+      <item value="Gitfox is a super fox living in the git world. He has the following skills: gitcommit commit specification, open source protocol generation." />
+      <item value="Test Management is a powerful tool for TMS integration. It supports Java, Kotlin, and Python, and provides many smart features for QA specialists." />
+      <item value="The AWS Toolkit for JetBrains makes it easier to write applications built on Amazon Web Services. If you come across bugs with the toolkit or have feature requests, please raise an issue on our GitHub repository." />
+      <item value="Powerful code generations&#10;Advanced routing, validation, request fields, gates &amp; policies, config, translations, views, and a lot of other completions&#10;Close to perfect understanding of Eloquent magic&#10;Full Blade components support&#10;Livewire, InertiaJs, Dusk, Laravel-modules, and other third-party packages support" />
+      <item value="Powerful code generations" />
+      <item value="This plugin provides an easy solution for using Gitmoji. Git-Commit-Guide solves the hassle of searching through the gitmoji list. Includes a bunch of options you can play with   This plugin will help you to choose and add the gitmoji, via a button in the Commit window, among a predefined list of emoticons coming from reference commit rules." />
       <item value="No Args Constructor" />
       <item value="String and code manipulations, performed on keyboard shortcut with detection of intended manipulation. The type of manipulation only has to be selected manually when multiple are possible." />
       <item value="Embeds a code minimap similar to the one found in Sublime into the editor pane. Works with both light and dark themes using your customized colors for syntax highlighting." />
@@ -48,17 +55,10 @@
       <item value="expected 1, actual 0" />
       <item value="Incorrect column count: expected 1, actual 6" />
       <item value="multiply" />
-      <item value="handle Decimals" />
-      <item value="negative Number" />
-      <item value="INVENTORY PROFIT INTO STORAGE" />
-      <item value="PROFIT" />
-      <item value="INVENTORY" />
-      <item value="receive Org Id" />
-      <item value="produce" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1041" />
+        <entry key="CHINESE" value="1048" />
         <entry key="ENGLISH" value="1041" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
