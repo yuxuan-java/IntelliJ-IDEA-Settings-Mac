@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="771" />
     <option name="newTranslationDialogY" value="399" />
     <histories>
+      <item value="supply" />
       <item value="Easy to use toolwindow that can perform JSON string manipulations directly in your IDE rather than finding websites to do it for you. git This plugin will:" />
       <item value="Gitfox is a super fox living in the git world. He has the following skills: gitcommit commit specification, open source protocol generation." />
       <item value="Test Management is a powerful tool for TMS integration. It supports Java, Kotlin, and Python, and provides many smart features for QA specialists." />
@@ -54,12 +55,11 @@
       <item value="Unrecognized" />
       <item value="expected 1, actual 0" />
       <item value="Incorrect column count: expected 1, actual 6" />
-      <item value="multiply" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1048" />
-        <entry key="ENGLISH" value="1041" />
+        <entry key="ENGLISH" value="1042" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
