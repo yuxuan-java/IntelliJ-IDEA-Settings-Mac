@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="771" />
     <option name="newTranslationDialogY" value="399" />
     <histories>
+      <item value="Enterprise POJO" />
+      <item value="enterprise POJO" />
       <item value="Certification" />
       <item value="supply" />
       <item value="Easy to use toolwindow that can perform JSON string manipulations directly in your IDE rather than finding websites to do it for you. git This plugin will:" />
@@ -53,8 +55,6 @@
       <item value="Using such generic exceptions as Error, RuntimeException, Throwable, and Exception prevents calling methods from handling true, system-generated exceptions differently than application-generated errors." />
       <item value="Nullable" />
       <item value="Truncated incorrect DOUBLE value" />
-      <item value="Unrecognized" />
-      <item value="expected 1, actual 0" />
     </histories>
     <option name="languageScores">
       <map>
@@ -74,7 +74,7 @@
         <entry key="NORWEGIAN" value="1" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="ESPERANTO" value="2" />
-        <entry key="SLOVENIAN" value="1" />
+        <entry key="SLOVENIAN" value="3" />
         <entry key="WELSH" value="1" />
         <entry key="SPANISH" value="1" />
         <entry key="HINDI" value="2" />
