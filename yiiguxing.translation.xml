@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="581" />
     <option name="newTranslationDialogY" value="737" />
     <histories>
+      <item value="Consider defining a bean of type" />
       <item value="enterprise Id" />
       <item value="Reg Fund From" />
       <item value="Supply" />
@@ -54,12 +55,11 @@
       <item value="access Key" />
       <item value="FAIL ON UNKNOWN PROPERTIES" />
       <item value="Feature that determines whether encountering of unknown properties" />
-      <item value="Http Message Not Readable Exception" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1049" />
-        <entry key="ENGLISH" value="1046" />
+        <entry key="ENGLISH" value="1047" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
