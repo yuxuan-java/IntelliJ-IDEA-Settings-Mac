@@ -74,7 +74,31 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
+        <option name="className" value="com.yonyou.ucf.mdf.api.rest.BudgetManagementController" />
+        <option name="method" value="occupy" />
+        <option name="methodDescription" value="领料申请-提交-预算占用" />
+        <option name="methodType" value="GET" />
+        <option name="module" value="dev-emsybdev-api" />
         <option name="originUrl" value="" />
+        <option name="requestParamMap">
+          <map>
+            <entry key="busTypeName">
+              <value>
+                <Object />
+              </value>
+            </entry>
+            <entry key="code">
+              <value>
+                <Object />
+              </value>
+            </entry>
+            <entry key="id">
+              <value>
+                <Object />
+              </value>
+            </entry>
+          </map>
+        </option>
       </ParamGroup>
     </option>
     <option name="randomStringLength" value="5" />
