@@ -292,6 +292,7 @@
     <keyboard-shortcut first-keystroke="meta f" />
   </action>
   <action id="Rerun" />
+  <action id="ResourceExplorer.show" />
   <action id="Resume">
     <keyboard-shortcut first-keystroke="f8" />
   </action>
@@ -325,9 +326,7 @@
   <action id="Stop">
     <keyboard-shortcut first-keystroke="shift meta s" />
   </action>
-  <action id="SurroundWith">
-    <keyboard-shortcut first-keystroke="shift ctrl t" />
-  </action>
+  <action id="SurroundWith" />
   <action id="ToggleLineBreakpoint" />
   <action id="TypeHierarchy" />
   <action id="UpdateRunningApplication" />
