@@ -1,0 +1,97 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogHeight" value="376" />
+    <option name="newTranslationDialogWidth" value="1118" />
+    <option name="newTranslationDialogX" value="581" />
+    <option name="newTranslationDialogY" value="737" />
+    <histories>
+      <item value="Fetchback Modal" />
+      <item value="Consider defining a bean of type" />
+      <item value="enterprise Id" />
+      <item value="Reg Fund From" />
+      <item value="Supply" />
+      <item value="qualify Ids" />
+      <item value="Enterprise POJO" />
+      <item value="enterprise POJO" />
+      <item value="Certification" />
+      <item value="supply" />
+      <item value="Easy to use toolwindow that can perform JSON string manipulations directly in your IDE rather than finding websites to do it for you. git This plugin will:" />
+      <item value="Gitfox is a super fox living in the git world. He has the following skills: gitcommit commit specification, open source protocol generation." />
+      <item value="Test Management is a powerful tool for TMS integration. It supports Java, Kotlin, and Python, and provides many smart features for QA specialists." />
+      <item value="The AWS Toolkit for JetBrains makes it easier to write applications built on Amazon Web Services. If you come across bugs with the toolkit or have feature requests, please raise an issue on our GitHub repository." />
+      <item value="Powerful code generations&#10;Advanced routing, validation, request fields, gates &amp; policies, config, translations, views, and a lot of other completions&#10;Close to perfect understanding of Eloquent magic&#10;Full Blade components support&#10;Livewire, InertiaJs, Dusk, Laravel-modules, and other third-party packages support" />
+      <item value="Powerful code generations" />
+      <item value="This plugin provides an easy solution for using Gitmoji. Git-Commit-Guide solves the hassle of searching through the gitmoji list. Includes a bunch of options you can play with   This plugin will help you to choose and add the gitmoji, via a button in the Commit window, among a predefined list of emoticons coming from reference commit rules." />
+      <item value="No Args Constructor" />
+      <item value="String and code manipulations, performed on keyboard shortcut with detection of intended manipulation. The type of manipulation only has to be selected manually when multiple are possible." />
+      <item value="Embeds a code minimap similar to the one found in Sublime into the editor pane. Works with both light and dark themes using your customized colors for syntax highlighting." />
+      <item value="count Unreceived By Order Id" />
+      <item value="count Unfinished Num By Order Id" />
+      <item value="unfinish Num" />
+      <item value="count Unfinish Num By Order Id" />
+      <item value="unfinished Num" />
+      <item value="THIRD PART" />
+      <item value="reject receive" />
+      <item value="cancellation" />
+      <item value="COLLECTION" />
+      <item value="EXCLUDE ES TYPE LIST" />
+      <item value="inventory" />
+      <item value="OCCUPY API NAME" />
+      <item value="OPERATE FIXED VALUE" />
+      <item value="shipping Create" />
+      <item value="Null pointers should not be dereferenced" />
+      <item value="cancel" />
+      <item value="CANCEL" />
+      <item value="CANCLE" />
+      <item value="delivery Order Service" />
+      <item value="FAILURE" />
+      <item value="Cross Origin" />
+      <item value="Operate fixed value" />
+      <item value="get Material Out Request Es Type parsing failed" />
+      <item value="Illegal Argument Exception" />
+      <item value="engineer Material" />
+      <item value="split" />
+      <item value="scrapped" />
+      <item value="secret Key" />
+      <item value="access Key" />
+      <item value="FAIL ON UNKNOWN PROPERTIES" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="1049" />
+        <entry key="ENGLISH" value="1048" />
+        <entry key="CHINESE_TRADITIONAL" value="1" />
+        <entry key="POLISH" value="2" />
+        <entry key="DANISH" value="3" />
+        <entry key="GERMAN" value="2" />
+        <entry key="FRENCH" value="2" />
+        <entry key="FINNISH" value="1" />
+        <entry key="CATALAN" value="3" />
+        <entry key="CROATIAN" value="1" />
+        <entry key="KURDISH" value="2" />
+        <entry key="LATIN" value="1" />
+        <entry key="ROMANIAN" value="3" />
+        <entry key="NORWEGIAN" value="1" />
+        <entry key="PORTUGUESE" value="2" />
+        <entry key="ESPERANTO" value="2" />
+        <entry key="SLOVENIAN" value="3" />
+        <entry key="WELSH" value="1" />
+        <entry key="SPANISH" value="1" />
+        <entry key="HINDI" value="2" />
+        <entry key="INDONESIAN" value="2" />
+        <entry key="JAVANESE" value="1" />
+        <entry key="VIETNAMESE" value="2" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1658129781843" />
+  </component>
+  <component name="Settings">
+    <option name="keepFormat" value="true" />
+    <option name="phoneticFontFamily" value="Consolas" />
+    <option name="primaryFontFamily" value="Consolas" />
+    <option name="showReplacementActionInContextMenu" value="true" />
+    <option name="translateDocumentation" value="true" />
+  </component>
+</application>

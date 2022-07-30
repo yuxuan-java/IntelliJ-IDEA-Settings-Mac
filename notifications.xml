@@ -1,0 +1,8 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="JRebel non-sticky" shouldLog="false" />
+    <notification groupId="Run Dashboard" displayType="NONE" shouldLog="false" />
+    <notification groupId="Settings Error" displayType="NONE" shouldLog="false" />
+    <notification groupId="Spring Configuration Check" displayType="STICKY_BALLOON" shouldLog="false" />
+  </component>
+</application>

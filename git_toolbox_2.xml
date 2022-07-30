@@ -1,0 +1,30 @@
+<application>
+  <component name="GitToolBoxAppSettings2">
+    <option name="blameInlineAuthorNameType" value="FULL" />
+    <option name="blameStatusAuthorNameType" value="FULL" />
+    <option name="decorationParts">
+      <list>
+        <DecorationPartConfig>
+          <option name="type" value="BRANCH" />
+        </DecorationPartConfig>
+        <DecorationPartConfig>
+          <option name="type" value="STATUS" />
+        </DecorationPartConfig>
+        <DecorationPartConfig>
+          <option name="postfix" value=")" />
+          <option name="prefix" value="(" />
+          <option name="type" value="TAGS_ON_HEAD" />
+        </DecorationPartConfig>
+        <DecorationPartConfig>
+          <option name="prefix" value="/ " />
+          <option name="type" value="CHANGED_COUNT" />
+        </DecorationPartConfig>
+        <DecorationPartConfig>
+          <option name="type" value="LOCATION" />
+        </DecorationPartConfig>
+      </list>
+    </option>
+    <option name="previousVersionMigrated" value="true" />
+    <option name="version" value="4" />
+  </component>
+</application>
