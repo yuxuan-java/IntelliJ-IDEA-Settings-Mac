@@ -77,7 +77,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="pvsfs" value="private static final String" description="private static final String" toReformat="false" toShortenFQNames="true">
+  <template name="pvsfs" value="private static final String " description="private static final String" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
