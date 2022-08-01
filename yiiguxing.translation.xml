@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="797" />
     <option name="newTranslationDialogY" value="366" />
     <histories>
+      <item value="html Unescape" />
+      <item value="html Escape Hex" />
+      <item value="html Escape" />
       <item value="Supports selecting multiple projects at once to operate for Git and GitLab" />
       <item value="A light tool that enables you to test your HTTP or Dubbo API or GRPC API quickly and easily. For developers to manually validate APIs without additional test code." />
       <item value="Fetchback Modal" />
@@ -52,14 +55,11 @@
       <item value="get Material Out Request Es Type parsing failed" />
       <item value="Illegal Argument Exception" />
       <item value="engineer Material" />
-      <item value="split" />
-      <item value="scrapped" />
-      <item value="secret Key" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1051" />
-        <entry key="ENGLISH" value="1048" />
+        <entry key="ENGLISH" value="1052" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
