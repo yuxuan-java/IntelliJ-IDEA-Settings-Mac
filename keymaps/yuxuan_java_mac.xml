@@ -327,6 +327,16 @@
     <keyboard-shortcut first-keystroke="shift meta s" />
   </action>
   <action id="SurroundWith" />
+  <action id="Terminal.CopySelectedText">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+    <keyboard-shortcut first-keystroke="ctrl insert" />
+    <keyboard-shortcut first-keystroke="meta c" />
+  </action>
+  <action id="Terminal.Paste">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+    <keyboard-shortcut first-keystroke="shift insert" />
+    <keyboard-shortcut first-keystroke="meta v" />
+  </action>
   <action id="ToggleLineBreakpoint" />
   <action id="TypeHierarchy" />
   <action id="UpdateRunningApplication" />
