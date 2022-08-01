@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="797" />
     <option name="newTranslationDialogY" value="366" />
     <histories>
+      <item value="Update your application's configuration" />
       <item value="Cross Origin" />
       <item value="html Unescape" />
       <item value="html Escape Hex" />
@@ -54,12 +55,11 @@
       <item value="Operate fixed value" />
       <item value="get Material Out Request Es Type parsing failed" />
       <item value="Illegal Argument Exception" />
-      <item value="engineer Material" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1052" />
-        <entry key="ENGLISH" value="1053" />
+        <entry key="CHINESE" value="1053" />
+        <entry key="ENGLISH" value="1054" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
