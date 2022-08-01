@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="temp" type="AUTO_DETECTED" />
+      <removed_mapping ext="es" type="ActionScript" />
+      <mapping ext="es" type="Elasticsearch" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
