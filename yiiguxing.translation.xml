@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="797" />
     <option name="newTranslationDialogY" value="366" />
     <histories>
+      <item value="Abstract Main Entrance" />
       <item value="ulisesbocchio" />
       <item value="Update your application's configuration" />
       <item value="Cross Origin" />
@@ -54,12 +55,11 @@
       <item value="delivery Order Service" />
       <item value="FAILURE" />
       <item value="Operate fixed value" />
-      <item value="get Material Out Request Es Type parsing failed" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1054" />
-        <entry key="ENGLISH" value="1054" />
+        <entry key="ENGLISH" value="1055" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
