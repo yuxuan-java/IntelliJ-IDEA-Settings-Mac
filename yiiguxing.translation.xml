@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="797" />
     <option name="newTranslationDialogY" value="366" />
     <histories>
+      <item value="SQL Injections Param" />
       <item value="Abstract Main Entrance" />
       <item value="ulisesbocchio" />
       <item value="Update your application's configuration" />
@@ -54,12 +55,11 @@
       <item value="CANCLE" />
       <item value="delivery Order Service" />
       <item value="FAILURE" />
-      <item value="Operate fixed value" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1054" />
-        <entry key="ENGLISH" value="1055" />
+        <entry key="CHINESE" value="1055" />
+        <entry key="ENGLISH" value="1056" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="3" />
