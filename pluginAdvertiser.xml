@@ -9,17 +9,17 @@
                 <map>
                   <entry key="#com.intellij.j2ee.web.jsr45.JSR45ConfigurationFactory">
                     <value>
-                      <FeaturePluginData displayName="JSR45 兼容服务器" pluginName="Debugger Support for JSP (JSR45)" pluginId="JSR45Plugin" bundled="true" />
+                      <FeaturePluginData displayName="JSR45 Compatible Server" pluginName="Debugger Support for JSP (JSR45)" pluginId="JSR45Plugin" bundled="true" />
                     </value>
                   </entry>
                   <entry key="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory">
                     <value>
-                      <FeaturePluginData displayName="Tomcat 服务器" pluginName="Tomcat and TomEE" pluginId="Tomcat" bundled="true" />
+                      <FeaturePluginData displayName="Tomcat Server" pluginName="Tomcat and TomEE" pluginId="Tomcat" bundled="true" />
                     </value>
                   </entry>
                   <entry key="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="插件" pluginName="Plugin DevKit" pluginId="DevKit" bundled="true" />
+                      <FeaturePluginData displayName="Plugin" pluginName="Plugin DevKit" pluginId="DevKit" bundled="true" />
                     </value>
                   </entry>
                   <entry key="AndroidJUnit">
@@ -29,7 +29,7 @@
                   </entry>
                   <entry key="AndroidRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Android 应用" pluginName="Android" pluginId="org.jetbrains.android" bundled="true" />
+                      <FeaturePluginData displayName="Android App" pluginName="Android" pluginId="org.jetbrains.android" bundled="true" />
                     </value>
                   </entry>
                   <entry key="AndroidTestRunConfigurationType">
@@ -39,12 +39,12 @@
                   </entry>
                   <entry key="AntRunConfiguration">
                     <value>
-                      <FeaturePluginData displayName="Ant 目标" pluginName="Ant" pluginId="AntSupport" bundled="true" />
+                      <FeaturePluginData displayName="Ant Target" pluginName="Ant" pluginId="AntSupport" bundled="true" />
                     </value>
                   </entry>
                   <entry key="Application">
                     <value>
-                      <FeaturePluginData displayName="应用程序" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
+                      <FeaturePluginData displayName="Application" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
                     </value>
                   </entry>
                   <entry key="ArquillianJUnit">
@@ -69,7 +69,7 @@
                   </entry>
                   <entry key="ChromiumRemoteDebugType">
                     <value>
-                      <FeaturePluginData displayName="附加到 Node.js/Chrome" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" bundled="true" />
+                      <FeaturePluginData displayName="Attach to Node.js/Chrome" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" bundled="true" />
                     </value>
                   </entry>
                   <entry key="ComposePreviewRunConfiguration">
@@ -79,7 +79,7 @@
                   </entry>
                   <entry key="CompoundRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="复合" pluginName="IDEA CORE" pluginId="com.intellij" bundled="true" />
+                      <FeaturePluginData displayName="Compound" pluginName="IDEA CORE" pluginId="com.intellij" bundled="true" />
                     </value>
                   </entry>
                   <entry key="CucumberJavaRunConfigurationType">
@@ -89,7 +89,7 @@
                   </entry>
                   <entry key="DatabaseScript">
                     <value>
-                      <FeaturePluginData displayName="数据库脚本" pluginName="Database Tools and SQL" pluginId="com.intellij.database" bundled="true" />
+                      <FeaturePluginData displayName="Database Script" pluginName="Database Tools and SQL" pluginId="com.intellij.database" bundled="true" />
                     </value>
                   </entry>
                   <entry key="FirefoxRemoteDebugType">
@@ -99,7 +99,7 @@
                   </entry>
                   <entry key="GlassfishConfiguration">
                     <value>
-                      <FeaturePluginData displayName="GlassFish 服务器" pluginName="GlassFish" pluginId="GlassFish" bundled="true" />
+                      <FeaturePluginData displayName="GlassFish Server" pluginName="GlassFish" pluginId="GlassFish" bundled="true" />
                     </value>
                   </entry>
                   <entry key="GradleRunConfiguration">
@@ -119,12 +119,12 @@
                   </entry>
                   <entry key="HttpClient.HttpRequestRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="HTTP 请求" pluginName="HTTP Client" pluginId="com.jetbrains.restClient" bundled="true" />
+                      <FeaturePluginData displayName="HTTP Request" pluginName="HTTP Client" pluginId="com.jetbrains.restClient" bundled="true" />
                     </value>
                   </entry>
                   <entry key="JBossConfiguration">
                     <value>
-                      <FeaturePluginData displayName="JBoss/WildFly 服务器" pluginName="WildFly" pluginId="JBoss" bundled="true" />
+                      <FeaturePluginData displayName="JBoss/WildFly Server" pluginName="WildFly" pluginId="JBoss" bundled="true" />
                     </value>
                   </entry>
                   <entry key="JUnit">
@@ -134,12 +134,12 @@
                   </entry>
                   <entry key="JarApplication">
                     <value>
-                      <FeaturePluginData displayName="JAR 应用程序" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
+                      <FeaturePluginData displayName="JAR Application" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
                     </value>
                   </entry>
                   <entry key="Java Scratch">
                     <value>
-                      <FeaturePluginData displayName="Java 草稿" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
+                      <FeaturePluginData displayName="Java Scratch" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
                     </value>
                   </entry>
                   <entry key="JavaScriptNodeJsTraceType">
@@ -164,7 +164,7 @@
                   </entry>
                   <entry key="JavascriptDebugType">
                     <value>
-                      <FeaturePluginData displayName="JavaScript 调试" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" bundled="true" />
+                      <FeaturePluginData displayName="JavaScript Debug" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" bundled="true" />
                     </value>
                   </entry>
                   <entry key="JetRunConfigurationType">
@@ -174,7 +174,7 @@
                   </entry>
                   <entry key="JettyConfiguration">
                     <value>
-                      <FeaturePluginData displayName="Jetty 服务器" pluginName="Jetty" pluginId="Jetty" bundled="true" />
+                      <FeaturePluginData displayName="Jetty Server" pluginName="Jetty" pluginId="Jetty" bundled="true" />
                     </value>
                   </entry>
                   <entry key="KotlinJavaScriptTestRunnerProtractor">
@@ -224,17 +224,17 @@
                   </entry>
                   <entry key="Remote">
                     <value>
-                      <FeaturePluginData displayName="远程 JVM 调试" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
+                      <FeaturePluginData displayName="Remote JVM Debug" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
                     </value>
                   </entry>
                   <entry key="ShConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Shell 脚本(BashSupport Pro提供)" pluginName="BashSupport Pro" pluginId="pro.bashsupport" />
+                      <FeaturePluginData displayName="Shell Script (by BashSupport Pro)" pluginName="BashSupport Pro" pluginId="pro.bashsupport" />
                     </value>
                   </entry>
                   <entry key="SpaceRunConfiguration">
                     <value>
-                      <FeaturePluginData displayName="Space 任务" pluginName="Space" pluginId="com.jetbrains.space" bundled="true" />
+                      <FeaturePluginData displayName="Space Task" pluginName="Space" pluginId="com.jetbrains.space" bundled="true" />
                     </value>
                   </entry>
                   <entry key="SpringBootApplicationConfigurationType">
@@ -249,7 +249,7 @@
                   </entry>
                   <entry key="TSqltConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="tSQLt 测试" pluginName="Database Tools and SQL" pluginId="com.intellij.database" bundled="true" />
+                      <FeaturePluginData displayName="tSQLt Test" pluginName="Database Tools and SQL" pluginId="com.intellij.database" bundled="true" />
                     </value>
                   </entry>
                   <entry key="TailRunConfiguration">
@@ -264,22 +264,22 @@
                   </entry>
                   <entry key="TomeeConfiguration">
                     <value>
-                      <FeaturePluginData displayName="TomEE 服务器" pluginName="Tomcat and TomEE" pluginId="Tomcat" bundled="true" />
+                      <FeaturePluginData displayName="TomEE Server" pluginName="Tomcat and TomEE" pluginId="Tomcat" bundled="true" />
                     </value>
                   </entry>
                   <entry key="UtPlSqlConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="utPLSQL 测试" pluginName="Database Tools and SQL" pluginId="com.intellij.database" bundled="true" />
+                      <FeaturePluginData displayName="utPLSQL Test" pluginName="Database Tools and SQL" pluginId="com.intellij.database" bundled="true" />
                     </value>
                   </entry>
                   <entry key="WebLogic Instance">
                     <value>
-                      <FeaturePluginData displayName="WebLogic 服务器" pluginName="WebLogic" pluginId="Weblogic" bundled="true" />
+                      <FeaturePluginData displayName="WebLogic Server" pluginName="WebLogic" pluginId="Weblogic" bundled="true" />
                     </value>
                   </entry>
                   <entry key="WebSphereRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="WebSphere/Liberty 服务器" pluginName="WebSphere" pluginId="WebSphere" bundled="true" />
+                      <FeaturePluginData displayName="WebSphere/Liberty Server" pluginName="WebSphere" pluginId="WebSphere" bundled="true" />
                     </value>
                   </entry>
                   <entry key="XSLT">
@@ -339,7 +339,7 @@
                   </entry>
                   <entry key="WebServicesClient">
                     <value>
-                      <FeaturePluginData displayName="WebService 客户端" pluginName="Java EE: Web Services (JAX-WS)" pluginId="com.jetbrains.jax.ws" bundled="true" />
+                      <FeaturePluginData displayName="WebServices Client" pluginName="Java EE: Web Services (JAX-WS)" pluginId="com.jetbrains.jax.ws" bundled="true" />
                     </value>
                   </entry>
                   <entry key="android">
@@ -374,7 +374,7 @@
                   </entry>
                   <entry key="javaeeApplication">
                     <value>
-                      <FeaturePluginData displayName="JavaEE 应用程序" pluginName="Java EE Platform" pluginId="com.intellij.javaee" bundled="true" />
+                      <FeaturePluginData displayName="JavaEE Application" pluginName="Java EE Platform" pluginId="com.intellij.javaee" bundled="true" />
                     </value>
                   </entry>
                   <entry key="jpa">
@@ -399,7 +399,7 @@
                   </entry>
                   <entry key="webservices">
                     <value>
-                      <FeaturePluginData displayName="WebService" pluginName="Java EE: Web Services (JAX-WS)" pluginId="com.jetbrains.jax.ws" bundled="true" />
+                      <FeaturePluginData displayName="WebServices" pluginName="Java EE: Web Services (JAX-WS)" pluginId="com.jetbrains.jax.ws" bundled="true" />
                     </value>
                   </entry>
                 </map>
@@ -414,27 +414,27 @@
                 <map>
                   <entry key="ear">
                     <value>
-                      <FeaturePluginData displayName="Java EE 应用程序: 存档" pluginName="Java EE Platform" pluginId="com.intellij.javaee" bundled="true" />
+                      <FeaturePluginData displayName="Java EE Application: Archive" pluginName="Java EE Platform" pluginId="com.intellij.javaee" bundled="true" />
                     </value>
                   </entry>
                   <entry key="ejb-jar">
                     <value>
-                      <FeaturePluginData displayName="EJB 应用程序: 存档" pluginName="Java EE Platform" pluginId="com.intellij.javaee" bundled="true" />
+                      <FeaturePluginData displayName="EJB Application: Archive" pluginName="Java EE Platform" pluginId="com.intellij.javaee" bundled="true" />
                     </value>
                   </entry>
                   <entry key="exploded-ear">
                     <value>
-                      <FeaturePluginData displayName="Java EE 应用程序: 展开型" pluginName="Java EE Platform" pluginId="com.intellij.javaee" bundled="true" />
+                      <FeaturePluginData displayName="Java EE Application: Exploded" pluginName="Java EE Platform" pluginId="com.intellij.javaee" bundled="true" />
                     </value>
                   </entry>
                   <entry key="exploded-ejb">
                     <value>
-                      <FeaturePluginData displayName="EJB 应用程序: 展开型" pluginName="Java EE Platform" pluginId="com.intellij.javaee" bundled="true" />
+                      <FeaturePluginData displayName="EJB Application: Exploded" pluginName="Java EE Platform" pluginId="com.intellij.javaee" bundled="true" />
                     </value>
                   </entry>
                   <entry key="exploded-war">
                     <value>
-                      <FeaturePluginData displayName="Web 应用程序: 展开型" pluginName="Java EE Platform" pluginId="com.intellij.javaee" bundled="true" />
+                      <FeaturePluginData displayName="Web Application: Exploded" pluginName="Java EE Platform" pluginId="com.intellij.javaee" bundled="true" />
                     </value>
                   </entry>
                   <entry key="jar">
@@ -444,12 +444,12 @@
                   </entry>
                   <entry key="javafx">
                     <value>
-                      <FeaturePluginData displayName="JavaFx 应用程序" pluginName="JavaFX" pluginId="org.jetbrains.plugins.javaFX" bundled="true" />
+                      <FeaturePluginData displayName="JavaFx application" pluginName="JavaFX" pluginId="org.jetbrains.plugins.javaFX" bundled="true" />
                     </value>
                   </entry>
                   <entry key="javafx-preloader">
                     <value>
-                      <FeaturePluginData displayName="JavaFx 预加载程序" pluginName="JavaFX" pluginId="org.jetbrains.plugins.javaFX" bundled="true" />
+                      <FeaturePluginData displayName="JavaFx preloader" pluginName="JavaFX" pluginId="org.jetbrains.plugins.javaFX" bundled="true" />
                     </value>
                   </entry>
                   <entry key="jpackage">
@@ -459,12 +459,12 @@
                   </entry>
                   <entry key="plain">
                     <value>
-                      <FeaturePluginData displayName="其它" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
+                      <FeaturePluginData displayName="Other" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
                     </value>
                   </entry>
                   <entry key="war">
                     <value>
-                      <FeaturePluginData displayName="Web 应用程序: 存档" pluginName="Java EE Platform" pluginId="com.intellij.javaee" bundled="true" />
+                      <FeaturePluginData displayName="Web Application: Archive" pluginName="Java EE Platform" pluginId="com.intellij.javaee" bundled="true" />
                     </value>
                   </entry>
                 </map>
