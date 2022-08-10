@@ -1,5 +1,6 @@
 <application>
   <component name="NotificationConfiguration">
+    <notification groupId="File type recognized" displayType="NONE" />
     <notification groupId="JRebel non-sticky" shouldLog="false" />
     <notification groupId="Run Dashboard" displayType="NONE" shouldLog="false" />
     <notification groupId="Settings Error" displayType="NONE" shouldLog="false" />
