@@ -2,8 +2,6 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="temp" type="AUTO_DETECTED" />
-      <mapping ext="es" type="ActionScript" />
-      <removed_mapping ext="es" type="Elasticsearch" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
@@ -12,6 +10,7 @@
       <removed_mapping ext="bat" approved="true" type="Batch" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="Batch" />
+      <removed_mapping ext="es" type="Elasticsearch" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="log" approved="true" type="Catdea" />
       <removed_mapping ext="log" approved="true" type="Log" />
