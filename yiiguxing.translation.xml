@@ -2,9 +2,13 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="376" />
     <option name="newTranslationDialogWidth" value="1118" />
-    <option name="newTranslationDialogX" value="797" />
-    <option name="newTranslationDialogY" value="366" />
+    <option name="newTranslationDialogX" value="424" />
+    <option name="newTranslationDialogY" value="390" />
     <histories>
+      <item value="A Personal Plugin built during my free time to make IntelliJ more Swiss-AS compatible (traffic light, sonar critical warnings, Multilangue, etc...)" />
+      <item value="Integration of Sonargraph's functionality into IntelliJ IDE." />
+      <item value="Perform Sonar code analysis on Java projects, view code analysis reports, and prompt problem codes. All you have to do is to bind SonarQube, and you can use all functions without leaving the IDE. Support code analysis by scope, such as project files, module files, package files, changelist files, open files, and selected files. The report shows support for filtering and marking resolved issues." />
+      <item value="SonarQube Analyzer connects SonarQube server with Intellij Idea products." />
       <item value="SQL Injections Param" />
       <item value="Abstract Main Entrance" />
       <item value="ulisesbocchio" />
@@ -51,14 +55,10 @@
       <item value="shipping Create" />
       <item value="Null pointers should not be dereferenced" />
       <item value="cancel" />
-      <item value="CANCEL" />
-      <item value="CANCLE" />
-      <item value="delivery Order Service" />
-      <item value="FAILURE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1055" />
+        <entry key="CHINESE" value="1059" />
         <entry key="ENGLISH" value="1056" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="POLISH" value="2" />
